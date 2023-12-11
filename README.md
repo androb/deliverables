@@ -1,8 +1,9 @@
-# Deliverables
+
+# AI Deliverables
 
 This repo is a set of prompts and related bots for generating large, useful documents for startup founders, CEOs and executives.
 
-## Document Gneerators
+## Document Generators
 
 * [Interview Playbook Generator](interviewplaybook/readme.md) - a very detailed guide for interviewers based on a job description and understanding of a company's values.
 
