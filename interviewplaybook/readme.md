@@ -4,6 +4,7 @@
 
 ## Examples
 
+[example-yc-infra-engineer.md](Infrastructure Engineer at YCombinator)
 
 
 ## Bots
