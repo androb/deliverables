@@ -54,7 +54,7 @@ $interview_structure
 
 ## Technical Assessment
 
-### $Technical_Competency_1
+### Technical Competency 1: $Technical_Competency_1
 
 _$description_
 
@@ -80,7 +80,7 @@ $scenario
 4. $guidefor_4
 5. $guidefor_5
 
-### $Technical_Competency_2
+### Technical Competency 2: $Technical_Competency_2
 
 _$description_
 
@@ -106,7 +106,7 @@ $scenario
 4. $guidefor_4
 5. $guidefor_5
  
- ### $Technical_Competency_3
+ ### Technical Competency 3:  $Technical_Competency_3
 
 _$description_
 
@@ -132,7 +132,7 @@ $scenario
 4. $guidefor_4
 5. $guidefor_5
 
-### $Technical_Competency_4
+### Technical Competency 4: $Technical_Competency_4
 
 _$description_
 
@@ -158,7 +158,7 @@ $scenario
 4. $guidefor_4
 5. $guidefor_5
 
-### $Technical_Competency_5
+### Technical Competency 5: $Technical_Competency_5
 
 _$description_
 
@@ -189,7 +189,7 @@ $scenario
 
 %for each competency
 
-### $Competency
+### Behavioral Competence $N: $Competency
 
 _$description_
 

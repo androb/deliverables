@@ -1,4 +1,4 @@
-### Interview Playbook for Customer Success Manager at Frontier Shield
+# Interview Playbook for Customer Success Manager at Frontier Shield
 
 ## Introduction
 
