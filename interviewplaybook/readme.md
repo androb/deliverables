@@ -1,6 +1,10 @@
 
 # Interview Playbook Generator
 
+This GPT will help you prepare as an interviewer and level up your recruitment skills.
+
+## Overview
+
 🌟 Find Your A-Players with Ease: With the Interview Playbook Generator, we're transforming the way you hire. Say goodbye to generic interview questions and hello to a bespoke, values-driven approach that aligns perfectly with your company culture and job requirements.
 
 🔍 Tailored to Your Company's DNA: Our tool meticulously researches your company's values, industry, and specific roles to craft an interview guide that feels like it's made just for you. Whether you're a scrappy startup or a Fortune 500 giant, our playbooks are designed to elevate your hiring strategy.

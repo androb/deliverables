@@ -1,5 +1,5 @@
 
-# Customer Success Manager Job Description
+# Job Description
 
 ## Job Title
 Customer Success Manager
