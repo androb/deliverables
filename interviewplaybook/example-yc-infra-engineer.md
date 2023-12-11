@@ -1,6 +1,6 @@
 
 
-
+See [full ChatGPT transcript](https://chat.openai.com/share/3bd5cdc5-6919-410c-a40b-16ec6ca65056) of how this guide was generated using the [Interview Playbook Generator](https://chat.openai.com/g/g-vAaRbdLsn-interview-playbook-generator).
 
 
 # Interview Playbook for Infrastructure Software Engineer at Y Combinator

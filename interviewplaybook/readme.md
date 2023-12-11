@@ -4,13 +4,13 @@
 
 ## Examples
 
-[example-yc-infra-engineer.md](Infrastructure Engineer at YCombinator)
+* [Infrastructure Engineer](example-yc-infra-engineer.md) at YCombinator
+
 
 
 ## Bots
 
-ChatGPT "GPT": 
-
+* [ChatGPT Interview Playbook Generator GPT](https://chat.openai.com/g/g-vAaRbdLsn-interview-playbook-generator) 
 
 
 ## Prompt
