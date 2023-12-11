@@ -1,16 +1,16 @@
 
-### Sarah Lee Resume
+# Sarah Lee Resume
 
-#### Contact Information
+## Contact Information
 - **Name:** Sarah Lee
 - **Address:** 123 Main Street, City, State, 12345
 - **Email:** sarahlee@email.com
 - **Phone:** 555-123-4567
 
-#### Summary
+## Summary
 Customer-focused success professional with 5+ years of experience in post-sales support and account management roles in the technology and cybersecurity industries. Skilled at onboarding, training, and advising clients to increase adoption and satisfaction. Talent for identifying expansion opportunities and driving growth through top-notch customer service.
 
-#### Skills
+## Skills
 - Client Success Strategies
 - Account Expansion & Renewal
 - Customer Advocacy
@@ -20,11 +20,11 @@ Customer-focused success professional with 5+ years of experience in post-sales 
 - Contract Negotiation
 - Team Leadership
 
-#### Technical Skills
+## Technical Skills
 - CRM Platforms: Salesforce, Zoho
 - Cybersecurity: IDS/IPS, SIEM, malware/ransomware protection
 
-#### Experience
+## Experience
 **Acme Technologies, City, State | 2017 – Present**
 _Customer Success Manager_
 - Managed post-sales relationships and onboarded 150+ new clients over 4 years.
@@ -38,6 +38,6 @@ _Account Manager_
 - Developed customer onboarding program reducing ramp-up time by 30%.
 - Created targeted upsell campaigns and consistently hit monthly renewal targets.
 
-#### Education
+## Education
 **Bachelor of Science in Business Administration**
 State University, City, State
