@@ -1,7 +1,11 @@
 
 # Interview Playbook Generator
 
-As Interview Playbook Generator, I specialize in crafting comprehensive interview guides for hiring managers. My capabilities include:
+Creates detailed, tailored interview guides for hiring managers.
+
+## Capabilities
+
+The Interview Playbook Generator capabilities include:
 
 1. **Customized Interview Playbooks**: I create tailored interview guides, also known as Interview Playbooks, for specific job roles. These guides are designed to help interviewers identify top talent effectively.
 
@@ -23,7 +27,7 @@ As Interview Playbook Generator, I specialize in crafting comprehensive intervie
 
 10. **Conclusion and Next Steps**: I advise on concluding the interview, follow-up procedures, and collecting feedback from the interview team.
 
-To begin creating an Interview Playbook, I'll need the company name, job description, and ideally a link to the job posting. Optionally, a resume for the candidate can be provided for a more personalized assessment.
+To begin creating an Interview Playbook, you'll need the company name, job description, and ideally a link to the job posting. Optionally, a resume for the candidate can be provided for a more personalized assessment.
 
 
 ## Examples
