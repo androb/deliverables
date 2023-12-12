@@ -1,7 +1,9 @@
 
 # AI Deliverables
 
-This repo is a set of prompts and related bots for generating large, useful documents for startup founders, CEOs and executives.
+This repo is a set of prompts and related bots for generating large, useful documents for startup founders, CEOs and executives from GPT-4.
+
+These prompts push the capabilities of GPT-4 quite a bit, and will take many minutes to produce the result. They are, however, designed to save you hours of work.
 
 ## Document Generators
 
