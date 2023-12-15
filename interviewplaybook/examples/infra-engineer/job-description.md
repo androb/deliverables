@@ -1,18 +1,20 @@
-# Infrastructure Software Engineer
+# Job Description
 
-## Location
+## Infrastructure Software Engineer
+
+### Location
 San Francisco Bay Area
 
-## Type
+### Type
 Full time
 
-## Department
+### Department
 Software
 
-## About
+### About
 Y Combinator is the leading startup accelerator for entrepreneurs. Since 2005, YC has invested in over 4,000 companies, including Airbnb, Dropbox, Stripe, Reddit, Instacart, DoorDash, and Coinbase. Today, YC has built the most powerful startup community in the world alongside the products and programs to support founders for the life of their company.
 
-## Job Description
+### Job Description
 Y Combinator is seeking an Infrastructure Software Engineer who will help manage and evolve the shared infrastructure that our software runs on. We have a team of approximately 15 Product Engineers who develop YC’s software products. Those products are developed in Ruby on Rails and run in AWS. Our team’s job is to provide a platform so our Product Engineers don’t have to think (as much) about infrastructure.
 
 The ideal candidate will have experience debugging and developing a very broad stack. They’re comfortable talking about HTTP caching, AWS security groups, Rails monkey patching, n+1 queries in Active Record, CSRF protection, and React components.
