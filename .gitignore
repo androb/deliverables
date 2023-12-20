@@ -9,4 +9,5 @@ some-other-file.txt
 
 # Ignore a whole directory
 temp_files/
+interviewplaybook/temp_files
 venv/
