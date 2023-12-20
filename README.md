@@ -17,3 +17,8 @@ Open an issue for any problems or requests for changes.
 
 Open a pull request for any improvements you would like to suggest.
 
+
+## Dependencies
+
+Pandoc 
+Weasyprint

@@ -8,4 +8,5 @@ some-other-file.txt
 *.log
 
 # Ignore a whole directory
-node_modules/
+temp_files/
+venv/
