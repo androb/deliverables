@@ -68,7 +68,6 @@ _$description_
 #### Lead Question
 
 $lead_question
-
 _$lead_question_tips_
 
 #### Probing Questions
@@ -100,7 +99,6 @@ _$description_
 #### Lead Question
 
 $lead_question
-
 _$lead_question_tips_
 
 #### Probing Questions

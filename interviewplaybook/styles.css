@@ -1,0 +1,157 @@
+
+body {
+    font-family: Source Sans Pro;
+    font-size: 11pt;
+    font-weight: 200;
+    font-stretch: 75% 125%;
+    color:#0D0D0D;
+}
+@page {
+    margin: 0.65in;
+    size: Letter;
+    @bottom-right {
+      content: counter(page);
+      font-size: 11pt;
+      color: #73706C;
+    }
+}
+@page :first {
+    @bottom-right {
+      content: none;
+    }
+}
+
+
+h1, h2, h3, h4 {
+    font-family: Libre Baskerville;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+h1 {
+    font-size: 24pt;
+    margin-top: 3em;
+    page-break-after: avoid;
+}
+.intro h1{
+    font-size: 50pt;
+    margin-top: 3em;
+    page-break-after: always;
+}
+@media print {
+  /* Define styles for the cover page */
+  .title {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #F2F2F2; /* Change as needed */
+    color: #0D0D0D; /* Change as needed */
+    text-align: center;
+    padding: 50px;
+  }
+}
+.publication-date {
+  position: absolute;
+  bottom: 10px; /* adjust as needed */
+  width: 100%;
+  text-align: left;
+  font-size: 11pt; /* adjust as needed */
+  color: #73706C; /* adjust as needed */
+}
+
+
+h2 {
+    font-size: 18pt;
+    page-break-after: avoid;
+}
+h3 {
+    font-size: 14pt;
+    page-break-after: avoid;
+}
+h4 {
+    font-size: 12pt;
+    page-break-after: avoid;
+}
+p {
+    margin-bottom: 1em;
+}
+
+
+h1, h2, h3, h4 {
+    page-break-after: avoid;
+}
+
+p, table, figure {
+    page-break-inside: avoid;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1em;
+    page-break-before: avoid;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    font-size: 10pt;
+}
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+tr:nth-child(even) {{background-color: #f9f9f9;}}
+
+ul, ol {
+    margin-bottom: 1em;
+    margin-left: 0;
+    padding-left:1.5em;
+}
+li {
+    margin-bottom: 0.5em;
+    margin-left: 0em;
+}
+
+.main {
+  page-break-before: always;
+}
+
+.dotted-line {
+    border-bottom: 1px dotted black;
+    width: 100%;
+    margin-top: 20px; /* This ensures spacing between each line */
+    margin-bottom: 20px; /* Adjust if needed */
+}
+
+@media print {
+    .dotted-line {
+        margin-top: 20px; /* Adjust as needed for printing */
+        margin-bottom: 20px; /* Adjust as needed for printing */
+    }
+}
+
+.rating-container {
+    display: flex;
+    align-items: flex-end;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.rating-container label {
+    margin-right: 10px;
+    font-size: 10pt;
+    font-family: Source Sans Pro;
+}
+
+.short-dotted-line {
+    border-bottom: 1px dotted black;
+    width: 150px; /* Adjust the width as needed */
+    margin-left: 5px;
+}}
+
+@media print {
+    .short-dotted-line {
+        width: 150px; /* Adjust for printing if needed */
+    }
+}
