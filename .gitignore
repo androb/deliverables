@@ -2,7 +2,7 @@
 .env
 
 # Ignore other specific files
-some-other-file.txt
+poetry.lock
 
 # Ignore all files with a certain extension
 *.log
