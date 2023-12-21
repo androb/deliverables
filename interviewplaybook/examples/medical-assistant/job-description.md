@@ -2,20 +2,11 @@
 
 ### Medical Assistant II
 
-#### Locations
-- 15151 National Ave - LOS GATOS
-
 #### Time Type
 - Full time
 
-#### Posted On
-- Posted 8 Days Ago
-
-#### Job Requisition ID
-- R2334927
-
 #### Overview
-Join our legacy of hope and innovation at Stanford Health Care - University Healthcare Alliance. We are looking for a Medical Assistant II to be a part of our clinic patient care team, performing clinical tasks and procedures to support the delivery of care.
+Join our legacy of hope and innovation at Pacific Wellness Group - Academic Healthcare Consortium. We are looking for a Medical Assistant II to be a part of our clinic patient care team, performing clinical tasks and procedures to support the delivery of care.
 
 #### Day
 - 08 Hour (United States of America)
@@ -54,7 +45,7 @@ Join our legacy of hope and innovation at Stanford Health Care - University Heal
 - Providing an exceptional patient and family experience through C-I-CARE framework.
 
 #### Equal Opportunity Employer
-- Stanford Health Care is an equal opportunity employer and encourages applications from all individuals regardless of race, color, sex, sexual orientation, gender identity, religion, age, national origin, political beliefs, marital status, medical condition, genetic information, veteran status, or disability.
+- Pacific Wellness Group is an equal opportunity employer and encourages applications from all individuals regardless of race, color, sex, sexual orientation, gender identity, religion, age, national origin, political beliefs, marital status, medical condition, genetic information, veteran status, or disability.
 
 #### Base Pay Scale
 - Generally starting at $27.47 - $35.02 per hour. Salary based on internal equity, experience, education, specialty, and training.
