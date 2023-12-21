@@ -1,5 +1,5 @@
 
-# AI Deliverables
+# Deliverables AI
 
 This repo is a set of prompts and related bots for generating large, useful documents for startup founders, CEOs and executives from GPT-4.
 
@@ -16,9 +16,3 @@ _Note:_ These documents are designed to be first drafts, and you should take car
 Open an issue for any problems or requests for changes.
 
 Open a pull request for any improvements you would like to suggest.
-
-
-## Dependencies
-
-Pandoc 
-Weasyprint
