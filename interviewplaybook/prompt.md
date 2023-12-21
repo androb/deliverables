@@ -68,17 +68,23 @@ _$description_
 #### Lead Question
 
 $lead_question
-_$lead_question_tips_
+_$tip$_
 
 #### Probing Questions
 
-$probing_question_and_tips
-$probing_question_and_tips
-$probing_question_and_tips
+- **subcompetency** - $probing_question_about_a_subcompetency
+_$tip$_
+
+- **subcompetency** - $probing_question_about_a_subcompetency
+_$tip$_
+
+- **subcompetency** - $probing_question_about_a_subcompetency
+_$tip$_
 
 #### Scenario
 
-$scenario_and_tips
+$scenario
+_$tip$_
 
 %end for
 
@@ -99,17 +105,23 @@ _$description_
 #### Lead Question
 
 $lead_question
-_$lead_question_tips_
+_$tips_
 
 #### Probing Questions
 
-$probing_question_and_tips
-$probing_question_and_tips
-$probing_question_and_tips
+$probing_question
+_$tip$_
+
+$probing_question
+_$tip$_
+
+$probing_question
+_$tip$_
 
 #### Scenario
 
-$scenario_and_tips
+$scenario
+_$tip$_
 
 %end for
 
@@ -143,4 +155,4 @@ Remember to include 5 technical and 5 behavioral competencies to cover ALL the r
 
 Remember actually to generate the content. Do NOT include placeholders in any section; include ALL the competencies in your output. Generate each guide section one at a time, stopping to ask the user if they want to proceed. Do not include any commentary, just the content.
 
-ONLY return the content as markdown with proper spacing and new lines, with no commentary whatsoever.  ALWAYS add a blank line between text and a list. Do not delimit the markdown with backticks or any other delimiter.
+ONLY return the content as John Gruber's Markdown format, with no commentary whatsoever.  ALWAYS add a blank line between text and a list. Do not delimit the markdown with backticks or any other delimiter.
