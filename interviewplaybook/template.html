@@ -1,0 +1,83 @@
+<meta charset="utf-8" />
+<html>
+  <head>
+    <style>
+      {styles}
+    </style>
+  </head>
+  <body>
+    <section class="title" id="title">
+      <div class="icon-container"><svg xmlns="http://www.w3.org/2000/svg" height="64" width="56" viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M96 0C43 0 0 43 0 96V416c0 53 43 96 96 96H384h32c17.7 0 32-14.3 32-32s-14.3-32-32-32V384c17.7 0 32-14.3 32-32V32c0-17.7-14.3-32-32-32H384 96zm0 384H352v64H96c-17.7 0-32-14.3-32-32s14.3-32 32-32zm32-240c0-8.8 7.2-16 16-16H336c8.8 0 16 7.2 16 16s-7.2 16-16 16H144c-8.8 0-16-7.2-16-16zm16 48H336c8.8 0 16 7.2 16 16s-7.2 16-16 16H144c-8.8 0-16-7.2-16-16s7.2-16 16-16z"/></svg></div>
+      <h1>{html_playbook_title}</h1>
+      <div class="publication-date">
+        Published on {publication_date} by the
+        <a
+          href="https://github.com/androb/deliverables/tree/main/interviewplaybook"
+          >Interview Playbook Generator</a
+        >.
+      </div>
+    </section>
+    <section id="contents">
+      <h1>Table of Contents</h1>
+      <ul>
+        <li>
+          <a href="#introduction">Introduction &amp; Interview Structure</a>
+        </li>
+        <li><a href="#job_description">Job Description</a></li>
+        <li><a href="#eval_criteria">Evaluation Criteria</a></li>
+        <li><a href="#technical_assessment_1">Technical Assessment</a></li>
+        <li><a href="#behavioral_assessment_1">Behavioral Assessment</a></li>
+        <li><a href="#practical_assignment">Practical Assignment</a></li>
+        <li><a href="#team_interaction">Team Interaction</a></li>
+        <li><a href="#candidate_questions">Candidate Questions</a></li>
+      </ul>
+    </section>
+    <section class="main" id="introduction">
+      <h1>Introduction</h1>
+      {html_intro}
+      <h2>Interview Structure</h2>
+      {html_interview_structure}
+    </section>
+    <section class="main" id="job_description">{html_job_description}</section>
+    <section class="main" id="eval_criteria">{html_eval_criteria}</section>
+    <section class="main" id="technical_assessment_1">
+      {html_technical_assessment_1} {html_short_notes}
+    </section>
+    <section class="main" id="technical_assessment_2">
+      {html_technical_assessment_2} {html_notes}
+    </section>
+    <section class="main" id="technical_assessment_3">
+      {html_technical_assessment_3} {html_notes}
+    </section>
+    <section class="main" id="technical_assessment_4">
+      {html_technical_assessment_4} {html_notes}
+    </section>
+    <section class="main" id="technical_assessment_5">
+      {html_technical_assessment_5} {html_notes}
+    </section>
+    <section class="main" id="behavioral_assessment_1">
+      {html_behavioral_assessment_1} {html_short_notes}
+    </section>
+    <section class="main" id="behavioral_assessment_2">
+      {html_behavioral_assessment_2} {html_notes}
+    </section>
+    <section class="main" id="behavioral_assessment_3">
+      {html_behavioral_assessment_3} {html_notes}
+    </section>
+    <section class="main" id="behavioral_assessment_4">
+      {html_behavioral_assessment_4} {html_notes}
+    </section>
+    <section class="main" id="behavioral_assessment_5">
+      {html_behavioral_assessment_5} {html_notes}
+    </section>
+    <section class="main" id="practical_assignment">
+      {html_practical_assignment} {html_notes}
+    </section>
+    <section class="main" id="team_interaction">
+      {html_team_interaction} {html_notes}
+    </section>
+    <section class="main" id="candidate_questions">
+      {html_candidate_questions}
+    </section>
+  </body>
+</html>

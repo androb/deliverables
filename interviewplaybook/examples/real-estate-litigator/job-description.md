@@ -1,6 +1,6 @@
-## Real Estate Litigation Department Attorney
+## Real Estate Litigation Attorney
 
-**Position:** Department Attorney  
+**Position:** Real Estate Litigation Attorney  
 **Location:** San Francisco, CA  
 **Practice Area:** Construction & Real Estate  
 **Open Date:** Friday, December 15, 2023  

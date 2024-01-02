@@ -37,7 +37,8 @@ $candidate_profile
 $interview_structure
 
 
-4. Then, produce Evaluation Criteria. Include a customized job scorecard, formatted as a table, with the key competencies. Be sure to include rows for the practical assignment and team interaction. In the table, include a row for each competency, an Assessment column with blank cells for completion by the user, and a Comments column with blank cells for comments by the user. Include a rating guide from 1 to 5 as a numbered list below the table. Use this template:
+4. Then, produce Evaluation Criteria. Include a customized job scorecard, formatted as a table, with the key competencies. Be sure to include rows for the practical assignment and team interaction. In the table, include a row for each competency, an Assessment column with blank cells for completion by the user, and a 'Comments by Interviewer' column with blank cells for comments by the user. In the blank Assessment cells include 4 non-breaking spaces and in the blank Comments by Interviewer column include 20 non-breaking spaces.
+Include a rating guide from 1 to 5 as a numbered list below the table. Use this template:
 
 ## Evaluation Criteria
 
@@ -50,7 +51,7 @@ $rating_guide
 
 5. Technical Assessment. Provide enough detail to understand their technical skills. Loop through each competency. For each Competency, generate a description and explain clearly what the competency is and why it has been chosen (e.g., it is in the job description or the company values). The description should be tailored to the company, industry and job. Feel free to include your understanding of the job if the job description is inadequate. Include words that demonstrate you understand the context. Then include the following sections with markdown headings and no quotation marks:
 * Lead Question (a tailored behavioral interview question customized to the job posting that is a bit surprising and makes people think. Make it detailed and explain yourself. This should be the best possible question you could ask a candidate to assess their competency. Include a tip for the interviewer about what to look for in the candidate's answer.)
-* Probing Questions (4 additional clever follow-up questions to dig deeper into subcompetencies. Format it as a bulleted list. For each question, include a tip for the interviewer.)
+* Diving Deeper (3 or 4 additional clever follow-up questions to dig deeper into subcompetencies. Format it as a bulleted list. Do not cover areas already covered in the Lead Question. )
 * Hypothetical Scenario (a very detailed and interesting scenario customized to the context, including the company name or industry, if known, that could be used to test the candidate's skills. Include a tip for the interviewer.)
 
 Use this template:
@@ -63,28 +64,27 @@ $introduction
 
 ### Technical Competence $N: $Competency
 
-_$description_
+$description
 
 #### Lead Question
 
-$lead_question
-_$tip$_
+> **$lead_question**
 
-#### Probing Questions
+_$what_to_look_for_
 
-- **subcompetency** - $probing_question_about_a_subcompetency
-_$tip$_
+#### Diving Deeper
 
-- **subcompetency** - $probing_question_about_a_subcompetency
-_$tip$_
+- **$subcompetency**: $probing_question_about_subcompetency  
 
-- **subcompetency** - $probing_question_about_a_subcompetency
-_$tip$_
+- **$subcompetency**: $probing_question_about_subcompetency 
+
+- **$subcompetency**: $probing_question_about_subcompetency      
 
 #### Scenario
 
 $scenario
-_$tip$_
+_$what_to_look_for_
+
 
 %end for
 
@@ -100,28 +100,26 @@ $introduction
 
 ### Behavioral Competence $N: $Competency
 
-_$description_
+$description
 
 #### Lead Question
 
-$lead_question
-_$tips_
+> **$lead_question**
 
-#### Probing Questions
+_$what_to_look_for_
 
-$probing_question
-_$tip$_
+#### Diving Deeper
 
-$probing_question
-_$tip$_
+- **$subcompetency**: $probing_question_about_subcompetency  
 
-$probing_question
-_$tip$_
+- **$subcompetency**: $probing_question_about_subcompetency 
+
+- **$subcompetency**: $probing_question_about_subcompetency      
 
 #### Scenario
 
 $scenario
-_$tip$_
+_$what_to_look_for_
 
 %end for
 
