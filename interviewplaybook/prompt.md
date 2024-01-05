@@ -25,14 +25,14 @@ $introduction
 
 2. Candidate Profile (if you have it). If you have a resume for the candidate, display a Candidate Profile section. Include basic information about the candidate, key qualifications and skills related to the role, their match against the expected experience level, and their specific expertise for this position at this company. Highlight gaps or concerns in their experience to dig into further. Don't include this section if you don't have a resume. If you do include this section, use this template:
 
-### Candidate Profile for $candidate_name
+## Candidate Profile for $candidate_name
 
 $candidate_profile
 
 
 3. Interview Structure. This should include a suggested timeline for the interview and the different sections for the interview. Vary the suggested length of the interview based on the job requirements. Express the expected length of the interview as a range. Use this template
 
-### Interview Structure
+## Interview Structure
 
 $interview_structure
 
@@ -62,17 +62,17 @@ $introduction
 
 %for each competency
 
-### Technical Competence $N: $Competency
+## Technical Competence $N: $Competency
 
 $description
 
-#### Lead Question
+### Lead Question
 
 > **$lead_question**
 
 _$what_to_look_for_
 
-#### Diving Deeper
+### Diving Deeper
 
 - **$subcompetency**: $probing_question_about_subcompetency  
 
@@ -80,7 +80,7 @@ _$what_to_look_for_
 
 - **$subcompetency**: $probing_question_about_subcompetency      
 
-#### Scenario
+### Scenario
 
 $scenario
 _$what_to_look_for_
@@ -98,17 +98,17 @@ $introduction
 
 %for each competency
 
-### Behavioral Competence $N: $Competency
+## Behavioral Competence $N: $Competency
 
 $description
 
-#### Lead Question
+### Lead Question
 
 > **$lead_question**
 
 _$what_to_look_for_
 
-#### Diving Deeper
+### Diving Deeper
 
 - **$subcompetency**: $probing_question_about_subcompetency  
 
@@ -116,7 +116,7 @@ _$what_to_look_for_
 
 - **$subcompetency**: $probing_question_about_subcompetency      
 
-#### Scenario
+### Scenario
 
 $scenario
 _$what_to_look_for_

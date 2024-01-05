@@ -1,1138 +1,874 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
-<head>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <meta name="author" content="Created by Deliverables.ai" />
-  <title>Interview Playbook for Medical Assistant II</title>
-  <style>
-    /* oogee */
+<meta charset="utf-8" />
+<html>
+  <head>
+    <style>
+      @font-face {
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  src: url(SourceSans3-Regular.ttf);
+}
 
-    @font-face {
-      font-family: Source Sans Pro;
-      font-weight: 400;
-      src: url(SourceSans3-Regular.ttf);
-    }
+@font-face {
+  font-family: Source Sans Pro;
+  font-style: italic;
+  font-weight: 400;
+  src: url(SourceSans3-Italic.ttf);
+}
 
-    @font-face {
-      font-family: Source Sans Pro;
-      font-style: italic;
-      font-weight: 400;
-      src: url(SourceSans3-Italic.ttf);
-    }
+@font-face {
+  font-family: Source Sans Pro;
+  font-weight: 300;
+  src: url(SourceSans3-Light.ttf);
+}
 
-    @font-face {
-      font-family: Source Sans Pro;
-      font-weight: 300;
-      src: url(SourceSans3-Light.ttf);
-    }
+@font-face {
+  font-family: Source Sans Pro;
+  font-style: italic;
+  font-weight: 300;
+  src: url(SourceSans3-LightItalic.ttf);
+}
 
-    @font-face {
-      font-family: Source Sans Pro;
-      font-style: italic;
-      font-weight: 300;
-      src: url(SourceSans3-LightItalic.ttf);
-    }
+@font-face {
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  src: url(SourceSans3-Bold.ttf);
+}
 
-    @font-face {
-      font-family: Source Sans Pro;
-      font-weight: 700;
-      src: url(SourceSans3-Bold.ttf);
-    }
+@font-face {
+  font-family: Libre Baskerville;
+  font-weight: 400;
+  src: url(LibreBaskerville-Regular.ttf);
+}
 
-    @font-face {
-      font-family: Libre Baskerville;
-      font-weight: 400;
-      src: url(LibreBaskerville-Regular.ttf);
-    }
+@font-face {
+  font-family: Libre Baskerville;
+  font-weight: 700;
+  src: url(LibreBaskerville-Bold.ttf);
+}
 
-    @font-face {
-      font-family: Libre Baskerville;
-      font-weight: 700;
-      src: url(LibreBaskerville-Bold.ttf);
-    }
+@font-face {
+  font-family: Libre Baskerville;
+  font-style: italic;
+  font-weight: 400;
+  src: url(LibreBaskerville-Italic.ttf);
+}
 
-    @font-face {
-      font-family: Libre Baskerville;
-      font-style: italic;
-      font-weight: 400;
-      src: url(LibreBaskerville-Italic.ttf);
-    }
+body {
+  font-family: Source Sans Pro, sans-serif;
+  font-size: 10pt;
+  font-weight: 300;
+  font-stretch: 75% 125%;
+  color: #0D0D0D;
+}
 
+@page {
+  margin: 0.8in;
+  size: Letter;
 
-    html {
-      color: #1a1a1a;
-      background-color: #fdfdfd;
-    }
+  @bottom-left {
+    content: 'INTERVIEW PLAYBOOK';
+    font-family: Libre Baskerville, serif;
+    font-size: 9pt;
+    font-weight: 700;
+    color: #73706c90;
+  }
 
-    body {
-      margin: 0 auto;
-      max-width: 54em;
-      padding-left: 50px;
-      padding-right: 50px;
-      padding-top: 50px;
-      padding-bottom: 50px;
-      hyphens: auto;
-      overflow-wrap: break-word;
-      text-rendering: optimizeLegibility;
-      font-kerning: normal;
-      font-family: Source Sans Pro, sans-serif;
-      font-size: 10pt;
-      font-weight: 300;
-      font-stretch: 75% 125%;
-      color: #0D0D0D;
-    }
+  @bottom-right {
+    content: counter(page);
+    font-family: Libre Baskerville, serif;
+    font-size: 9pt;
+    font-weight: 700;
+    color: #73706c90;
+  }
 
-    @media (max-width: 600px) {
-      body {
-        font-size: 0.9em;
-        padding: 12px;
-      }
+}
 
-      h1 {
-        font-size: 1.8em;
-      }
-    }
+@page :first {
+  @bottom-left {
+    content: none;
+  }
+
+  @bottom-right {
+    content: none;
+  }
+}
 
 
-    @page {
-      margin: 0.8in;
-      size: Letter;
+h1,
+h2,
+h3,
+h4 {
+  font-family: Libre Baskerville;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  page-break-after: avoid;
+}
 
-      @bottom-left {
-        content: 'INTERVIEW PLAYBOOK';
-        font-family: Libre Baskerville, serif;
-        font-size: 9pt;
-        font-weight: 700;
-        color: #73706c90;
-      }
+h1 {
+  font-size: 24pt;
+}
 
-      @bottom-right {
-        content: counter(page);
-        font-family: Libre Baskerville, serif;
-        font-size: 9pt;
-        font-weight: 700;
-        color: #73706c90;
-      }
+h2 {
+  font-size: 18pt;
+}
 
-    }
+h3 {
+  font-size: 14pt;
+}
 
-    @page :first {
-      @bottom-left {
-        content: none;
-      }
+h4 {
+  font-size: 12pt;
+}
 
-      @bottom-right {
-        content: none;
-      }
-    }
 
-    @media print {
-      html {
-        background-color: white;
-      }
 
-      body {
-        background-color: transparent;
-        color: black;
-        font-size: 12pt;
-      }
+/* Define styles for the cover page */
+.title {
+  width: 100vw;        /* 100% of the viewport width */
+  height: 100vh;       /* 100% of the viewport height */
+  position: relative;  /* or 'absolute' if you need it positioned relative to its first positioned (not static) ancestor element */
+  box-sizing: border-box; /* so that padding and borders are included in the total width and height */
+  background-color: #D8D9D7;
+  color: #0D0D0D;
+  text-align: center;
+  padding: 50px;
+}
+.title h1 {
+  font-size: 50pt;
+}
 
-      p,
-      h2,
-      h3 {
-        orphans: 3;
-        widows: 3;
-      }
-
-      h2,
-      h3,
-      h4 {
-        page-break-after: avoid;
-      }
-    }
-
-    p {
-      margin: 1em 0;
-    }
-
-    a {
-      color: #1a1a1a;
-    }
-
-    a:visited {
-      color: #1a1a1a;
-    }
-
-    img {
-      max-width: 100%;
-    }
-
-    svg {
-      height: auto;
-      max-width: 100%;
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      margin-top: 1.4em;
-    }
-
-    h5,
-    h6 {
-      font-size: 1em;
-      font-style: italic;
-    }
-
-    h6 {
-      font-weight: normal;
-    }
-
-    ol,
-    ul {
-      padding-left: 1.7em;
-      margin-top: 1em;
-    }
-
-    li>ol,
-    li>ul {
-      margin-top: 0;
-    }
-
-    blockquote {
-      margin: 1em 0 1em 1.7em;
-      padding-left: 1em;
-      border-left: 2px solid #e6e6e6;
-      color: #606060;
-    }
-
-    code {
-      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
-      font-size: 85%;
-      margin: 0;
-      hyphens: manual;
-    }
-
-    pre {
-      margin: 1em 0;
-      overflow: auto;
-    }
-
-    pre code {
-      padding: 0;
-      overflow: visible;
-      overflow-wrap: normal;
-    }
-
-    .sourceCode {
-      background-color: transparent;
-      overflow: visible;
-    }
-
-    hr {
-      background-color: #1a1a1a;
-      border: none;
-      height: 1px;
-      margin: 1em 0;
-    }
-
-    table {
-      margin: 1em 0;
-      border-collapse: collapse;
+@media print {
+  body, html {
       width: 100%;
-      overflow-x: auto;
-      display: block;
-      font-variant-numeric: lining-nums tabular-nums;
-    }
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+  }
 
-    table caption {
-      margin-bottom: 0.75em;
-    }
+  .title {
+      width: 100%;
+      height: 100%;
+      page-break-inside: avoid;
+      overflow: hidden;
+  }
+}
 
-    tbody {
-      margin-top: 0.5em;
-      border-top: 1px solid #1a1a1a;
-      border-bottom: 1px solid #1a1a1a;
-    }
+.icon-container {
+  text-align: center;
+  margin-top: 2.5em;
+  margin-bottom: 20px;
+}
 
-    th {
-      border-top: 1px solid #1a1a1a;
-      padding: 0.25em 0.5em 0.25em 0.5em;
-    }
 
-    td {
-      padding: 0.125em 0.5em 0.25em 0.5em;
-    }
+.publication-date {
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  text-align: left;
+  color: #73706C;
+}
 
-    header {
-      margin-bottom: 4em;
-      text-align: center;
-    }
 
-    #TOC li {
-      list-style: none;
-    }
 
-    #TOC ul {
-      padding-left: 1.3em;
-    }
+p {
+  margin-bottom: 1em;
+}
 
-    #TOC>ul {
-      padding-left: 0;
-    }
+p,
+table,
+figure {
+  page-break-inside: avoid;
+}
 
-    #TOC a:not(:hover) {
-      text-decoration: none;
-    }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1em;
+  page-break-before: avoid;
+}
 
-    code {
-      white-space: pre-wrap;
-    }
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+  font-size: 10pt;
+}
 
-    span.smallcaps {
-      font-variant: small-caps;
-    }
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
 
-    div.columns {
-      display: flex;
-      gap: min(4vw, 1.5em);
-    }
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
 
-    div.column {
-      flex: auto;
-      overflow-x: auto;
-    }
+ul,
+ol {
+  margin-bottom: 1em;
+  margin-left: 0;
+  padding-left: 1.5em;
+}
 
-    div.hanging-indent {
-      margin-left: 1.5em;
-      text-indent: -1.5em;
-    }
+li {
+  margin-bottom: 0.5em;
+  margin-left: 0em;
+}
 
-    /* The extra [class] is a hack that increases specificity enough to
-         override a similar rule in reveal.js */
-    ul.task-list[class] {
-      list-style: none;
-    }
+.main {
+  page-break-before: always;
+}
 
-    ul.task-list li input[type="checkbox"] {
-      font-size: inherit;
-      width: 0.8em;
-      margin: 0 0.8em 0.2em -1.6em;
-      vertical-align: middle;
-    }
+.dotted-line {
+  border-bottom: 1px dotted black;
+  width: 100%;
+  margin-top: 20px;
+  /* This ensures spacing between each line */
+  margin-bottom: 20px;
+  /* Adjust if needed */
+}
 
-    .display.math {
-      display: block;
-      text-align: center;
-      margin: 0.5rem auto;
-    }  </style>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
-</head>
-<body>
-<header id="title-block-header">
-<h1 class="title">Interview Playbook for Medical Assistant II</h1>
-<p class="author">Created by <a
-href="https://github.com/androb/deliverables">Deliverables.ai</a></p>
-<p class="date">January 01, 2024 3:40 PM</p>
-</header>
-<nav id="TOC" role="doc-toc">
+.rating-container {
+  display: flex;
+  align-items: flex-end;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.rating-container label {
+  margin-right: 10px;
+  font-size: 10pt;
+  font-family: Source Sans Pro;
+}
+
+.short-dotted-line {
+  border-bottom: 1px dotted black;
+  width: 150px;
+  /* Adjust the width as needed */
+  margin-left: 5px;
+}
+
+
+#contents {
+  page: no-chapter;
+}
+
+#contents h2 {
+  font-size: 20pt;
+  font-weight: 400;
+  margin-bottom: 3cm;
+}
+
+#contents h3 {
+  font-weight: 500;
+  margin: 3em 0 1em;
+}
+
+#contents ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+#contents ul li {
+  border-top: .25pt solid #c1c1c1;
+  margin: .25cm 0;
+  padding-top: .25cm;
+}
+
+#contents ul li a {
+  color: inherit;
+  text-decoration-line: inherit;
+}
+
+#contents ul li a::before {
+  /* content: target-text(attr(href)); */
+}
+
+#contents ul li a::after {
+  content: target-counter(attr(href), page);
+  float: right;
+}
+    </style>
+  </head>
+  <body>
+    <section class="title" id="title">
+      <div class="icon-container"><svg xmlns="http://www.w3.org/2000/svg" height="64" width="56" viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M96 0C43 0 0 43 0 96V416c0 53 43 96 96 96H384h32c17.7 0 32-14.3 32-32s-14.3-32-32-32V384c17.7 0 32-14.3 32-32V32c0-17.7-14.3-32-32-32H384 96zm0 384H352v64H96c-17.7 0-32-14.3-32-32s14.3-32 32-32zm32-240c0-8.8 7.2-16 16-16H336c8.8 0 16 7.2 16 16s-7.2 16-16 16H144c-8.8 0-16-7.2-16-16zm16 48H336c8.8 0 16 7.2 16 16s-7.2 16-16 16H144c-8.8 0-16-7.2-16-16s7.2-16 16-16z"/></svg></div>
+      <h1><p>Interview Playbook for Medical Assistant II at Pacific Wellness Group</p></h1>
+      <div class="publication-date">
+        Published on January 05, 2024 by the
+        <a
+          href="https://github.com/androb/deliverables/tree/main/interviewplaybook"
+          >Interview Playbook Generator</a
+        >.
+      </div>
+    </section>
+    <section id="contents">
+      <h1>Table of Contents</h1>
+      <ul>
+        <li>
+          <a href="#introduction">Introduction &amp; Interview Structure</a>
+        </li>
+        <li><a href="#job_description">Job Description</a></li>
+        <li><a href="#eval_criteria">Evaluation Criteria</a></li>
+        <li><a href="#technical_assessment_1">Technical Assessment</a></li>
+        <li><a href="#behavioral_assessment_1">Behavioral Assessment</a></li>
+        <li><a href="#practical_assignment">Practical Assignment</a></li>
+        <li><a href="#team_interaction">Team Interaction</a></li>
+        <li><a href="#candidate_questions">Candidate Questions</a></li>
+      </ul>
+    </section>
+    <section class="main" id="introduction">
+      <h1>Introduction</h1>
+      <p>This Interview Playbook is designed to facilitate the selection of a highly qualified Medical Assistant II at Pacific Wellness Group. The guide outlines the structured approach to evaluating candidates' technical and behavioral competencies aligned with the company's values. The intent is to ensure a thorough and consistent interview process, focusing not only on the required technical skills but also on the candidate's fit within the company culture. As Medical Assistants play a crucial role in patient care and operational efficiency, this playbook assists the hiring team in identifying professionals who will contribute positively to the dynamic and compassionate environment that Pacific Wellness Group is known for.</p>
+      <h2>Interview Structure</h2>
+      <p>The interview for the Medical Assistant II position at Pacific Wellness Group should be structured over approximately 60 to 90 minutes, divided into distinct sections as follows:</p>
 <ul>
-<li><a href="#introduction" id="toc-introduction">Introduction</a>
-<ul>
-<li><a href="#interview-structure"
-id="toc-interview-structure">Interview Structure</a></li>
-<li><a href="#job-description" id="toc-job-description">Job
-Description</a></li>
-</ul></li>
-<li><a href="#job-description-1" id="toc-job-description-1">Job
-Description</a>
-<ul>
-<li><a href="#medical-assistant-ii"
-id="toc-medical-assistant-ii">Medical Assistant II</a></li>
-<li><a href="#evaluation-scorecard"
-id="toc-evaluation-scorecard">Evaluation Scorecard</a>
-<ul>
-<li><a href="#rating-guide" id="toc-rating-guide">Rating Guide</a></li>
-</ul></li>
-<li><a href="#technical-competence-1-clinical-procedures"
-id="toc-technical-competence-1-clinical-procedures">Technical Competence
-1: Clinical Procedures</a>
-<ul>
-<li><a href="#technical-competence-2-medical-knowledge"
-id="toc-technical-competence-2-medical-knowledge">Technical Competence
-2: Medical Knowledge</a></li>
-<li><a href="#technical-competence-3-technical-communication"
-id="toc-technical-competence-3-technical-communication">Technical
-Competence 3: Technical Communication</a></li>
-<li><a href="#technical-competence-4-bls-competency"
-id="toc-technical-competence-4-bls-competency">Technical Competence 4:
-BLS Competency</a></li>
-<li><a href="#technical-competence-5-computer-and-technical-skills"
-id="toc-technical-competence-5-computer-and-technical-skills">Technical
-Competence 5: Computer and Technical Skills</a></li>
-</ul></li>
-<li><a href="#behavioral-competence-1-service-excellence"
-id="toc-behavioral-competence-1-service-excellence">Behavioral
-Competence 1: Service Excellence</a>
-<ul>
-<li><a href="#behavioral-competence-2-team-collaboration"
-id="toc-behavioral-competence-2-team-collaboration">Behavioral
-Competence 2: Team Collaboration</a></li>
-<li><a href="#behavioral-competence-3-professional-development"
-id="toc-behavioral-competence-3-professional-development">Behavioral
-Competence 3: Professional Development</a></li>
-<li><a href="#behavioral-competence-4-ethical-practice-integrity"
-id="toc-behavioral-competence-4-ethical-practice-integrity">Behavioral
-Competence 4: Ethical Practice &amp; Integrity</a></li>
-<li><a href="#behavioral-competence-5-organizational-skills"
-id="toc-behavioral-competence-5-organizational-skills">Behavioral
-Competence 5: Organizational Skills</a></li>
-</ul></li>
-<li><a href="#practical-assignment"
-id="toc-practical-assignment">Practical Assignment</a></li>
-<li><a href="#team-fit" id="toc-team-fit">Team Fit</a></li>
-<li><a href="#candidate-qa" id="toc-candidate-qa">Candidate
-Q&amp;A</a></li>
-</ul></li>
+<li><strong>Introduction (5-10 minutes)</strong>: Begin with a brief welcome and provide an overview of Pacific Wellness Group, the interview flow, and discuss the candidate’s understanding of the Medical Assistant II role.</li>
 </ul>
-</nav>
-<h2 id="introduction">Introduction</h2>
-<p>The Interview Playbook is a comprehensive resource for evaluating
-candidates for the Medical Assistant II role at Pacific Wellness Group.
-It provides a clear structure for the interview process, specifying the
-technical and behavioral competencies required for the position. The
-guide’s purpose is to enable objective and thorough candidate
-evaluations, ensuring they meet the high standards of patient care and
-organizational culture at Pacific Wellness Group.</p>
-<h3 id="interview-structure">Interview Structure</h3>
-<p>The interview for the Medical Assistant II position will take place
-over a 60 to 90-minute session and will be conducted in several parts to
-ensure a comprehensive assessment of both technical and behavioral
-competencies.</p>
-<p>The interview will begin with an introduction and rapport-building
-phase, lasting approximately 10 minutes, to put the candidate at ease.
-This will be followed by a technical assessment, which will comprise
-around 30 minutes of the interview time, where candidates will be
-questioned on clinical procedures, medical knowledge, technical
-communication, BLS competency, and computer and technical skills.</p>
-<p>Next, we will move into the behavioral assessment, another 30
-minutes, where we will explore service excellence, team collaboration,
-professional development, ethical practice &amp; integrity, and
-organizational skills. These assessments will deeply probe the
-candidate’s ability to integrate with Pacific Wellness Group’s values
-and operating principles.</p>
-<p>The session will end with a Q&amp;A period allowing candidates to ask
-questions and understand more about our organization and their potential
-role within it. This will account for the remaining time and should not
-exceed 10 minutes. Throughout the interview, we will systematically
-cover key competencies and ensure that the candidate has the opportunity
-to demonstrate their abilities relevant to the role.</p>
-<h3 id="job-description">Job Description</h3>
-<h1 id="job-description-1">Job Description</h1>
-<h3 id="medical-assistant-ii">Medical Assistant II</h3>
-<h4 id="time-type">Time Type</h4>
+<ul>
+<li><strong>Review of Basic Qualifications (5-10 minutes)</strong>: Quickly verify the candidate's background, certifications, and basic requisites for the job.</li>
+</ul>
+<ul>
+<li><strong>Technical Assessment (20-30 minutes)</strong>: Dive into the five key technical competencies, which include Clinical Procedures Proficiency, Communication Skills, Health and Safety Compliance, Computer and EMR Proficiency, and Organizational Skills. Ensure to observe the candidate’s articulation of their skills and experience in each area.</li>
+</ul>
+<ul>
+<li><strong>Behavioral Assessment (20-30 minutes)</strong>: Explore the behavioral competencies crucial to the role and company culture, such as Adherence to Service Excellence (C-I-CARE), Teamwork and Collaboration, Continuous Improvement (Innovation), Professional Growth (Mentorship), and Community Building (Connection).</li>
+</ul>
+<ul>
+<li><strong>Practical Assignment (10-15 minutes)</strong>: Assign a relevant task or scenario to assess how the candidate applies their knowledge and skills in a practical setting.</li>
+</ul>
+<ul>
+<li><strong>Team Interaction (Optional, 10-15 minutes)</strong>: Assess the fit with potential teammates through a brief meet and greet or discussion if applicable.</li>
+</ul>
+<ul>
+<li><strong>Candidate Questions (5-10 minutes)</strong>: Allow the candidate to ask any questions they might have about the role, the team, or the organization.</li>
+</ul>
+<ul>
+<li><strong>Closing (5 minutes)</strong>: Briefly summarize the interview, discuss the next steps, and express appreciation for the candidate’s time and interest. </li>
+</ul>
+<p>This structure should provide a comprehensive assessment of candidate competencies in alignment with the objectives of the Medical Assistant II role at Pacific Wellness Group.</p>
+    </section>
+    <section class="main" id="job_description"><h1>Job Description</h1>
+<h3>Medical Assistant II</h3>
+<h4>Time Type</h4>
 <ul>
 <li>Full time</li>
 </ul>
-<h4 id="overview">Overview</h4>
-<p>Join our legacy of hope and innovation at Pacific Wellness Group -
-Academic Healthcare Consortium. We are looking for a Medical Assistant
-II to be a part of our clinic patient care team, performing clinical
-tasks and procedures to support the delivery of care.</p>
-<h4 id="day">Day</h4>
+<h4>Overview</h4>
+<p>Join our legacy of hope and innovation at Pacific Wellness Group - Academic Healthcare Consortium. We are looking for a Medical Assistant II to be a part of our clinic patient care team, performing clinical tasks and procedures to support the delivery of care.</p>
+<h4>Day</h4>
 <ul>
 <li>08 Hour (United States of America)</li>
 </ul>
-<h4 id="responsibilities">Responsibilities</h4>
+<h4>Responsibilities</h4>
 <ul>
-<li><strong>C-I-CARE Execution:</strong> Executes world-class service
-and patient care standards using C-I-CARE templates.</li>
-<li><strong>Job Scope:</strong> Includes managing patient portal
-messages, assisting with physician procedures, and other tasks of
-moderate scope.</li>
-<li><strong>Knowledge:</strong> Advanced understanding of job skills,
-policies, and procedures.</li>
-<li><strong>Supervision Level:</strong> Work reviewed for accuracy and
-complexity, with increased responsibility in the specialty area.</li>
+<li><strong>C-I-CARE Execution:</strong> Executes world-class service and patient care standards using C-I-CARE templates.</li>
+<li><strong>Job Scope:</strong> Includes managing patient portal messages, assisting with physician procedures, and other tasks of moderate scope.</li>
+<li><strong>Knowledge:</strong> Advanced understanding of job skills, policies, and procedures.</li>
+<li><strong>Supervision Level:</strong> Work reviewed for accuracy and complexity, with increased responsibility in the specialty area.</li>
 </ul>
-<h4 id="education-qualifications">Education Qualifications</h4>
+<h4>Education Qualifications</h4>
 <ul>
 <li>High School Diploma or GED required.</li>
-<li>Medical Assistant Certificate/Diploma from an approved
-school/institution or equivalent training.</li>
+<li>Medical Assistant Certificate/Diploma from an approved school/institution or equivalent training.</li>
 </ul>
-<h4 id="experience-qualifications">Experience Qualifications</h4>
+<h4>Experience Qualifications</h4>
 <ul>
 <li>One (1) to three (3) years of related experience.</li>
 </ul>
-<h4 id="required-knowledge-skills-and-abilities">Required Knowledge,
-Skills, and Abilities</h4>
+<h4>Required Knowledge, Skills, and Abilities</h4>
 <ul>
 <li>Professional verbal and written communication skills.</li>
-<li>Proficiency in computer skills, Microsoft Office, and electronic
-medical records.</li>
+<li>Proficiency in computer skills, Microsoft Office, and electronic medical records.</li>
 <li>Organizational and multi-tasking skills.</li>
 </ul>
-<h4 id="licenses-and-certifications">Licenses and Certifications</h4>
+<h4>Licenses and Certifications</h4>
 <ul>
 <li>BLS - Basic Life Support required.</li>
 </ul>
-<h4 id="physical-demands-and-work-conditions">Physical Demands and Work
-Conditions</h4>
+<h4>Physical Demands and Work Conditions</h4>
 <ul>
-<li>Various physical activities such as sitting, walking, standing,
-bending, squatting, etc.</li>
+<li>Various physical activities such as sitting, walking, standing, bending, squatting, etc.</li>
 <li>Lifting requirements vary from 0 to 40+ lbs.</li>
 </ul>
-<h4 id="working-environment">Working Environment</h4>
+<h4>Working Environment</h4>
 <ul>
 <li>Frequent interaction with clinical equipment and machinery.</li>
 <li>Work with biohazards like bloodborne pathogens.</li>
 <li>20% travel requirement.</li>
 </ul>
-<h4 id="shc-commitment">SHC Commitment</h4>
+<h4>SHC Commitment</h4>
 <ul>
-<li>Providing an exceptional patient and family experience through
-C-I-CARE framework.</li>
+<li>Providing an exceptional patient and family experience through C-I-CARE framework.</li>
 </ul>
-<h4 id="equal-opportunity-employer">Equal Opportunity Employer</h4>
+<h4>Equal Opportunity Employer</h4>
 <ul>
-<li>Pacific Wellness Group is an equal opportunity employer and
-encourages applications from all individuals regardless of race, color,
-sex, sexual orientation, gender identity, religion, age, national
-origin, political beliefs, marital status, medical condition, genetic
-information, veteran status, or disability.</li>
+<li>Pacific Wellness Group is an equal opportunity employer and encourages applications from all individuals regardless of race, color, sex, sexual orientation, gender identity, religion, age, national origin, political beliefs, marital status, medical condition, genetic information, veteran status, or disability.</li>
 </ul>
-<h4 id="base-pay-scale">Base Pay Scale</h4>
+<h4>Base Pay Scale</h4>
 <ul>
-<li>Generally starting at $27.47 - $35.02 per hour. Salary based on
-internal equity, experience, education, specialty, and training.</li>
-</ul>
-<h2 id="evaluation-scorecard">Evaluation Scorecard</h2>
-<p>To effectively evaluate the candidate for the Medical Assistant II
-role, we have developed a job scorecard that outlines the key
-competencies and provides a structured format for assessment. The
-scorecard ensures that each interviewer can record their evaluation and
-pertinent comments consistently.</p>
+<li>Generally starting at $27.47 - $35.02 per hour. Salary based on internal equity, experience, education, specialty, and training.</li>
+</ul></section>
+    <section class="main" id="eval_criteria"><h2>Evaluation Criteria</h2>
+<p>The evaluation of candidates for the Medical Assistant II position will be based on a structured set of criteria that reflect both technical and behavioral competencies. The following job scorecard serves as a record to assess and comment on each candidate's qualifications throughout the interview process.</p>
 <table>
-<colgroup>
-<col style="width: 42%" />
-<col style="width: 18%" />
-<col style="width: 39%" />
-</colgroup>
 <thead>
-<tr class="header">
+<tr>
 <th>Competency</th>
 <th>Assessment</th>
 <th>Comments by Interviewer</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td>Clinical Procedures</td>
+<tr>
+<td>Clinical Procedures Proficiency</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td>Medical Knowledge</td>
+<tr>
+<td>Communication Skills</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td>Technical Communication</td>
+<tr>
+<td>Health and Safety Compliance</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td>BLS Competency</td>
+<tr>
+<td>Computer and EMR Proficiency</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td>Computer and Technical Skills</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Service Excellence</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Team Collaboration</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Professional Development</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Ethical Practice &amp; Integrity</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
+<tr>
 <td>Organizational Skills</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr>
+<td>Adherence to Service Excellence</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Teamwork and Collaboration</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Continuous Improvement</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Professional Growth</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Community Building</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>Practical Assignment</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td>Team Interaction</td>
+<tr>
+<td>Team Interaction (if applicable)</td>
 <td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
-<h3 id="rating-guide">Rating Guide</h3>
-<ol type="1">
-<li>Far Below Expectations: Candidate significantly lacks the
-competencies required for the role.</li>
-<li>Below Expectations: Candidate shows some basic understanding but
-falls short of the role’s requirements.</li>
-<li>Meets Expectations: Candidate satisfactorily demonstrates the
-competencies required for the role.</li>
-<li>Exceeds Expectations: Candidate demonstrates a strong command of the
-competencies with room for growth.</li>
-<li>Far Exceeds Expectations: Candidate exemplifies all competencies
-exceptionally and offers additional strengths.</li>
+<p>Rating Guide:
+1. Poor - Does not meet expectations or lacks the competency entirely.
+2. Fair - Shows basic level of understanding but below expectations for the role.
+3. Good - Meets expectations and shows a solid understanding of the competency.
+4. Very Good - Exceeds expectations with advanced understanding or performance.
+5. Excellent - Exceptional display of skill or understanding; stands out significantly. </p>
+<p>Interviewers are encouraged to provide specific comments and ratings to support the interview team's decision-making process.</p></section>
+    <section class="main" id="technical_assessment_1">
+      <h2>Technical Assessment</h2>
+<p>Evaluating technical competencies is critical to ensure that the candidate possesses the practical skills necessary for the Medical Assistant II position at Pacific Wellness Group.</p>
+<h3>Technical Competence 1: Clinical Procedures Proficiency</h3>
+<p>A Medical Assistant II must exhibit a strong capability in performing a wide range of clinical duties. They should be well-versed in patient care techniques, assisting with medical procedures, patient documentation, and equipment handling to ensure efficient and quality care provision.</p>
+<h4>Lead Question</h4>
+<blockquote>
+<p><strong>"Describe a complex clinical procedure you've assisted with. What role did you play, and how did you ensure it was executed correctly?"</strong></p>
+</blockquote>
+<p><em>Look for detailed explanations to assess the candidate's understanding of clinical procedures and their ability to perform them accurately.</em></p>
+<h4>Diving Deeper</h4>
+<ul>
+<li><strong>Patient Care</strong>: "Can you walk us through how you prepare a patient for a specific common procedure in your current or past role?"</li>
+<li><strong>Assisting with Procedures</strong>: "Have you ever encountered a complication during a procedure? How did you assist in managing it?"</li>
+<li><strong>Patient Documentation</strong>: "Describe the process you follow for documenting patient care and how you ensure accuracy and completeness."</li>
+<li><strong>Equipment Handling</strong>: "What types of medical equipment are you most familiar with, and how do you maintain them?"</li>
+</ul>
+<h4>Scenario</h4>
+<p>"Imagine a patient requires an emergency response during your shift, and you're the first on the scene. Walk us through the steps you would take from the moment you recognize the emergency to the resolution. What are the critical factors you must consider?"</p>
+<p><em>Look for the ability to remain calm under pressure, clear communication, and a methodical approach to emergency response.</em></p> <h4>Notes</h4><div class='notes'>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="rating-container">
+    <label for="rating-line">Rating (1-5):</label>
+    <div class="short-dotted-line"></div>
+    </div>
+</div>
+    </section>
+    <section class="main" id="technical_assessment_2">
+      <h3>Technical Competence 2: Communication Skills</h3>
+<p>Being able to communicate effectively with patients, their families, and the medical team is vital for a Medical Assistant. This competency ensures that information is conveyed clearly and efficiently, promoting excellent patient care and collaborative teamwork.</p>
+<h4>Lead Question</h4>
+<blockquote>
+<p><strong>"Describe a time when you had to explain a complex medical procedure or condition to a patient who was anxious or confused. How did you handle it?"</strong></p>
+</blockquote>
+<p><em>Look for clarity, empathy, and the ability to tailor communication style to the patient’s needs.</em></p>
+<h4>Diving Deeper</h4>
+<ul>
+<li><strong>Verbal Communication</strong>: "Give an example of a difficult conversation you've had with a family member of a patient. What was the outcome?"</li>
+<li><strong>Written Communication</strong>: "Can you describe your experience with creating patient education materials or providing written instructions for aftercare?"</li>
+<li><strong>Patient Education</strong>: "How do you ensure that a patient fully understands their treatment plan and the importance of following it?"</li>
+<li><strong>Feedback Reception</strong>: "Tell us about a time you received constructive feedback on your communication style. How did it impact your approach?"</li>
+</ul>
+<h4>Scenario</h4>
+<p>"You've been tasked with calling patients to inform them about a change in their treatment plan due to updated clinic protocols. What steps would you take to prepare for the calls, and how would you handle any patient who responds negatively to the change?"</p>
+<p><em>Look for preparation, compassion, and problem-solving abilities in their communication approach.</em></p> <h4>Notes</h4><div class='notes'>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="rating-container">
+    <label for="rating-line">Rating (1-5):</label>
+    <div id="rating-line" class="short-dotted-line"></div>
+    </div>
+</div>
+    </section>
+    <section class="main" id="technical_assessment_3">
+      <h3>Technical Competence 3: Health and Safety Compliance</h3>
+<p>A Medical Assistant II must maintain a strong adherence to health and safety protocols to ensure the well-being of patients and colleagues. This includes staying updated with the latest healthcare regulations and safety procedures.</p>
+<h4>Lead Question</h4>
+<blockquote>
+<p><strong>"Can you share an experience where you identified a breach in health or safety protocols? What actions did you take to address it?"</strong></p>
+</blockquote>
+<p><em>Look for proactive identification of issues, knowledge of protocols, and appropriate action taken.</em></p>
+<h4>Diving Deeper</h4>
+<ul>
+<li><strong>BLS Certification</strong>: "How have you applied your BLS skills in a real-world setting, and what was the outcome of that situation?"</li>
+<li><strong>Biohazard Handling</strong>: "What procedures do you follow when handling biohazards to ensure safety for yourself and others?"</li>
+<li><strong>Infection Control</strong>: "Explain how you implement infection control guidelines in your daily duties and during an outbreak or pandemic."</li>
+<li><strong>Regulatory Awareness</strong>: "Discuss how you stay informed about changes in healthcare regulations and apply them to your practice."</li>
+</ul>
+<h4>Scenario</h4>
+<p>"Imagine there's been an accidental exposure to a bloodborne pathogen in your workspace. Describe the steps you would immediately take following the exposure, and how you would record and report the incident in accordance with health and safety standards."</p>
+<p><em>Look for adherence to protocol, thoroughness, and effective reporting in the candidate's response.</em></p> <h4>Notes</h4><div class='notes'>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="rating-container">
+    <label for="rating-line">Rating (1-5):</label>
+    <div id="rating-line" class="short-dotted-line"></div>
+    </div>
+</div>
+    </section>
+    <section class="main" id="technical_assessment_4">
+      <h3>Technical Competence 4: Computer and EMR Proficiency</h3>
+<p>The role demands proficient use of electronic medical records systems and computers to maintain efficient operations and accurate patient records, in line with Pacific Wellness Group's emphasis on innovation and continuous improvement.</p>
+<h4>Lead Question</h4>
+<blockquote>
+<p><strong>"Discuss your experience with electronic medical records. How do you ensure data integrity and security when entering and retrieving patient information?"</strong></p>
+</blockquote>
+<p><em>Look for examples demonstrating attention to detail, organization, and a commitment to patient privacy and data accuracy.</em></p>
+<h4>Diving Deeper</h4>
+<ul>
+<li><strong>EMR Management</strong>: "What electronic medical record systems are you familiar with, and what features do you find most beneficial for clinical workflow?"</li>
+<li><strong>Microsoft Office Skills</strong>: "Provide an example of how you have used Microsoft Office tools to improve a clinical process or patient communication."</li>
+<li><strong>Digital Literacy</strong>: "Tell us about a time when you had to learn a new software application for work. How did you approach the learning process?"</li>
+<li><strong>Patient Portal Management</strong>: "What strategies do you employ to encourage patient engagement with the patient portal and ensure clear communication?"</li>
+</ul>
+<h4>Scenario</h4>
+<p>"You are tasked with compiling a comprehensive patient history for a new patient with multiple chronic conditions using the EMR system. The patient has provided a stack of medical records from several different providers. Describe how you would organize and enter this information into the system."</p>
+<p><em>Look for systematic approaches, ability to categorize and prioritize information, and strategies to ensure completeness.</em></p> <h4>Notes</h4><div class='notes'>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="rating-container">
+    <label for="rating-line">Rating (1-5):</label>
+    <div id="rating-line" class="short-dotted-line"></div>
+    </div>
+</div>
+    </section>
+    <section class="main" id="technical_assessment_5">
+      <h3>Technical Competence 5: Organizational Skills</h3>
+<p>Strong organizational skills are critical for Medical Assistant IIs to effectively manage their varied responsibilities within the clinic, ensuring the smooth operation of patient care and support of healthcare services.</p>
+<h4>Lead Question</h4>
+<blockquote>
+<p><strong>"Tell us about a time when you had to juggle multiple tasks at once in a clinical setting. How did you prioritize and manage these tasks to maintain quality patient care?"</strong></p>
+</blockquote>
+<p><em>Look for evidence of efficient prioritization, multitasking ability, and effectiveness in handling a fast-paced environment.</em></p>
+<h4>Diving Deeper</h4>
+<ul>
+<li><strong>Time Management</strong>: "How do you typically organize your day to accommodate unexpected tasks or emergencies while still completing scheduled duties?"</li>
+<li><strong>Resource Coordination</strong>: "Describe a situation where you had to manage clinic resources during a busy day. What approach did you take?"</li>
+<li><strong>Work Prioritization</strong>: "When faced with simultaneous urgent tasks, how do you decide what to tackle first and how do you communicate this to your team?"</li>
+<li><strong>Procedure Preparation</strong>: "Can you walk us through your process for preparing an examination room or procedure area before the patient's arrival?"</li>
+</ul>
+<h4>Scenario</h4>
+<p>"Suppose you're the only Medical Assistant on duty, and you have a clinic full of waiting patients, medication refills to process, and a physician asking for immediate assistance with a procedure. How would you handle this situation while ensuring that all tasks are completed efficiently and accurately?"</p>
+<p><em>Look for candidates' strategies in dealing with high-pressure situations, their communication with team members, and their ability to delegate tasks where appropriate.</em></p> <h4>Notes</h4><div class='notes'>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="rating-container">
+    <label for="rating-line">Rating (1-5):</label>
+    <div id="rating-line" class="short-dotted-line"></div>
+    </div>
+</div>
+    </section>
+    <section class="main" id="behavioral_assessment_1">
+      <h2>Behavioral Assessment</h2>
+<p>The behavioral assessment is intended to delve into how the candidate's values align with Pacific Wellness Group's culture, focusing on qualities essential for the Medical Assistant II role. </p>
+<h3>Behavioral Competence 1: Adherence to Service Excellence (C-I-CARE)</h3>
+<p>Candidates must demonstrate a strong commitment to providing exceptional service and care, in line with Pacific Wellness Group's C-I-CARE framework which emphasizes compassion, integrity, accountability, respect, and engagement.</p>
+<h4>Lead Question</h4>
+<blockquote>
+<p><strong>"Reflecting on the C-I-CARE framework, can you provide an example of how you've embodied these values in your past work experience?"</strong></p>
+</blockquote>
+<p><em>Look for specific instances where the candidate has gone above and beyond to provide exemplary care and service.</em></p>
+<h4>Diving Deeper</h4>
+<ul>
+<li><strong>Empathy</strong>: "Describe a time when you empathized with a patient or their family and how it impacted the care provided."</li>
+<li><strong>Accountability</strong>: "Share an occasion where you made a mistake in a clinical setting. How did you handle it, and what did you learn?"</li>
+<li><strong>Respect</strong>: "Give an example of how you have shown respect for a patient's or colleague's cultural beliefs or personal preferences."</li>
+<li><strong>Engagement</strong>: "Tell us about a time you actively engaged in a workplace initiative to improve patient satisfaction. What was your role and the result?"</li>
+</ul>
+<h4>Scenario</h4>
+<p>"Imagine a scenario where a patient is dissatisfied with their care and is voicing their concerns loudly in the waiting area. How would you manage this situation while upholding the principles of C-I-CARE?"</p>
+<p><em>Look for a balanced approach that ensures patient care and satisfaction without compromising respect and engagement.</em></p> <h4>Notes</h4><div class='notes'>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="rating-container">
+    <label for="rating-line">Rating (1-5):</label>
+    <div class="short-dotted-line"></div>
+    </div>
+</div>
+    </section>
+    <section class="main" id="behavioral_assessment_2">
+      <h3>Behavioral Competence 2: Teamwork and Collaboration</h3>
+<p>Effective teamwork and the ability to collaborate across different roles and departments are fundamental to the success of Pacific Wellness Group's mission. Candidates should possess strong interpersonal skills and a team-oriented mindset, reflecting the value of unified effort towards a common goal.</p>
+<h4>Lead Question</h4>
+<blockquote>
+<p><strong>"Can you tell us about a time when you had to collaborate with a diverse team to achieve a healthcare outcome? How did you ensure that everyone's expertise was utilized?"</strong></p>
+</blockquote>
+<p><em>Look for insights into the candidate's capacity to work collaboratively, promote team cohesion, and integrate diverse perspectives.</em></p>
+<h4>Diving Deeper</h4>
+<ul>
+<li><strong>Interdisciplinary Coordination</strong>: "Describe an interdisciplinary project you've been a part of. What role did you play and what was the outcome?"</li>
+<li><strong>Contribution to Team Goals</strong>: "What method do you typically use to contribute to team goals and objectives in a clinical environment?"</li>
+<li><strong>Conflict Resolution</strong>: "Provide an instance where you faced a conflict within your team. How did you contribute to its resolution?"</li>
+<li><strong>Shared Decision Making</strong>: "Explain a situation where you were involved in a collective decision-making process. How did you advocate for your viewpoint?"</li>
+</ul>
+<h4>Scenario</h4>
+<p>"A patient's treatment requires a quick, coordinated effort from the clinical team, involving several departments. You've noticed a lack of communication that could potentially delay the patient's care. How would you facilitate collaboration and communication among the team to expedite the patient's treatment?"</p>
+<p><em>Look for approaches that encourage effective teamwork, proactive communication, and commitment to the patient’s timely care.</em></p> <h4>Notes</h4><div class='notes'>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="rating-container">
+    <label for="rating-line">Rating (1-5):</label>
+    <div id="rating-line" class="short-dotted-line"></div>
+    </div>
+</div>
+    </section>
+    <section class="main" id="behavioral_assessment_3">
+      <h3>Behavioral Competence 3: Continuous Improvement (Innovation)</h3>
+<p>Aligning with Pacific Wellness Group's value of embracing innovation, a Medical Assistant II should display a commitment to continuous learning and improvement. Candidates should demonstrate how they seek to enhance their skills and processes to contribute to advancements in patient care and operational excellence.</p>
+<h4>Lead Question</h4>
+<blockquote>
+<p><strong>"Pacific Wellness Group values continuous improvement. Can you discuss an example of how you have identified and implemented a change that improved a process or outcome in your work?"</strong></p>
+</blockquote>
+<p><em>Look for a proactive approach to problem-solving, willingness to initiate change, and an innovative mindset.</em></p>
+<h4>Diving Deeper</h4>
+<ul>
+<li><strong>Process Optimization</strong>: "Describe a time when you suggested a new approach to a routine task that led to improvements in efficiency or outcomes."</li>
+<li><strong>Learning and Development</strong>: "How do you stay current with the latest developments in medical assisting and apply them to your daily responsibilities?"</li>
+<li><strong>Change Adaptability</strong>: "Recall an instance when a significant change was introduced in your workplace. How did you adapt, and what role did you play in facilitating the transition?"</li>
+<li><strong>Innovative Thinking</strong>: "Have you ever had an innovative idea that was not initially accepted? How did you handle the situation and pursue the idea?"</li>
+</ul>
+<h4>Scenario</h4>
+<p>"Consider that you've noticed patients often seem confused about their post-visit care instructions, which leads to frequent follow-up calls. How would you go about addressing and improving this situation?"</p>
+<p><em>Look for strategies that not only solve the immediate issue but also improve the overall patient experience and education process.</em></p> <h4>Notes</h4><div class='notes'>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="rating-container">
+    <label for="rating-line">Rating (1-5):</label>
+    <div id="rating-line" class="short-dotted-line"></div>
+    </div>
+</div>
+    </section>
+    <section class="main" id="behavioral_assessment_4">
+      <h3>Behavioral Competence 4: Professional Growth (Mentorship)</h3>
+<p>The Medical Assistant II at Pacific Wellness Group should embody the value of mentorship by actively seeking and fostering professional development. They should contribute to creating an environment that supports growth and knowledge sharing among colleagues.</p>
+<h4>Lead Question</h4>
+<blockquote>
+<p><strong>"Mentorship is a key value at Pacific Wellness Group. Can you provide an example of how you have either mentored someone else or benefited from mentorship in your professional journey?"</strong></p>
+</blockquote>
+<p><em>Look for examples reflecting commitment to personal growth and the development of others, as well as the ability to provide or receive guidance.</em></p>
+<h4>Diving Deeper</h4>
+<ul>
+<li><strong>Skill Enhancement</strong>: "How do you approach continuous skill improvement in your career as a Medical Assistant?"</li>
+<li><strong>Knowledge Sharing</strong>: "Describe a situation where you shared your expertise with colleagues or patients to improve their understanding or skills."</li>
+<li><strong>Mentoring Others</strong>: "Have you had the opportunity to mentor a less experienced medical professional or team member? What approach did you take, and how did the experience go?"</li>
+<li><strong>Career Planning</strong>: "Tell us about how you plan for your professional advancement, including any goals or strategies you have set."</li>
+</ul>
+<h4>Scenario</h4>
+<p>"A new medical assistant is struggling with the pace and complexity of tasks in the clinic. As a seasoned assistant, how would you support and mentor this colleague to enhance their performance and confidence?"</p>
+<p><em>Look for strategies indicating a supportive and constructive approach to mentorship and the ability to inspire confidence in others.</em></p> <h4>Notes</h4><div class='notes'>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="rating-container">
+    <label for="rating-line">Rating (1-5):</label>
+    <div id="rating-line" class="short-dotted-line"></div>
+    </div>
+</div>
+    </section>
+    <section class="main" id="behavioral_assessment_5">
+      <h3>Behavioral Competence 5: Community Building (Connection)</h3>
+<p>Pacific Wellness Group emphasizes the importance of fostering connections and building a supportive community. Candidates are expected to contribute to a culture where everyone feels valued, supported, and part of a cohesive group.</p>
+<h4>Lead Question</h4>
+<blockquote>
+<p><strong>"Building a supportive community is vital at Pacific Wellness Group. Can you share an experience where you played a key role in building or enhancing a sense of community in your workplace?"</strong></p>
+</blockquote>
+<p><em>Look for instances indicating the candidate's ability to create bonds, foster inclusiveness, and build a sense of belonging.</em></p>
+<h4>Diving Deeper</h4>
+<ul>
+<li><strong>Relationship Building</strong>: "What strategies do you use to develop and maintain positive working relationships with coworkers from different departments?"</li>
+<li><strong>Inclusivity</strong>: "Give us an example of how you have made others feel included in a team or project, especially those who might otherwise feel marginalized."</li>
+<li><strong>Community Participation</strong>: "How do you engage with your workplace or local community to promote connection and a shared sense of purpose?"</li>
+<li><strong>Supportive Networking</strong>: "Describe a network of support you’ve helped to create or been a part of. How has it benefited you and others?"</li>
+</ul>
+<h4>Scenario</h4>
+<p>"Suppose you notice that certain employees, particularly new hires or individuals from diverse backgrounds, are not actively participating in team discussions or social functions. What actions might you take to engage them and ensure they feel welcomed and valued?"</p>
+<p><em>Look for actions that demonstrate empathy, proactive inclusivity, and a genuine commitment to connecting with and supporting colleagues.</em></p> <h4>Notes</h4><div class='notes'>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="rating-container">
+    <label for="rating-line">Rating (1-5):</label>
+    <div id="rating-line" class="short-dotted-line"></div>
+    </div>
+</div>
+    </section>
+    <section class="main" id="practical_assignment">
+      <h2>Practical Assignment</h2>
+<p>The practical assignment for the Medical Assistant II candidate at Pacific Wellness Group will involve simulating a typical clinical task. This could be a mock patient consultation where the candidate is required to take a patient history, explain a common procedure, prepare the room, and demonstrate how they would document the visit in the EMR system.</p>
+<p>Objectives:
+- Assess the candidate's ability to apply their clinical skills in a practical setting.
+- Evaluate the candidate's proficiency with EMR and documentation.
+- Observe the candidate's communication skills and bedside manner with patients.</p>
+<p>Evaluation Criteria:
+- Accuracy in obtaining patient information.
+- Clarity and empathy in communication with the "patient."
+- Effectiveness in preparing for and explaining the procedure.
+- Proficiency in documenting the consultation in the EMR.</p>
+<p>Interviewers should assess the candidate's approach, noting their organization, attention to detail, and ability to provide comprehensive patient care. Candidates should also be evaluated on their comfort and familiarity with using EMR systems, as well as their ability to maintain professional and supportive patient interactions.</p> <h4>Notes</h4><div class='notes'>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="rating-container">
+    <label for="rating-line">Rating (1-5):</label>
+    <div id="rating-line" class="short-dotted-line"></div>
+    </div>
+</div>
+    </section>
+    <section class="main" id="team_interaction">
+      <h2>Team Fit</h2>
+<p>For the Medical Assistant II position at Pacific Wellness Group, it is essential to assess how well the candidate will mesh with the existing team. The team interaction component of the interview provides insights into the candidate's interpersonal skills, adaptability, and ability to work collaboratively with colleagues.</p>
+<p>During this stage, the candidate may be introduced to potential peers and supervisors. This could include a brief meet and greet, a shadowing period, or a more structured group discussion with team members on relevant topics.</p>
+<p>Rationale for team involvement:
+- To observe the candidate's interaction with potential colleagues.
+- To garner feedback from staff who will be working directly with the new hire.
+- To determine the candidate’s fit within the team dynamic and company culture.</p>
+<p>Potential discussion points or activities:
+- How the candidate approaches teamwork and handles joint responsibilities.
+- Feedback on the candidate's communication style and responsiveness.
+- Compatibility with the team’s working style and problem-solving methods.</p>
+<p>The interviewer should note the candidate's ability to build rapport, participate in group discussions constructively, and respond to the team's dynamics. Feedback from team members involved in the interaction should also be considered when evaluating the overall potential for success in the role.</p> <h4>Notes</h4><div class='notes'>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="dotted-line"></div>
+    <div class="rating-container">
+    <label for="rating-line">Rating (1-5):</label>
+    <div id="rating-line" class="short-dotted-line"></div>
+    </div>
+</div>
+    </section>
+    <section class="main" id="candidate_questions">
+      <h2>Candidate Q&amp;A</h2>
+<p>It's critical for candidates to have the opportunity to ask questions about their potential new role and organization. This can provide valuable insights into their priorities and interest in the position at Pacific Wellness Group.</p>
+<p>Here are six questions candidates might ask, along with comprehensive answers:</p>
+<ol>
+<li>
+<p><strong>"What opportunities for professional development does Pacific Wellness Group offer for Medical Assistant IIs?"</strong>
+   <em>Answer: Pacific Wellness Group values continuous learning and offers various professional development programs, including in-house training, mentorship opportunities, access to medical seminars, and support for ongoing education relevant to the medical field.</em></p>
+</li>
+<li>
+<p><strong>"How does the clinic measure success for someone in this position?"</strong>
+   <em>Answer: Success is measured by a combination of patient satisfaction scores, adherence to health and safety protocols, efficiency in clinical operations, and the ability to work effectively with the healthcare team.</em></p>
+</li>
+<li>
+<p><strong>"Can you describe the typical team dynamics I would be joining?"</strong>
+   <em>Answer: You'll be joining a dedicated team focused on collaboration and quality patient care. Our team dynamics are rooted in open communication, mutual support, and shared commitment to our company values.</em></p>
+</li>
+<li>
+<p><strong>"How does innovation play a part in the daily responsibilities of a Medical Assistant II?"</strong>
+   <em>Answer: We encourage our Medical Assistants to contribute innovative ideas that can improve patient care or clinic operations, whether through new technologies, process improvements, or patient engagement strategies.</em></p>
+</li>
+<li>
+<p><strong>"What is the most challenging aspect that others have found in this role, and how does the clinic support staff in handling this?"</strong>
+   <em>Answer: One of the challenging aspects is balancing the varied tasks a Medical Assistant II is responsible for. Pacific Wellness Group supports its staff with a collaborative environment where asking for help and teamwork is encouraged.</em></p>
+</li>
+<li>
+<p><strong>"What impact do you hope the new Medical Assistant II will have in the first six months?"</strong>
+   <em>Answer: We expect the new Medical Assistant II to integrate with the team seamlessly, bring a positive energy to patient interactions, showcase considerable growth in familiarity with our processes, and begin to contribute to our constant pursuit of excellence in patient care.</em></p>
+</li>
 </ol>
-<h2 id="technical-competence-1-clinical-procedures">Technical Competence
-1: Clinical Procedures</h2>
-<p>Clinical Procedures competency encompasses a candidate’s expertise in
-performing a range of essential clinical tasks, directly impacting
-patient care and treatment outcomes. This skill is vital for a Medical
-Assistant II at Pacific Wellness Group, as they must proficiently aid
-physicians and address patient needs in a clinical environment.</p>
-<h4 id="lead-question">Lead Question</h4>
-<blockquote>
-<p><strong>Describe a complex clinical procedure you have assisted with.
-How did you prepare for it, and what steps did you take to ensure its
-success?</strong></p>
-</blockquote>
-<p><em>Look for details on the candidate’s ability to prepare, their
-understanding of the procedure, and their role in ensuring patient
-safety and positive outcomes.</em></p>
-<h4 id="diving-deeper">Diving Deeper</h4>
-<ul>
-<li><strong>Patient Care</strong>: Can you walk me through how you
-approach a patient’s comfort and anxiety before a procedure?</li>
-<li><strong>Procedure Assistance</strong>: Tell me about a time when you
-had to improvise during a procedure due to unexpected
-circumstances.</li>
-<li><strong>Clinical Equipment</strong>: How do you maintain proficiency
-with new and existing clinical equipment?</li>
-<li><strong>Health &amp; Safety Compliance</strong>: Give an example of
-how you have contributed to enhancing the health and safety protocols
-within your current clinic.</li>
-</ul>
-<h4 id="scenario">Scenario</h4>
-<p>Imagine a situation where you’re assisting in a clinical procedure,
-and you notice that the physician is about to make a potential error,
-such as incorrect dosing or using the wrong equipment. How would you
-handle this scenario to ensure the safety and well-being of the
-patient?</p>
-<p><em>Look for communication skills, assertiveness, knowledge of
-clinical protocols, and the ability to react appropriately under
-pressure.</em></p>
-<h5 id="notes">Notes</h5>
-<p>__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________</p>
-<p>Rating (1-5): __________</p>
-<h3 id="technical-competence-2-medical-knowledge">Technical Competence
-2: Medical Knowledge</h3>
-<p>Medical Knowledge is a crucial technical competency that requires not
-only a well-established foundation in medical practices but also the
-capacity to apply this knowledge efficiently in patient care. This
-aligns with Pacific Wellness Group’s vision of healing humanity with
-science and compassion.</p>
-<h4 id="lead-question-1">Lead Question</h4>
-<blockquote>
-<p><strong>Considering the wide range of medical conditions we encounter
-at Pacific Wellness Group, can you share an instance where your medical
-knowledge significantly improved a patient’s outcome?</strong></p>
-</blockquote>
-<p><em>Look for examples that show the candidate’s deep understanding of
-medical conditions, proactive application of knowledge, and impact on
-patient care.</em></p>
-<h4 id="diving-deeper-1">Diving Deeper</h4>
-<ul>
-<li><strong>Routine Tasks</strong>: What techniques do you employ to
-ensure that routine tasks are performed with a high degree of accuracy
-and care?</li>
-<li><strong>Policy &amp; Procedural Knowledge</strong>: How do you stay
-informed about the latest clinic policies and ensure adherence to
-them?</li>
-<li><strong>Specialty Care</strong>: Describe your experience in a
-specialty area and how you’ve expanded your knowledge base in that
-field.</li>
-<li><strong>Patient Education</strong>: Can you discuss your approach to
-patient education and how you tailor it to each patient’s needs?</li>
-</ul>
-<h4 id="scenario-1">Scenario</h4>
-<p>Suppose a patient presents with symptoms that suggest a possible rare
-condition, which you have only read about but never encountered. How
-would you proceed with your initial assessment, and what steps would you
-take to ensure the correct diagnosis and treatment plan?</p>
-<p><em>Look for the candidate’s research skills, clinical judgment, use
-of resources, and ability to collaborate for accurate diagnosis and care
-plan decisions.</em></p>
-<h5 id="notes-1">Notes</h5>
-<p>__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________</p>
-<p>Rating (1-5): __________</p>
-<h3 id="technical-competence-3-technical-communication">Technical
-Competence 3: Technical Communication</h3>
-<p>Technical Communication is about effectively conveying complex
-medical information in a clear, professional, and empathetic manner, to
-both patients and healthcare professionals. This skill is essential at
-Pacific Wellness Group to ensure the highest quality of care and patient
-comprehension.</p>
-<h4 id="lead-question-2">Lead Question</h4>
-<blockquote>
-<p><strong>Can you give an example of a time when you had to explain a
-difficult medical concept to a patient or a patient’s family? How did
-you ensure they understood?</strong></p>
-</blockquote>
-<p><em>Look for clarity in communication, the ability to break down
-complex information, and the candidate’s empathy and patience.</em></p>
-<h4 id="diving-deeper-2">Diving Deeper</h4>
-<ul>
-<li><strong>EMR Proficiency</strong>: Explain how you have used an EMR
-to improve patient care or clinic operations.</li>
-<li><strong>Written Communication</strong>: Describe your process for
-documenting clinical notes to ensure they are both thorough and clear
-for other healthcare providers.</li>
-<li><strong>Verbal Communication</strong>: Share a time when your verbal
-communication skills made a difference in a patient’s experience or
-outcome.</li>
-<li><strong>Patient Portal Management</strong>: Discuss your experience
-managing patient communications through a portal and how you ensure
-timely and effective responses.</li>
-</ul>
-<h4 id="scenario-2">Scenario</h4>
-<p>Imagine you are tasked with introducing a new electronic medical
-records system to your team. How would you communicate the changes, and
-what methods would you use to train and support the team during the
-transition?</p>
-<p><em>Look for the ability to handle change management, communicate
-effectively across different mediums, and support the team through
-knowledge sharing and training.</em></p>
-<h5 id="notes-2">Notes</h5>
-<p>__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________</p>
-<p>Rating (1-5): __________</p>
-<h3 id="technical-competence-4-bls-competency">Technical Competence 4:
-BLS Competency</h3>
-<p>BLS Competency is pivotal for a Medical Assistant II in ensuring the
-ability to respond swiftly and effectively to emergencies, providing
-life-saving procedures as per established guidelines.</p>
-<h4 id="lead-question-3">Lead Question</h4>
-<blockquote>
-<p><strong>Share your most challenging experience performing BLS in a
-clinical setting. What were the circumstances, and how did you ensure a
-successful outcome?</strong></p>
-</blockquote>
-<p><em>Look for the demonstration of proficiency under pressure,
-adherence to BLS protocols, and effective teamwork.</em></p>
-<h4 id="diving-deeper-3">Diving Deeper</h4>
-<ul>
-<li><strong>CPR</strong>: Describe the CPR protocol you follow and the
-frequency with which you practice or renew your CPR certification.</li>
-<li><strong>Emergency Response</strong>: Can you recount an instance
-where you were the first responder to a clinical emergency? What actions
-did you take?</li>
-<li><strong>Rescue Breaths</strong>: Under what circumstances would you
-choose rescue breaths over full CPR, and what technique do you use?</li>
-<li><strong>Automated External Defibrillator (AED)</strong>: Discuss
-your experience using an AED. Have you ever had to utilize one in an
-actual emergency?</li>
-</ul>
-<h4 id="scenario-3">Scenario</h4>
-<p>A patient in the waiting room suddenly collapses and is unresponsive.
-Walk me through the exact steps you would take from the moment you first
-see the patient to when emergency medical services arrive.</p>
-<p><em>Look for a clear understanding of emergency procedures, the
-ability to remain calm and methodical, and knowledge of the BLS
-algorithm.</em></p>
-<h5 id="notes-3">Notes</h5>
-<p>__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________</p>
-<p>Rating (1-5): __________</p>
-<h3 id="technical-competence-5-computer-and-technical-skills">Technical
-Competence 5: Computer and Technical Skills</h3>
-<p>Computer and Technical Skills are essential for streamlining clinical
-operations, enhancing patient care, and ensuring accuracy in a digital
-healthcare environment.</p>
-<h4 id="lead-question-4">Lead Question</h4>
-<blockquote>
-<p><strong>Describe your experience with a challenging technological
-issue in the clinic and how you resolved it. What was the issue, and
-what was your approach to solving it?</strong></p>
-</blockquote>
-<p><em>Look for problem-solving capabilities, technical aptitude, and
-the ability to minimize disruptions in patient care.</em></p>
-<h4 id="diving-deeper-4">Diving Deeper</h4>
-<ul>
-<li><strong>Microsoft Office Suite</strong>: Provide an example of how
-you’ve used Excel or another Office application to improve a work
-process in your clinic.</li>
-<li><strong>Technology Adaptation</strong>: Tell us about a time you had
-to learn a new piece of technology or software quickly for your role.
-How did you approach this?</li>
-<li><strong>Multi-Tasking Software</strong>: How do you manage using
-multiple software applications simultaneously without affecting your
-efficiency?</li>
-<li><strong>Data Entry Accuracy</strong>: What methods do you use to
-ensure the high accuracy of data you enter into systems?</li>
-</ul>
-<h4 id="scenario-4">Scenario</h4>
-<p>Assume you’re responsible for migrating patient records from an old
-system to a new one without any loss of critical information. What
-measures would you put in place to ensure the accuracy and completeness
-of the data transfer?</p>
-<p><em>Look for a systematic approach to data management, attention to
-detail, and the ability to ensure data integrity.</em></p>
-<h5 id="notes-4">Notes</h5>
-<p>__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________</p>
-<p>Rating (1-5): __________</p>
-<h2 id="behavioral-competence-1-service-excellence">Behavioral
-Competence 1: Service Excellence</h2>
-<p>Service Excellence involves committing oneself to provide exceptional
-patient experience, demonstrating Pacific Wellness Group’s focus on
-connection and compassion. This competency is about putting the patient
-first and striving for the highest quality service.</p>
-<h4 id="lead-question-5">Lead Question</h4>
-<blockquote>
-<p><strong>Discuss a time when you went above and beyond to ensure a
-patient received exceptional care. What motivated you, and what was the
-result?</strong></p>
-</blockquote>
-<p><em>Look for actions that exemplify a strong patient focus,
-personalized care, and a desire to exceed standard
-expectations.</em></p>
-<h4 id="diving-deeper-5">Diving Deeper</h4>
-<ul>
-<li><strong>C-I-CARE Execution</strong>: How do you incorporate C-I-CARE
-principles into your daily interactions with patients?</li>
-<li><strong>Patient-Centric Behavior</strong>: Can you give an example
-of how you’ve modified care for a patient based on their individual
-needs or feedback?</li>
-<li><strong>Feedback Responsiveness</strong>: Describe how you have
-changed a process or behavior in response to feedback from patients or
-colleagues.</li>
-<li><strong>Empathy &amp; Understanding</strong>: Share a challenging
-patient situation and how you used empathy to manage it
-effectively.</li>
-</ul>
-<h4 id="scenario-5">Scenario</h4>
-<p>Imagine you are dealing with a particularly anxious patient who is
-resistant to treatment. How would you communicate with them to alleviate
-their concerns and gain their cooperation for the necessary
-procedures?</p>
-<p><em>Look for the ability to employ empathy, clear communication, and
-problem-solving to provide exceptional patient care.</em></p>
-<h5 id="notes-5">Notes</h5>
-<p>__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________</p>
-<p>Rating (1-5): __________</p>
-<h3 id="behavioral-competence-2-team-collaboration">Behavioral
-Competence 2: Team Collaboration</h3>
-<p>Team Collaboration embodies the synergy of working across various
-healthcare roles and departments, aligning with Pacific Wellness Group’s
-value of teamwork to enhance patient care and facilitate clinic
-operations.</p>
-<h4 id="lead-question-6">Lead Question</h4>
-<blockquote>
-<p><strong>Tell us about a time when you were part of a healthcare team
-that faced a significant challenge. How did you contribute to overcoming
-it?</strong></p>
-</blockquote>
-<p><em>Look for the ability to work effectively with others, contribute
-to team goals, and overcome obstacles.</em></p>
-<h4 id="diving-deeper-6">Diving Deeper</h4>
-<ul>
-<li><strong>Interdisciplinary Communication</strong>: Describe how you
-have effectively communicated with another department or discipline to
-achieve a patient care goal.</li>
-<li><strong>Collaborative Problem Solving</strong>: Provide an example
-of a problem you solved as part of a team and the role you played in
-that process.</li>
-<li><strong>Shared Goals</strong>: Can you discuss a time when you had
-to align with team members to achieve a common goal? What was the
-outcome?</li>
-<li><strong>Role Versatility</strong>: How do you adapt when asked to
-take on tasks outside your usual scope of work?</li>
-</ul>
-<h4 id="scenario-6">Scenario</h4>
-<p>You notice tension arising between team members due to workload
-distribution and differing opinions on patient care priorities. How
-would you navigate this situation to restore harmony and ensure that
-patient care is not compromised?</p>
-<p><em>Look for the ability to mediate conflicts, maintain team
-cohesiveness, and prioritize patient care.</em></p>
-<h5 id="notes-6">Notes</h5>
-<p>__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________</p>
-<p>Rating (1-5): __________</p>
-<h3 id="behavioral-competence-3-professional-development">Behavioral
-Competence 3: Professional Development</h3>
-<p>Professional Development focuses on the aspiration for continuous
-learning and growth, reflecting Pacific Wellness Group’s value of
-mentorship and participation. It represents an individual’s commitment
-to enhance their skill set and contribute to their team’s collective
-expertise.</p>
-<h4 id="lead-question-7">Lead Question</h4>
-<blockquote>
-<p><strong>How do you engage in professional development, and can you
-share a specific instance where this led to improvement in your work or
-patient care?</strong></p>
-</blockquote>
-<p><em>Look for a dedication to learning, application of new knowledge,
-and an initiative to improve professionally.</em></p>
-<h4 id="diving-deeper-7">Diving Deeper</h4>
-<ul>
-<li><strong>Skill Enhancement</strong>: What methods or resources do you
-utilize for enhancing your clinical skills?</li>
-<li><strong>Knowledge Sharing</strong>: How have you contributed to the
-professional growth of your colleagues?</li>
-<li><strong>Mentoring Peers</strong>: Describe your experience with
-mentoring a less experienced team member. What approach did you
-take?</li>
-<li><strong>Feedback Welcoming</strong>: Give an example of a time you
-actively sought out feedback and how you applied it to your professional
-development.</li>
-</ul>
-<h4 id="scenario-7">Scenario</h4>
-<p>You are offered an opportunity to participate in a new training
-program that is not mandatory but would significantly expand your
-current skill set. However, the training would require extra time
-outside of work hours. How would you decide whether to participate, and
-what steps would you take to manage your additional workload?</p>
-<p><em>Look for the candidate’s willingness to invest in their own
-growth and balance their responsibilities effectively.</em></p>
-<h5 id="notes-7">Notes</h5>
-<p>__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________</p>
-<p>Rating (1-5): __________</p>
-<h3 id="behavioral-competence-4-ethical-practice-integrity">Behavioral
-Competence 4: Ethical Practice &amp; Integrity</h3>
-<p>Ethical Practice &amp; Integrity is about upholding the highest
-ethical standards and demonstrating integrity in every action and
-decision, crucial for maintaining trust and respect within Pacific
-Wellness Group.</p>
-<h4 id="lead-question-8">Lead Question</h4>
-<blockquote>
-<p><strong>Can you recount a situation where your integrity was tested
-in the workplace? How did you handle it, and what was the
-outcome?</strong></p>
-</blockquote>
-<p><em>Look for a commitment to ethical principles, honesty in difficult
-situations, and accountability for actions.</em></p>
-<h4 id="diving-deeper-8">Diving Deeper</h4>
-<ul>
-<li><strong>Confidentiality</strong>: Describe your approach to
-maintaining confidentiality of patient information.</li>
-<li><strong>Honesty in Communication</strong>: Talk about a time when
-you had to be honest with a patient or colleague about a difficult or
-uncomfortable topic.</li>
-<li><strong>Ethical Decision-Making</strong>: Provide an example of an
-ethical dilemma you’ve faced in the clinic and the process you followed
-to resolve it.</li>
-<li><strong>Professional Accountability</strong>: Discuss a mistake
-you’ve made in a professional setting and how you addressed it.</li>
-</ul>
-<h4 id="scenario-8">Scenario</h4>
-<p>Suppose a colleague is unintentionally breaching patient
-confidentiality. You discover this breach before anyone else. What steps
-would you take to address the situation while maintaining the respect
-and trust of your colleague?</p>
-<p><em>Look for the ability to handle sensitive situations
-diplomatically, uphold ethical standards, and reinforce the importance
-of confidentiality.</em></p>
-<h5 id="notes-8">Notes</h5>
-<p>__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________</p>
-<p>Rating (1-5): __________</p>
-<h3 id="behavioral-competence-5-organizational-skills">Behavioral
-Competence 5: Organizational Skills</h3>
-<p>Organizational Skills reflect an individual’s ability to manage tasks
-effectively, enhancing clinic efficiency and directly supporting Pacific
-Wellness Group’s value of uniting diverse perspectives for the greater
-good.</p>
-<h4 id="lead-question-9">Lead Question</h4>
-<blockquote>
-<p><strong>Tell us about a time when your organizational skills directly
-contributed to improving patient care or clinic workflow.</strong></p>
-</blockquote>
-<p><em>Look for examples of efficient task management, solution-oriented
-thinking, and successful outcomes.</em></p>
-<h4 id="diving-deeper-9">Diving Deeper</h4>
-<ul>
-<li><strong>Prioritization</strong>: How do you decide what tasks to
-prioritize when everything seems urgent?</li>
-<li><strong>Time Management</strong>: Can you provide an example of how
-you managed your time effectively during an especially busy period?</li>
-<li><strong>Resource Coordination</strong>: Describe a situation where
-you had to coordinate multiple resources to complete a task or
-project.</li>
-<li><strong>Plan Execution</strong>: Share an experience where you had
-to adjust your plan due to unforeseen circumstances while ensuring all
-tasks were completed.</li>
-</ul>
-<h4 id="scenario-9">Scenario</h4>
-<p>You are in charge of coordinating a flu vaccine clinic that will
-serve a large number of patients. On the day of the clinic, several
-staff members call in sick, and you are faced with limited resources.
-How would you reorganize the clinic’s operations to ensure minimal
-disruption to patient services?</p>
-<p><em>Look for the ability to adapt and re-prioritize in response to
-changing circumstances without compromising quality of service.</em></p>
-<h5 id="notes-9">Notes</h5>
-<p>__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________</p>
-<p>Rating (1-5): __________</p>
-<h2 id="practical-assignment">Practical Assignment</h2>
-<p>For the Medical Assistant II position, the practical assignment will
-involve a hands-on simulation exercise to evaluate the candidate’s
-clinical skills, technical aptitude, and ability to communicate
-effectively within a healthcare setting.</p>
-<p>The assignment objectives are to assess the candidate’s: -
-Proficiency in clinical procedures under simulated conditions. -
-Application of medical knowledge to a practical scenario. - Usage of
-electronic medical records and other technology in patient management. -
-Performance of Basic Life Support procedures with a mannequin.</p>
-<p>During the simulation, the interviewer will evaluate the candidate’s
-approach to patient care, adherence to safety protocols, and ability to
-handle unexpected challenges. This will provide an insight into their
-practical skills and how they translate medical knowledge into
-action.</p>
-<p>The interviewer should assess the candidate’s ability to stay
-composed, communicate clearly, and prioritize tasks efficiently.
-Feedback should focus on the candidate’s technical execution,
-problem-solving skills, and potential areas for development.</p>
-<h5 id="notes-10">Notes</h5>
-<p>__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________</p>
-<p>Rating (1-5): __________</p>
-<h2 id="team-fit">Team Fit</h2>
-<p>The team fit segment of the interview process assesses how well the
-candidate integrates with the existing clinic team, and whether their
-style of communication, collaboration, and problem-solving aligns with
-the team dynamics as well as Pacific Wellness Group’s values.</p>
-<p>During this phase, the candidate will interact with potential team
-members in a less formal setting, such as a group discussion or a small
-project collaboration. This provides an opportunity to observe the
-candidate’s interaction styles, their impact on the team atmosphere, and
-their ability to contribute to group objectives.</p>
-<p>Discussion points or activities may revolve around past team
-experiences, how the candidate approaches collaborative work, conflict
-resolution, and their strategies for maintaining team cohesiveness. It
-is beneficial to include scenarios or role-play exercises to see the
-candidate’s real-time interaction with team members.</p>
-<h5 id="notes-11">Notes</h5>
-<p>__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________
-__________________________________________________________________________________________</p>
-<p>Rating (1-5): __________</p>
-<h2 id="candidate-qa">Candidate Q&amp;A</h2>
-<p>This section outlines questions that candidates might ask during the
-interview and provides comprehensive answers designed to offer insights
-into the role, the Pacific Wellness Group, and the expectations of the
-Medical Assistant II position.</p>
-<ol type="1">
-<li><p><strong>What does a typical day look like for a Medical Assistant
-II at Pacific Wellness Group?</strong> A typical day involves a mix of
-patient care, assisting physicians with clinical procedures, managing
-electronic medical records, and participating in team huddles to discuss
-patient care priorities.</p></li>
-<li><p><strong>How does Pacific Wellness Group ensure continuous
-professional development for its staff?</strong> We offer regular
-in-house training, mentorship programs, tuition reimbursement for
-relevant courses, and support for obtaining specialized
-certifications.</p></li>
-<li><p><strong>Can you tell me more about how the clinic incorporates
-the Pacific Wellness Group values into daily operations?</strong> Our
-clinic operations are grounded in our core values; innovation is at the
-heart of our clinical procedures, connection guides our patient
-interactions, teamwork is fundamental in our collaborative environment,
-mentorship enhances professional growth, and action drives our
-decision-making processes to improve patient outcomes.</p></li>
-<li><p><strong>What is the patient-to-staff ratio, and how does it
-affect workflow?</strong> Our staffing is designed to optimize patient
-care without overburdening our staff, ensuring that medical assistants
-can focus on quality interactions with each patient.</p></li>
-<li><p><strong>How does the clinic measure success in terms of patient
-care and satisfaction?</strong> We use a combination of patient feedback
-surveys, treatment outcome analytics, and regular staff reviews to gauge
-both patient care quality and satisfaction levels.</p></li>
-<li><p><strong>What are the opportunities for advancement within Pacific
-Wellness Group for a Medical Assistant II?</strong> There are
-significant opportunities for advancement through assuming higher levels
-of responsibility, moving into specialized areas of care, or pursuing
-managerial roles. Performance, ongoing education, and professional
-development are key factors in advancement potential.</p></li>
-</ol>
-</body>
+    </section>
+  </body>
 </html>
