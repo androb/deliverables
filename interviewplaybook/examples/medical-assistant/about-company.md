@@ -1,15 +1,15 @@
 
-# About Pacific Wellness Group - Academic Healthcare Consortium
+## About Pacific Wellness Group - Academic Healthcare Consortium
 
 Based on the search results, here is a summary of the key information about the mission, vision, and values of Pacific Wellness Group - Academic Healthcare Consortium:
 
-## Mission:
+### Mission:
 - To be the premier community network for the Pacific Wellness Group System, delivering the best patient experience with the most effective clinical outcomes (per Academic Medicine Partners website).
 
-## Vision:
+### Vision:
 - Healing humanity through science and compassion, one patient at a time.
 
-## Values:
+### Values:
 - Innovation - embracing innovation, change and continuous improvement to raise quality of care and shape the future of medicine 
 - Connection - cultivating community, connection and care for each other to nurture trust, respect, belonging and shared purpose
 - Teamwork - collaborating across roles, ranks, units and departments to unlock possibilities for greater impact and fulfillment
