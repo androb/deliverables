@@ -1,472 +1,478 @@
-# Interview Playbook for Infrastructure Software Engineer
+--- 
+title: Interview Guide for Medical Assistant II
+subtitle: Pacific Wellness Group - Academic Healthcare Consortium
+author: Created by [Deliverables.ai](https://github.com/androb/deliverables)
+date: January 09, 2024 1:42 PM
+--- 
 
-## Introduction
+# Interview Guide for Medical Assistant II
 
-This guide is crafted to help the hiring team of Y Combinator as they seek to fill the crucial role of an Infrastructure Software Engineer. The purpose of this playbook is to ensure a values-driven evaluation process, enabling the team to identify and select a candidate whose skills and behaviors align with the company's mission, vision, and values. The infrastructure software engineer role is integral to the maintenance, improvement, and scaling of the company's web application infrastructure. Our interview process aims to assess technical and behavioral competencies that match our needs and company culture.
+## About this Guide
 
-## Interview Structure
+Welcome to this strategic guide crafted to streamline and enhance the interview process for the position of Medical Assistant II. 
+This document serves as a comprehensive resource for hiring teams, ensuring a structured, efficient, and effective evaluation of candidates. 
+The role of Medical Assistant II is crucial to Pacific Wellness Group - Academic Healthcare Consortium, bridging vital functions and contributing significantly to our success. Our aim is to identify 
+a candidate who not only possesses the necessary technical skills and experience but also aligns with our company's values and culture. 
 
-The interview process for the Infrastructure Software Engineer position is structured to holistically evaluate a candidate's technical prowess and alignment with Y Combinator's values. The estimated duration of the interview should range between 90 minutes to 120 minutes and consists of the following sections:
+The playbook outlines a clear structure for the interview, including a detailed assessment of key competencies, practical assignments, and behavioral insights. 
+Through this approach, we aspire to understand each candidate's potential and ensure the best fit for both the role and Pacific Wellness Group - Academic Healthcare Consortium.
 
-1. Introduction (5-10 minutes):
-   - Interviewers introduce themselves and give the candidate an overview of the session.
+This interview guide was created by [Deliverables AI](https://www.deliverables.ai) and is based on the job description and company description provided.
+It should be used in conjunction with an interviewer's expertise and knowledge of the domain to assess the candidate's suitability for the role. 
+Research shows that structured interviews are significantly more effective and less biased at identifying successful future employees and we welcome any 
+feedback you have to [feedback@deliverables.ai](mailto:feedback@deliverables.ai).
 
-2. Technical Skill Assessment (30-45 minutes):
-   - Deep dive into the candidate's technical qualifications, reviewing areas such as Cloud Platform Expertise, Web Application Development, Performance Optimization, Continuous Integration and Deployment, and Security and Reliability. Lead and probing questions will be used to understand the depth of the candidate's expertise and practical experiences in each area.
 
-3. Behavioral Competency Evaluation (30-45 minutes):
-   - Exploration of the candidate's alignment with Y Combinator's values, focusing on Ethical Judgment and Integrity, Agile and Responsive Approach, Founder and User-focused Mindset, Collaboration and Teamwork, and Continuous Learning and Development. Interviewers will ask scenarios and behavioral questions to evaluate these competencies.
 
-4. Practical Assignment and Discussion (20-30 minutes):
-   - Candidates may be given a real-world problem-solving activity relevant to the role, which they will need to complete prior to or during the interview.
+### Competency Framework
 
-5. Q&A and Conclusion (10-15 minutes):
-   - Candidates will have the opportunity to ask questions about the role, the team, and the company. The interviewers will provide closure for the session, outlining the next steps.
+The following competencies have been identified for the Medical Assistant II role at Pacific Wellness Group - Academic Healthcare Consortium:
 
 
 
-# Job Description
+1. **Clinical Expertise**: Demonstrates a refined level of skill in conducting clinical tasks, patient care, and procedures, ensuring high standards of health services are provided.
 
-## Infrastructure Software Engineer
 
-### Location
-San Francisco Bay Area
+2. **Communication Mastery**: Exhibits exceptional verbal and written communication abilities, ensuring effective and empathetic interactions with patients, which is critical to maintaining Pacific Wellness Group's value of Connection.
 
-### Type
-Full time
 
-### Department
-Software
+3. **Technology Proficiency**: Shows efficient use of medical and office software, including electronic health records and the patient portal system, demonstrating commitment to Pacific Wellness Group's value of Innovation.
 
-### About
-Y Combinator is the leading startup accelerator for entrepreneurs. Since 2005, YC has invested in over 4,000 companies, including Airbnb, Dropbox, Stripe, Reddit, Instacart, DoorDash, and Coinbase. Today, YC has built the most powerful startup community in the world alongside the products and programs to support founders for the life of their company.
 
-### Job Description
-Y Combinator is seeking an Infrastructure Software Engineer who will help manage and evolve the shared infrastructure that our software runs on. We have a team of approximately 15 Product Engineers who develop YC’s software products. Those products are developed in Ruby on Rails and run in AWS. Our team’s job is to provide a platform so our Product Engineers don’t have to think (as much) about infrastructure.
+4. **Patient Service Commitment**: Consistently applies the C-I-CARE framework to provide top-tier patient service, crucial to achieving Pacific Wellness Group's mission of delivering the best patient experience.
 
-The ideal candidate will have experience debugging and developing a very broad stack. They’re comfortable talking about HTTP caching, AWS security groups, Rails monkey patching, n+1 queries in Active Record, CSRF protection, and React components.
 
-Enjoy the many perks of working for a successful company – competitive salary and excellent benefits including fully-paid health care benefits and unlimited vacation – while working on a small, fast-moving and high-impact team.
+5. **Collaborative Teamwork**: Actively engages with colleagues to foster a cooperative team environment, advancing patient outcomes and embodying Pacific Wellness Group's values of Teamwork and Participation.
 
-In your first month, you might:
 
-* Migrate a Rails application from Capistrano and EC2 to Docker and ECS
-* Upgrade one of our applications to a newer version of Postgres or Rails
-* Move more of our AWS infrastructure into Terraform
-* Simplify our use of Webpack and Javascript for both developer productivity and faster deployments
-* Create shared infrastructure to help manage email subscriptions and unsubscribes across 5 different product teams
-* Triage and respond to bug bounty reports
-* Work with outside security auditors to run a penetration test against our applications
+6. **Organizational Efficiency**: Utilizes strong organizational skills and an ability to multitask to enhance operational workflow, reflective of Pacific Wellness Group's commitment to Action.
 
-Key Responsibilities:
 
-* Provide a stable modern platform for our applications to be deployed to
-* Keep our applications and data secure
-* Improve our developer experience and tools so the YC Software Team can ship product updates quickly
-* Help debug performance issues in our web applications
-* Ship Ruby on Rails and TypeScript code that is shared among multiple YC applications
+7. **Health and Safety Compliance**: Adheres strictly to safety protocols and clinical policies, ensuring a safe environment when handling biohazards such as bloodborne pathogens.
 
-Skills:
 
-* You know how to develop and debug MVC web applications. We use Ruby on Rails, Postgres, and React, but don’t worry if you haven’t used those specific technologies before
-* You know how to deploy and run applications with AWS and Docker
-* You use Terraform to make infrastructure changes
+8. **Physical Fitness**: Capable of fulfilling the physical requirements of the role including standing, walking, bending, lifting, and operating clinical machinery.
 
-Experience:
 
-* You have at least 5 years of experience developing and deploying web applications
-* You are deeply familiar with the AWS platform specifically ECS, RDS, IAM, and CloudWatch
+9. **Continuous Learning**: Engages in continued education and professional development opportunities to keep skills up-to-date, aligned with Pacific Wellness Group's value of Mentorship.
 
 
-*Location*: YC is headquartered in the SF Bay Area with employees working from home or from our offices in San Francisco and Mountain View, CA. Candidates must live in the SF Bay Area or be willing to relocate. 
 
-*Compensation*: $130,000 to $270,000 + bonus (depending on skills and experience). 
 
-*Benefits*: Our full benefits package includes medical, vision, and dental plans, infertility benefit, STD/LTD, life insurance, commuter benefits, flexible spending account, health savings account, 401(k) + 4% matching, generous parental leave, paid holidays and flexible paid time off policy.
 
-*Work Authorization*: This position does not support work authorization/visa sponsorship. 
 
-Y Combinator considers qualified applicants with criminal histories, consistent with applicable federal, state, and local law including San Francisco’s Fair Chance Ordinance. Y Combinator is committed to protecting the privacy of the personal information of job applicants and complying with the California Consumer Privacy Act. The privacy policy of Ashby, Inc., the hiring platform used by Y Combinator, governs the collection of such data and can be found here.
+## About Pacific Wellness Group - Academic Healthcare Consortium
 
-## Evaluation Criteria
+Based on the search results, here is a summary of the key information about the mission, vision, and values of Pacific Wellness Group - Academic Healthcare Consortium:
 
-The following scorecard is designed to objectively assess the key competencies of candidates for the role of Infrastructure Software Engineer at Y Combinator. Each candidate should be evaluated based on the technical and behavioral competencies aligned with the company's overarching values.
+### Mission:
+- To be the premier community network for the Pacific Wellness Group System, delivering the best patient experience with the most effective clinical outcomes (per Academic Medicine Partners website).
 
-| Competency                              | Assessment (1-5) | Comments                                      |
-|-----------------------------------------|------------------|-----------------------------------------------|
-| MVC Web Application Development         |                  |                                               |
-| AWS and Docker Deployment               |                  |                                               |
-| Ruby on Rails and TypeScript Development|                  |                                               |
-| Performance Optimization                |                  |                                               |
-| Security and Penetration Testing        |                  |                                               |
-| Problem-Solving Ability                 |                  |                                               |
-| Collaboration and Teamwork              |                  |                                               |
-| Continuous Learning and Adaptability    |                  |                                               |
-| Developer Experience Enhancement        |                  |                                               |
-| Communication and Influencing           |                  |                                               |
-| Practical Assignment                    |                  |                                               |
-| Team Interaction                        |                  |                                               |
+### Vision:
+- Healing humanity through science and compassion, one patient at a time.
 
-### Rating Guide
+### Values:
+- Innovation - embracing innovation, change and continuous improvement to raise quality of care and shape the future of medicine 
+- Connection - cultivating community, connection and care for each other to nurture trust, respect, belonging and shared purpose
+- Teamwork - collaborating across roles, ranks, units and departments to unlock possibilities for greater impact and fulfillment
+- Mentorship - nurturing and pursuing ongoing professional growth to enjoy impactful and fulfilling careers
+- Participation - freely sharing opinions and valuing diverse backgrounds and contributions to improve decision-making, outcomes and engagement
+- Action - uniting diverse perspectives and expertise for the greater good (per Academic School of Medicine principles)
 
-1. Far Below Expectations: The candidate fails to meet the competency criteria and does not demonstrate the necessary skills or knowledge.
-2. Below Expectations: The candidate meets some aspects of the competency criteria but is inconsistent and requires additional development.
-3. Meets Expectations: The candidate sufficiently meets the competency criteria and demonstrates an acceptable level of skill and understanding.
-4. Exceeds Expectations: The candidate exceeds the competency criteria by demonstrating a high level of skill, knowledge, and initiative.
-5. Far Exceeds Expectations: The candidate excels in the competency area, providing exceptional skill, advanced knowledge, and innovation.
+The mission focuses on being a premier community network delivering excellent patient experience and outcomes by partnering with Pacific Wellness Group. The vision is about compassionate, science-based care for humanity. The values emphasize innovation, connection, teamwork, mentorship, participation, and action to fulfill the mission and vision.
 
+## Job Description
 
+### Medical Assistant II
 
-## Technical Assessment
+#### Time Type
+- Full time
 
-The technical assessment for the Infrastructure Software Engineer must encompass thorough evaluation of the candidate’s technical competencies. The competencies selected revolve around the understanding and practical application of cloud platforms, specifically AWS, which is critical for maintaining and scaling Y Combinator’s web application infrastructure.
+#### Overview
+Join our legacy of hope and innovation at Pacific Wellness Group - Academic Healthcare Consortium. We are looking for a Medical Assistant II to be a part of our clinic patient care team, performing clinical tasks and procedures to support the delivery of care.
 
-### Technical Competence 1: Cloud Platform Expertise
+#### Day
+- 08 Hour (United States of America)
 
-Understanding and management of cloud-based infrastructure, particularly with Amazon Web Services (AWS), are essential for the role. Mastery over various AWS services ensures efficient deployment and operation.
+#### Responsibilities
+- **C-I-CARE Execution:** Executes world-class service and patient care standards using C-I-CARE templates.
+- **Job Scope:** Includes managing patient portal messages, assisting with physician procedures, and other tasks of moderate scope.
+- **Knowledge:** Advanced understanding of job skills, policies, and procedures.
+- **Supervision Level:** Work reviewed for accuracy and complexity, with increased responsibility in the specialty area.
 
-#### Lead Question
+#### Education Qualifications
+- High School Diploma or GED required.
+- Medical Assistant Certificate/Diploma from an approved school/institution or equivalent training.
 
-Describe a scenario where you had to design a fault-tolerant and scalable infrastructure on AWS. What services did you use and why did you choose them? Consider the cost, performance, and potential trade-offs in your response.
-_Tip: Look for a reasoned balance between technical robustness, cost-efficiency, and scalability_
+#### Experience Qualifications
+- One (1) to three (3) years of related experience.
 
-#### Probing Questions
+#### Required Knowledge, Skills, and Abilities
+- Professional verbal and written communication skills.
+- Proficiency in computer skills, Microsoft Office, and electronic medical records.
+- Organizational and multi-tasking skills.
 
-- How do you ensure security and appropriate access controls when managing AWS services? What is your methodology for IAM roles and policies?
-  _Tip: Candidate should demonstrate a firm grasp on AWS IAM best practices and their practical applications._
-  
-- Can you outline a time when you had to utilize Terraform to automate the creation of AWS resources? What approach did you take?
-  _Tip: Assess their comfort level with infrastructure as code tools and the complexity of the infrastructures they've handled._
+#### Licenses and Certifications
+- BLS - Basic Life Support required.
 
-- Explain how containerization has played a role in your previous projects, particularly using Docker with Amazon ECS.
-  _Tip: Insights into their hands-on experience with container technologies and their benefits to cloud infrastructure will be crucial._
+#### Physical Demands and Work Conditions
+- Various physical activities such as sitting, walking, standing, bending, squatting, etc.
+- Lifting requirements vary from 0 to 40+ lbs.
 
-- Describe how you have implemented and managed application and data security within the AWS cloud.
-  _Tip: Look for details that indicate a comprehensive understanding of cloud security measures._
+#### Working Environment
+- Frequent interaction with clinical equipment and machinery.
+- Work with biohazards like bloodborne pathogens.
+- 20% travel requirement.
 
-#### Scenario
+#### SHC Commitment
+- Providing an exceptional patient and family experience through C-I-CARE framework.
 
-Imagine you are tasked with migrating an existing on-premise web application to AWS Cloud. The application has to be highly available and with a scalable infrastructure that can handle varying loads. Walk me through the steps you would take from initial assessment to the final migration, including the selection of AWS services.
-_Tip: Evaluate the candidate's ability to analyze, plan, and execute a complex cloud migration, while optimizing for cost and performance._
+#### Equal Opportunity Employer
+- Pacific Wellness Group is an equal opportunity employer and encourages applications from all individuals regardless of race, color, sex, sexual orientation, gender identity, religion, age, national origin, political beliefs, marital status, medical condition, genetic information, veteran status, or disability.
 
-### Technical Competence 2: Web Application Development
+#### Base Pay Scale
+- Generally starting at $27.47 - $35.02 per hour. Salary based on internal equity, experience, education, specialty, and training.
 
-Skillful crafting and troubleshooting of complex web applications is central to the Infrastructure Software Engineer’s responsibilities. An emphasis on maintainability and scalability ensures the long-term success and evolution of the applications developed by Y Combinator's startups.
 
-#### Lead Question
 
-Walk me through the process you follow in developing a new feature for a web application from conception to deployment, especially focusing on the MVC framework you're most comfortable with.
-_Tip: Evaluate the candidate’s methodology for organized and structured development, along with their adaptability to MVC principles._
 
-#### Probing Questions
+## Competency 1. **Clinical Expertise**
 
-- How would you handle performance concerns with an SQL database in a web application you’re managing? Can you give a specific example of a performance optimization you've implemented?
-  _Tip: Expect detailed answers on database optimization, indexing, or query rewriting._
+Demonstrates a refined level of skill in conducting clinical tasks, patient care, and procedures, ensuring high standards of health services are provided.
 
-- Could you explain a scenario where you integrated a frontend technology with a backend MVC framework? How did you ensure seamless communication between the two?
-  _Tip: Look for competence in full-stack development and their approach to align frontend and backend technologies._
+### Lead Question
 
-- Describe a challenging bug you encountered in a web application and the steps you took to resolve it.
-  _Tip: Gauge problem-solving skills and their approach to debugging complex code issues._
+> **Describe a complex clinical procedure you've performed and explain how you prepared for it, managed the tasks involved, and dealt with any complications that arose. What was the outcome?** 
 
-- Discuss your experience with code reviews and describe how you ensure code reusability and maintainability.
-  _Tip: Understand the candidate’s perspective on collaborative development and management of a clean and efficient codebase._
+_Assess their ability to articulate complex procedures, preparation steps, execution, problem-solving skills, and successful outcomes._
 
-#### Scenario
 
-You’re asked to architect a new web application for a startup that expects rapid growth. The app will heavily rely on real-time data processing and interactions. What tech stack would you choose and why? How would you ensure the scalability and performance of the application from the outset?
-_Tip: The answer should include considerations on technologies that allow for real-time processing and scalability, along with explanations of the choices._
+### Scenario
 
-### Technical Competence 3: Performance Optimization
+> Imagine a patient's condition suddenly worsens requiring urgent intervention, but the attending physician is temporarily unavailable. How would you respond?
 
-Identifying and mitigating performance bottlenecks is a necessity for providing an optimal user experience in web applications. The Infrastructure Software Engineer must be proficient in enhancing performance at both the code and infrastructure levels.
+_Judge their immediate response, patient care prioritization, emergency protocol knowledge, and communication skills._
 
-#### Lead Question
+### Diving Deeper
 
-Tell me about a time when you were tasked with optimizing the performance of a web application. What was the issue, and what steps did you take to diagnose and resolve it?
-_Tip: Look for systematic troubleshooting and a step-by-step account of performance tuning._
+* **Clinical Knowledge**: "How do you stay informed about the latest developments in clinical procedures and patient care?"
+* **Patient Management**: "Can you describe a time when you had to prioritize the care of multiple patients simultaneously and how you executed this?"
+* **Procedure Adherence**: "Talk about a specific procedure guideline you follow rigorously and explain its importance in patient outcomes."
+* **Technical Skill**: "Discuss a clinical skill or technique you’ve mastered recently, and tell us what steps you took to become proficient in it."
 
-#### Probing Questions
+### Evaluation
 
-- How do you go about identifying and fixing n+1 query problems in an ORM like Active Record? Can you provide an example?
-  _Tip: The candidate should exhibit a strong understanding of ORMs and their common pitfalls._
+| Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
+| -------- | -------- | -------- | -------- | -------- |
+|Barely mentions procedure, no clarity on steps or outcomes.|Describes procedure but lacks detail on preparation or problem-solving.|Adequate detailing of procedure, some insight into handling complications.|Clearly explains procedure, preparation, and complication management with a positive outcome.|Expertly articulates procedure steps, preparation, problem-solving, and successful patient outcome.|
 
-- What strategies do you utilize to implement effective caching in a high-traffic web application?
-  _Tip: Look for knowledge of various caching mechanisms and their appropriate use cases._
 
-- Describe a time when you had to optimize backend code for better performance. What tools or strategies did you use?
-  _Tip: Candidate should demonstrate their experience in profiling and optimizing code._
+### Notes
 
-- Can you explain how you would plan and execute a load testing strategy for a critical update to a production system?
-  _Tip: Look for strategic thinking in testing and readiness for high-load situations._
+&nbsp;
 
-#### Scenario
+## Competency 2. **Communication Mastery**
 
-Imagine that users of the web application you manage are experiencing slow load times during peak hours. How would you approach this issue to diagnose and resolve performance bottlenecks? Detail the steps you would take, the tools you would use, and the outcome you aim to achieve.
-_Tip: Evaluate the candidate's capacity for methodical problem-solving and understanding of the full stack performance issues._
+Exhibits exceptional verbal and written communication abilities, ensuring effective and empathetic interactions with patients, which is critical to maintaining Pacific Wellness Group's value of Connection.
 
-### Technical Competence 4: Continuous Integration and Deployment
+### Lead Question
 
-Experience with continuous integration and delivery is crucial for ensuring quick and reliable software updates and rollouts. The candidate's knowledge of CI/CD principles is important for maintaining a steady flow of new features and fixes in Y Combinator-supported startups.
+> **Can you recount a time when you had to use your communication skills to explain a complex medical procedure or information to a patient or their family member? How did you make sure they understood, and what was the outcome? Follow-up: Was there a time when the patient was particularly anxious or distressed, and how did you handle this? How do you gauge whether a patient has understood you correctly? Have you ever had to adjust your communication approach based on patient feedback?** 
 
-#### Lead Question
+_Look for examples illustrating clarity, empathy, and adaptability in communication. Note the ability to gauge understanding, tailor messages to audience needs, and manage patient emotional responses._
 
-Describe your experience setting up a continuous integration and deployment pipeline. What tools did you use and why? How did you ensure the reliability of the release process?
-_Tip: Candidates should articulate the selection of tools and their approach to safeguarding the deployment process._
 
-#### Probing Questions
+### Scenario
 
-- Explain how you've used deployment automation tools, like Capistrano or others, in past projects to streamline software releases.
-  _Tip: Candidate should demonstrate an understanding of deployment automation tools and their benefits._
+> A patient is upset about waiting longer than expected for their appointment and expresses frustration when you call them in. Please explain how you would communicate with the patient to de-escalate the situation and maintain the quality of care.
 
-- Discuss your experience with managing build processes and any tools you've found particularly effective, like Webpack or others.
-  _Tip: Look for familiarity with modern build tools and how they improve build efficiency._
+_Seek evidence of de-escalation techniques, validation of patient feelings, proactive problem-solving, and maintaining a calm and professional demeanor._
 
-- How do you manage a code repository with multiple developers making concurrent contributions? What is your branching and merging strategy?
-  _Tip: Seek insight into their version control management skills and collaborative approaches._
+### Diving Deeper
 
-- Can you talk about a time when managing the release of a new version was particularly challenging? How did you handle that?
-  _Tip: Look for problem-solving skills and their ability to manage and coordinate releases under pressure._
+* **Empathetic Communication**: "Describe a situation where you had to deliver bad news to a patient. How did you prepare for this, and what strategies did you use to ensure the message was conveyed with compassion?"
+* **Communication Clarity**: "Give an example of a time when you had to simplify complex medical jargon for a patient. How did you ensure they left with a clear understanding of their situation or treatment?"
+* **Responsive Communication**: "Tell me about a time when you received feedback from a patient or colleague that caused you to change your communication style. What modifications did you make, and why?"
+* **Written Communication Proficiency**: "How do you ensure clear, concise, and patient-friendly language is used in written communications such as patient portal messages or care instructions?"
 
-#### Scenario
+### Evaluation
 
-You're responsible for implementing a new CI/CD pipeline for a project transitioning from a semi-annual release schedule to a more agile, on-demand release cycle. Which CI/CD tools would you select, and how would you configure the pipeline to ensure that the transition is smooth and that risks are minimized?
-_Tip: Assess the candidate's strategic planning abilities regarding CI/CD implementation and risk management._
+| Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
+| -------- | -------- | -------- | -------- | -------- |
+|Lacks clarity/empathy; doesn't adapt.|Shows minimal clarity/empathy; struggles to adapt.|Communicates with some clarity and empathy; somewhat adaptable.|Good clarity and empathy; adapts well to situations.|Exceptional clarity, empathy, adaptability; demonstrates mastery.|
 
-### Technical Competence 5: Security and Reliability
 
-The Infrastructure Software Engineer must ensure the security and reliability of the application platform, addressing potential vulnerabilities and adhering to best practices in security.
+### Notes
 
-#### Lead Question
+&nbsp;
 
-How do you approach the creation of a new web application with security and reliability as top priorities? Please describe the steps you would take from the initial design to the ongoing maintenance.
-_Tip: Evaluate the candidate's ability to integrate security into the software development lifecycle._
+## Competency 3. **Technology Proficiency**
 
-#### Probing Questions
+Shows efficient use of medical and office software, including electronic health records and the patient portal system, demonstrating commitment to Pacific Wellness Group's value of Innovation.
 
-- Discuss your experience with responding to bug bounty reports. How do you evaluate them, and how have you handled resolution and communication?
-  _Tip: Look for systematic handling of security reports and a clear methodology for addressing issues._
+### Lead Question
 
-- Describe a situation where you worked with an external party on a security audit. How did you prepare, and what was the outcome?
-  _Tip: Seek insights into their experience with security audits and their approach to remediation._
+> **Tell me about a time when you had to learn a new technology or software to improve patient care or office efficiency. How did you approach the learning process, and what was the outcome? Were there any challenges, and how did you overcome them?** 
 
-- How do you ensure data protection and compliance in your projects, particularly relating to sensitive customer information?
-  _Tip: Expect a strong grasp of data security best practices and compliance requirements._
+_Look for evidence of proactive learning, ability to adapt to new technologies, problem-solving skills, and tangible outcomes that improved care or efficiency._
 
-- Can you talk about a time when you had to manage a security incident? What steps did you take to resolve the issue and prevent future occurrences?
-  _Tip: Assess competency in crisis management and proactive risk mitigation._
 
-#### Scenario
+### Scenario
 
-Suppose you discover a significant security vulnerability in one of the applications you oversee. The vulnerability is being actively exploited, and user data is at risk. Outline the immediate actions you would take to address the issue and discuss how you would work to strengthen the application’s security posture moving forward.
-_Tip: The candidate's answer should emphasize quick action, clear communication, and strategic long-term enhancements._
+> Imagine that our clinic just implemented a new feature in our patient portal to allow virtual consultations. How would you go about familiarizing yourself with this new feature, and what steps would you take to encourage adoption among patients?
 
+_Assess the candidate's ability to self-educate on new features, their communication strategy for patient adoption, and consideration of potential barriers._
 
+### Diving Deeper
 
-## Behavioral Assessment
+* **Electronic Health Records (EHR) Management**: "How do you ensure accuracy and completeness when entering patient data into EHR systems?"
+* **Patient Portal Administration**: "Describe how you have used patient portal systems to enhance patient engagement and communication."
+* **Software Troubleshooting**: "What steps do you take when you encounter an error or issue with a piece of medical software?"
+* **Continual Learning and Upgrading Skills**: "Can you give an example of a time when you had to update your technology skills to stay current with industry changes?"
 
-Behavioral competencies are key indicators of how well a candidate might integrate with Y Combinator's culture and values, such as integrity, responsiveness, and a focus on founders' interests.
+### Evaluation
 
-### Behavioral Competence 1: Ethical Judgment and Integrity
+| Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
+| -------- | -------- | -------- | -------- | -------- |
+|Struggles with basic tech; no proactive learning or problem solving.|Limited tech use; some learning but needs significant help.|Average tech proficiency; basic troubleshooting and learning.|Good tech proficiency; adapts well, actively learns and improves processes.|Advanced tech proficiency; innovates, leads adoption, solves complex issues.|
 
-Reflecting Y Combinator's imperative for trustworthiness and ethical behavior in their community, candidates must exhibit a strong moral compass in their professional conduct.
 
-#### Lead Question
+### Notes
 
-Can you share a difficult decision you had to make that tested your integrity? What was at stake and how did you arrive at your decision?
-_Tip: Look for examples that demonstrate the candidate's ethical judgment and personal accountability._
+&nbsp;
 
-#### Probing Questions
+## Competency 4. **Patient Service Commitment**
 
-- Tell me about a time when you made a mistake at work. How did you handle it and what was the outcome?
-  _Tip: Judge the candidate's readiness to take responsibility and learn from errors._
+Consistently applies the C-I-CARE framework to provide top-tier patient service, crucial to achieving Pacific Wellness Group's mission of delivering the best patient experience.
 
-- Describe a scenario where you had to balance transparency with confidentiality. How did you navigate this situation?
-  _Tip: Assess the candidate's ability to maintain integrity while handling sensitive information._
+### Lead Question
 
-- How have you ensured that ethical considerations are factored into your technology projects or decisions?
-  _Tip: Look for a demonstration of ethical considerations beyond mere legal compliance._
+> **Can you describe a time when you went above and beyond the standard procedures to provide exceptional care to a patient? How did you apply empathy, and what was the outcome? Did you receive any feedback from the patient or your superiors?** 
 
-- Give an example of a time when you went above and beyond to do what you thought was right, even if it wasn't the easiest option.
-  _Tip: Identify actions that show commitment to personal and organizational values even when it’s challenging._
+_Assess application of C-I-CARE principles, empathy, initiative, positive outcomes, and recognition or feedback._
 
-#### Scenario
 
-Imagine you are aware of a data breach in the company that has not yet been made public. As an Infrastructure Software Engineer, how would you address this issue internally, and what steps would you take to ensure the situation is handled ethically and responsibly?
-_Tip: The candidate's response should reflect a serious approach to ethical dilemmas and a proactive stance on problem resolution._
+### Scenario
 
-### Behavioral Competence 2: Agile and Responsive Approach
+> A patient arrives frustrated with a long wait time and is considering leaving your clinic. How would you handle this situation to ensure the patient feels valued and receives the necessary care?
 
-The ability to adapt to changing markets and user needs quickly is in line with Y Combinator's value of testing ideas rapidly. This competency evaluates how effectively the candidate can pivot and respond to emerging demands.
+_Effective use of C-I-CARE, de-escalation skills, reassurance tactics, problem-solving, and persuasion to retain patient trust._
 
-#### Lead Question
+### Diving Deeper
 
-Describe a time when a project or task required you to quickly adjust your approach due to changing requirements. How did you manage the situation and what was the result?
-_Tip: Seek evidence of flexibility, quick thinking, and a results-oriented mindset._
+* **Empathy and Compassion**: "Tell me about a moment when you had to handle a highly sensitive or emotional situation with a patient. How did you manage it?"
+* **Patient Advocacy**: "Give an example of a time when you had to advocate for a patient's needs. What steps did you take and what was the result?"
+* **Communication and Responsiveness**: "How do you ensure effective communication with patients, and what strategies do you use when misunderstandings occur?"
+* **Adaptability and Problem Solving**: "Describe a challenging situation with a patient and how you adapted your approach to meet their needs."
 
-#### Probing Questions
+### Evaluation
 
-- Can you provide an example of how you have anticipated a potential problem in your work and proactively addressed it?
-  _Tip: Determine the candidate's ability to foresee challenges and take initiative to mitigate them._
+| Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
+| -------- | -------- | -------- | -------- | -------- |
+|Limited empathy, lacks proactive care.|Some empathy, inconsistent care.|Adequate empathy, meets basic care.|Strong empathy, often exceeds care.|Exceptional empathy, consistently exceeds care.|
 
-- Tell me about a product or feature you rolled out quickly in response to an immediate market need. What was the feedback, and how did you integrate it into future iterations?
-  _Tip: Look for an understanding of the importance of user feedback and iterative development._
 
-- How do you stay informed about the latest industry trends and technologies? Give an example of how this knowledge has influenced your work.
-  _Tip: Confirm that the candidate values ongoing learning and its practical application._
+### Notes
 
-- Share an instance where you had to learn a new technology or framework in a short period to meet project deadlines. How did you approach this challenge?
-  _Tip: Assess the candidate's adaptability and commitment to professional growth under pressure._
+&nbsp;
 
-#### Scenario
+## Competency 5. **Collaborative Teamwork**
 
-You are part of a team that has developed a well-received product feature. Suddenly, a new competitor emerges with a similar but slightly more advanced feature. How would you lead your team to respond to this competitive threat?
-_Tip: Look for a strategic approach that incorporates agility, market comprehension, and the ability to motivate and direct a team._
+Actively engages with colleagues to foster a cooperative team environment, advancing patient outcomes and embodying Pacific Wellness Group's values of Teamwork and Participation.
 
-### Behavioral Competence 3: Founder and User-focused Mindset
+### Lead Question
 
-Embracing the priority of founders' and users' needs is vital, reflecting Y Combinator's commitment to place them at the forefront. The candidate should exhibit an understanding and appreciation for the user experience.
+> **Can you tell us about a time when you had to work closely with others to achieve a common goal in a healthcare setting? How did you contribute to the team's success, and what challenges did you face? How did you and the team overcome these challenges, and what was the result?** 
 
-#### Lead Question
+_Evaluate how the candidate demonstrates effective communication, contribution to team goals, problem-solving skills, and their role in achieving a positive outcome._
 
-Tell me about a time when you had to advocate for a feature or product change that was clearly in the users' interest but not immediately beneficial for the company. What was the situation and the outcome?
-_Tip: Look for a balance between user advocacy and business awareness._
 
-#### Probing Questions
+### Scenario
 
-- How do you gather and incorporate user feedback into your development process? Please provide a specific example.
-  _Tip: Evaluate how the candidate integrates user feedback to improve product offerings._
+> Imagine that during your shift, there is an unexpected influx of patients, and the team is overwhelmed. How would you prioritize your tasks, and what actions would you take to maintain collaborative teamwork under this pressure?
 
-- Describe a situation where you had to make tough decisions about product features. How did you prioritize the users' needs in that scenario?
-  _Tip: Look for decision-making processes that are aligned with a strong concern for user experience._
+_Assess how the candidate prioritizes tasks, demonstrates flexibility, communicates during high-stress conditions, and supports team under pressure._
 
-- Can you share an experience where you went out of your way to understand a customer’s point of view? What was the impact on your work?
-  _Tip: Identify the degree to which the candidate engages with and values the perspective of the end user._
+### Diving Deeper
 
-- What strategies do you use to remain focused on user needs when faced with technical challenges or constraints?
-  _Tip: Assess the candidate's ability to maintain user-centric development despite potential obstacles._
+* **Communication & Interpersonal Skills**: "Describe a situation where effective communication within a team was critical to patient care. How did you ensure your messages were understood?"
+* **Problem Solving & Adaptability**: "Share an example of when you had to adapt to a sudden change in a team-based care plan. What was your approach?"
+* **Contribution & Leadership**: "How have you balanced following instructions with taking initiative in a team setting in the past?"
+* **Conflict Resolution**: "Discuss a time when you helped resolve a conflict within your team. What steps did you take, and what was the outcome?"
 
-#### Scenario
+### Evaluation
 
-Imagine that during the testing phase of a new product, you receive consistent feedback indicating that a current feature is causing confusion among users. How would you approach resolving this issue, and what steps would you take to ensure improved user satisfaction?
-_Tip: Candidate's approach should demonstrate sensitivity to user experience and a methodical approach to problem solving._
+| Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
+| -------- | -------- | -------- | -------- | -------- |
+|Lacks evidence of effective collaboration.|Shows minimal collaboration; few examples provided.|Adequate collaboration; some team support demonstrated.|Good collaboration; actively supports team and mission.|Excellent collaboration; pivotal in team success and problem resolution.|
 
-### Behavioral Competence 4: Collaboration and Teamwork
 
-Ability to contribute effectively as a team member, facilitating a cooperative work environment, reflects Y Combinator's belief in the power of collaborative effort to achieve shared goals.
+### Notes
 
-#### Lead Question
+&nbsp;
 
-Provide an example of a project where you worked as part of a team. What was your role, and how did you contribute towards achieving the team's objectives?
-_Tip: Look for the ability to work harmoniously with others, focus on shared goals, and contribute positively._
+## Competency 6. **Organizational Efficiency**
 
-#### Probing Questions
+Utilizes strong organizational skills and an ability to multitask to enhance operational workflow, reflective of Pacific Wellness Group's commitment to Action.
 
-- How do you handle situations where you have a differing opinion from a team member on a work-related issue?
-  _Tip: Assess the candidate’s conflict resolution skills and ability to maintain team cohesion._
+### Lead Question
 
-- Can you tell me about a time when you had to explain a complex technical problem to a colleague who was not a technical expert? How did you ensure understanding?
-  _Tip: Evaluate the candidate's communication skills and ability to make complex ideas accessible._
+> **Describe a time when you had to juggle multiple clinical tasks simultaneously while ensuring the accuracy and timeliness of each task. How did you prioritize, and what was the outcome? Were there any tools or strategies you used to maintain efficiency?** 
 
-- Share an experience where the team's success depended on your direct contribution. How did you ensure you met expectations?
-  _Tip: Determine the candidate's reliability and commitment to team responsibilities._
+_Look for specific examples demonstrating effective prioritization, use of tools or strategies for efficiency, and successful outcomes. Assess the clarity, relevance, and depth of the response._
 
-- Describe a moment when you celebrated a team achievement. What was your contribution and how did the team acknowledge it?
-  _Tip: Identify the candidate's approach to team appreciation and their ability to share in team successes._
 
-#### Scenario
+### Scenario
 
-You and your team are assigned to a critical project with a tight deadline. During the project, you notice that a colleague is struggling with their workload, which could potentially delay the project's completion. How would you approach this situation to ensure the project stays on track, maintaining team unity and productivity?
-_Tip: The response should reveal the candidate's capacity for supportive teamwork and productivity under pressure._
+> You're responsible for supporting three physicians who are running behind schedule. You have patient messages to manage, an urgent lab result to communicate, and a procedure to set up for. How do you handle this situation?
 
-### Behavioral Competence 5: Continuous Learning and Development
+_Evaluate the candidate's approach to managing high-pressure situations, effectiveness in problem-solving, and their ability to integrate the company's values into their response._
 
-A vested interest in self-improvement and skill development is crucial, supporting Y Combinator’s ethos of efficiency and growth in the tech industry.
+### Diving Deeper
 
-#### Lead Question
+* **Prioritization**: "How do you determine the order in which you should perform tasks when all seem urgent?"
+* **Multitasking**: "Can you provide an example of how you manage several patients' needs at once without compromising care?"
+* **Workflow Optimization**: "Explain how you have previously optimized your workflow in a clinical environment."
+* **Use of Technology**: "What technology or systems have you used to improve your organizational efficiency in past roles?"
 
-Discuss a professional skill you have recently worked to improve. What motivated you to enhance this skill, and how did you go about it?
-_Tip: Seek dedication to continuous learning and evidence of taking steps to improve professionally._
+### Evaluation
 
-#### Probing Questions
+| Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
+| -------- | -------- | -------- | -------- | -------- |
+|Lacks practical examples; poor prioritization and efficiency.|Some example given; basic prioritization but limited efficiency.|Acceptable examples; shows decent prioritization and multitasking skills.|Good examples with clear prioritization; efficient multitasking shown.|Excellent examples; prioritization and multitasking with innovation and action orientation.|
 
-- Describe a time when you utilized feedback to improve your performance. What changes did you make as a result?
-  _Tip: Look for a constructive acceptance of feedback and the ability to translate it into action._
 
-- How do you stay updated with the latest trends and technologies in your field, and how has this impacted your work?
-  _Tip: Gauge the candidate’s commitment to ongoing industry education and its practical application._
+### Notes
 
-- Share an experience where you taught a skill or concept to your colleagues. What was the outcome?
-  _Tip: Assess the candidate's aptitude for knowledge sharing and contributing to the team’s competence._
+&nbsp;
 
-- Tell me about a situation where learning a new technology or method posed a significant challenge. How did you handle it?
-  _Tip: Identify perseverance in overcoming learning obstacles and the candidate's approach to mastering new skills._
+## Competency 7. **Health and Safety Compliance**
 
-#### Scenario
+Adheres strictly to safety protocols and clinical policies, ensuring a safe environment when handling biohazards such as bloodborne pathogens.
 
-Suppose you are tasked with leading your team in adopting a new technology that is crucial for the company's next strategic move. The technology is complex, and your team has limited knowledge about it. How would you ensure that you and your team are up to speed with the required knowledge and skills in a timely manner?
-_Tip: Look for a strategic plan that includes self-development, as well as facilitating the learning process for others._
+### Lead Question
 
+> **Tell us about a time when you identified a potential health or safety issue while on the job. How did you handle it, and what was the outcome? Can you also describe any changes you suggested to prevent such an issue in the future, and were there any challenges enforcing compliance with these changes?** 
 
+_Look for specific examples of past experiences, awareness of health and safety issues, proactive and effective response to a situation, follow-through with suggestions and improvements, and ability to ensure compliance._
 
-## Practical Assignment
 
-The practical assignment is an opportunity to evaluate the candidate’s hands-on technical abilities and problem-solving approach. The assignment will reflect real-world scenarios relevant to the role of an Infrastructure Software Engineer at Y Combinator.
+### Scenario
 
-The objective of this assignment is to assess the candidate's proficiency in designing and implementing a scalable and secure cloud-based infrastructure. The candidate will be given a set of requirements and asked to architect a solution that demonstrates their understanding of AWS services, deployment strategies, and security best practices.
+> Imagine that during a procedure a vial containing a bloodborne pathogen is knocked over and breaks on the floor, how would you respond to this incident?
 
-Evaluation criteria will include:
-- The effectiveness of the proposed architecture in meeting scalability and reliability needs.
-- The cost-effectiveness and practicality of the solution.
-- The security measures incorporated into the infrastructure design.
-- The ability to articulate and justify design choices.
+_Look for a structured approach to the emergency, adherence to protocol, prioritization of safety, and communication skills._
 
-Interviewers should assess the candidate's approach to the assignment, noting how they break down the problem, prioritize features, and address potential trade-offs. The solution presented by the candidate should be evaluated for its technical merits as well as alignment with Y Combinator's principles of efficiency and responsiveness to market demands.
+### Diving Deeper
 
+* **Risk Identification**: "Describe a situation where you noticed a deviation from safety protocols. What actions did you take?"
+* **Protocol Adherence**: "How do you ensure daily compliance with clinical policies, especially those regarding biohazardous materials?"
+* **Emergency Response**: "If you were exposed to a bloodborne pathogen, what steps would you immediately take?"
+* **Continuous Improvement**: "Can you give an example of how you have contributed to improving health and safety at your workplace?"
 
+### Evaluation
 
-## Candidate Q&A
+| Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
+| -------- | -------- | -------- | -------- | -------- |
+|Little or no evidence of health and safety competency.|Basic recognition but ineffective management of health and safety issues.|Adequate handling and awareness of safety protocols, but not proactive.|Proactive, effective action on health and safety issues with good examples.|Expert handling of safety issues, demonstrating leadership and protocol improvement.|
 
-This section prepares the interviewers for potential questions that a candidate might ask. It's important to provide comprehensive responses to ensure the candidate has a clear understanding of the role and company culture.
 
-"What is the typical project cycle for an Infrastructure Software Engineer at Y Combinator?"
+### Notes
 
-- Our project cycles are typically agile, with a focus on iterative development and fast feedback loops. We aim to be responsive to founder needs and adapt to changing requirements swiftly.
+&nbsp;
 
-"Can you describe the team I would be working with and how it fits within the company?"
+## Competency 8. **Physical Fitness**
 
-- You'll be joining a cross-functional team focused on developing and maintaining our web application infrastructure. The team collaborates closely with other departments, contributing directly to the success of the startups we support.
+Capable of fulfilling the physical requirements of the role including standing, walking, bending, lifting, and operating clinical machinery.
 
-"How does Y Combinator support professional growth and development for its employees?"
+### Lead Question
 
-- We encourage continuous learning, offer access to learning resources, and provide opportunities for attending technical conferences and workshops. Regular feedback and one-on-ones with leadership help guide personal development plans.
+> **Describe a time when you had to maintain physical activity for a prolonged period or manage physical demands in a previous role. How did you handle it and what did you learn from that experience?** 
 
-"What are the opportunities for advancement within the company?"
+_Look for specific past experiences showcasing physical endurance, proper handling of physical tasks, and ability to reflect and improve on physical fitness._
 
-- As Y Combinator continues to grow and support more startups, opportunities for advancement arise both within technical roles and in leadership positions. Performance and contributions to company objectives greatly influence advancement potentials.
 
-"How does Y Combinator ensure that the technology solutions align with its values, particularly regarding founder and user interests?"
+### Scenario
 
-- Product decisions are driven by user feedback and founder needs, ensuring our technology solutions align with our core values. We also conduct regular reviews to assess how well our services meet these interests.
+> Imagine a situation where you are tasked with reorganizing a storage room filled with heavy equipment and supplies. Describe the steps you would take to accomplish this task safely and efficiently.
 
-"What kinds of technologies are you looking to integrate into future projects, and how do you decide on them?"
+_Look for a structured approach, awareness of safety measures, and ability to strategize work to handle physical demands efficiently._
 
-- Our technology choices are forward-looking and aimed at supporting our scalable infrastructure needs. Decisions are made collaboratively, balancing innovation with practicality and the principle of founder-friendly tools.
+### Diving Deeper
 
+* **Endurance**: "How do you stay fit and what activities do you regularly engage in to ensure you can sustain prolonged physical activity?"
+* **Strength and Agility**: "Can you provide an example of a time when you had to lift a heavy object or perform a task requiring agility at work?"
+* **Health and Safety Awareness**: "How do you ensure your safety and health when performing physically demanding tasks?"
+* **Equipment Handling**: "Describe your experience with operating clinical machinery that requires physical dexterity."
 
+### Evaluation
 
-## Team Fit
+| Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
+| -------- | -------- | -------- | -------- | -------- |
+|No evidence of physical fitness or relevant experience.|Minimal evidence of physical fitness; vague or limited examples.|Adequate physical fitness; some clear examples provided.|Good physical fitness; multiple clear examples and reflective insights.|Excellent physical fitness; comprehensive and reflective response.|
 
-The Team Fit section of the interview process is designed to evaluate the candidate's ability to collaborate and integrate with the existing team. Team involvement provides insight into the candidate's interpersonal skills and how they may contribute to the team dynamic.
 
-During this phase, it is essential to facilitate activities and discussions that give both the team and the candidate a sense of potential working relationships. Consider the following:
+### Notes
 
-- Collaborative problem-solving exercises to gauge how the candidate interacts with team members and approaches collective challenges.
-- Technical discussions related to ongoing or past projects that allow the candidate to demonstrate their knowledge and expertise.
-- Team lunch or coffee meetings to provide a more relaxed setting for candid conversations about work culture, team norms, and mutual interests.
-- Brief presentations by the candidate on a relevant technical topic to observe their ability to communicate complex ideas effectively.
+&nbsp;
 
-These interactions are invaluable for assessing aspects of the candidate's personality, communication style, and problem-solving approach that are not easily discernible in a formal one-on-one interview setting.
+## Competency 9. **Continuous Learning**
 
+Engages in continued education and professional development opportunities to keep skills up-to-date, aligned with Pacific Wellness Group's value of Mentorship.
+
+### Lead Question
+
+> **Can you describe a time when you realized there was a gap in your knowledge or skills at work, and tell me how you addressed this? What did you learn from the experience, and how have you applied this new knowledge in a practical way?** 
+
+_Evaluate for evidence of self-awareness, proactive learning, and practical application of new knowledge or skills._
+
+
+### Scenario
+
+> Imagine you're assisting with a procedure that's recently been updated due to new research. You have only a foundational understanding of this new method. How would you proceed?
+
+_Assess for practical steps taken in acquiring new knowledge and collaborating with others while maintaining patient care standards._
+
+### Diving Deeper
+
+* **Proactive Skill Enhancement**: "How do you stay current with the latest medical procedures and technologies in your field?"
+* **Learning Agility**: "Tell me about a time when you had to learn something new within a short deadline. How did you manage it?"
+* **Reflective Practice**: "How do you reflect on your work experiences, and how has that helped you improve?"
+* **Application of Learning**: "Provide an example of how you've applied new knowledge or skills to a task or project at work."
+
+### Evaluation
+
+| Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
+| -------- | -------- | -------- | -------- | -------- |
+|Unaware of skill gaps, avoids learning.|Acknowledges gaps, but takes no action.|Learns when necessary, limited application.|Proactively learns, applies knowledge well.|Continuously learns, becomes a knowledge resource.|
+
+
+### Notes
+
+&nbsp;
+
+
+
+
+
+## Interview Evaluation for Medical Assistant II
+
+| Competency | N/A | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1. Clinical Expertise | | | | | | |
+| 2. Communication Mastery | | | | | | |
+| 3. Technology Proficiency | | | | | | |
+| 4. Patient Service Commitment | | | | | | |
+| 5. Collaborative Teamwork | | | | | | |
+| 6. Organizational Efficiency | | | | | | |
+| 7. Health and Safety Compliance | | | | | | |
+| 8. Physical Fitness | | | | | | |
+| 9. Continuous Learning | | | | | | |
+| &nbsp; | | | | | | |
+| &nbsp; | | | | | | |
+| &nbsp; | | | | | | |
+| &nbsp; | | | | | | |
+| &nbsp; | **N/A** | **1** | **2** | **3** | **4** | **5** |
+| **Totals** |   |   |   |   |   |   |
 
 

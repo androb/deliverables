@@ -1,21 +1,21 @@
 --- 
-title: Interview Guide for Real Estate Litigation Attorney
-subtitle: Maxwell Fairview
+title: Interview Guide for Medical Assistant II
+subtitle: Pacific Wellness Group - Academic Healthcare Consortium
 author: Created by [Deliverables.ai](https://github.com/androb/deliverables)
-date: January 09, 2024 8:55 AM
+date: January 09, 2024 1:42 PM
 --- 
 
-# Interview Guide for Real Estate Litigation Attorney
+# Interview Guide for Medical Assistant II
 
 ## About this Guide
 
-Welcome to this strategic guide crafted to streamline and enhance the interview process for the position of Real Estate Litigation Attorney. 
+Welcome to this strategic guide crafted to streamline and enhance the interview process for the position of Medical Assistant II. 
 This document serves as a comprehensive resource for hiring teams, ensuring a structured, efficient, and effective evaluation of candidates. 
-The role of Real Estate Litigation Attorney is crucial to Maxwell Fairview, bridging vital functions and contributing significantly to our success. Our aim is to identify 
+The role of Medical Assistant II is crucial to Pacific Wellness Group - Academic Healthcare Consortium, bridging vital functions and contributing significantly to our success. Our aim is to identify 
 a candidate who not only possesses the necessary technical skills and experience but also aligns with our company's values and culture. 
 
 The playbook outlines a clear structure for the interview, including a detailed assessment of key competencies, practical assignments, and behavioral insights. 
-Through this approach, we aspire to understand each candidate's potential and ensure the best fit for both the role and Maxwell Fairview.
+Through this approach, we aspire to understand each candidate's potential and ensure the best fit for both the role and Pacific Wellness Group - Academic Healthcare Consortium.
 
 This interview guide was created by [Deliverables AI](https://www.deliverables.ai) and is based on the job description and company description provided.
 It should be used in conjunction with an interviewer's expertise and knowledge of the domain to assess the candidate's suitability for the role. 
@@ -26,444 +26,425 @@ feedback you have to [feedback@deliverables.ai](mailto:feedback@deliverables.ai)
 
 ### Competency Framework
 
-The following competencies have been identified for the Real Estate Litigation Attorney role at Maxwell Fairview:
+The following competencies have been identified for the Medical Assistant II role at Pacific Wellness Group - Academic Healthcare Consortium:
 
 
 
-1. **In-depth Legal Expertise in Construction and Real Estate Litigation:** Demonstrates a robust understanding of commercial and real estate litigation, with the ability to handle a multifaceted caseload involving sophisticated legal issues.
+1. **Clinical Expertise**: Demonstrates a refined level of skill in conducting clinical tasks, patient care, and procedures, ensuring high standards of health services are provided.
 
 
-2. **Analytical and Strategic Problem-Solving:** Exhibits a meticulous approach to analyzing legal issues, devising strategic solutions, and translating complex laws into solid legal arguments.
+2. **Communication Mastery**: Exhibits exceptional verbal and written communication abilities, ensuring effective and empathetic interactions with patients, which is critical to maintaining Pacific Wellness Group's value of Connection.
 
 
-3. **Exceptional Communication and Persuasion Skills:** Possesses top-tier communication abilities for effective dialogue with clients and peers, and the skill to persuade in both written and oral advocacy.
+3. **Technology Proficiency**: Shows efficient use of medical and office software, including electronic health records and the patient portal system, demonstrating commitment to Pacific Wellness Group's value of Innovation.
 
 
-4. **Client-Centric Service Focus:** Upholds a client-first approach, preemptively recognizing client requirements and aiming for excellence in legal representation, embodying Maxwell Fairview’s unparalleled service value.
+4. **Patient Service Commitment**: Consistently applies the C-I-CARE framework to provide top-tier patient service, crucial to achieving Pacific Wellness Group's mission of delivering the best patient experience.
 
 
-5. **Effective Collaboration and Teamwork:** Thrives in a collaborative environment, contributing to and benefiting from the combined wisdom of the team, in line with Maxwell Fairview’s rich experience value.
+5. **Collaborative Teamwork**: Actively engages with colleagues to foster a cooperative team environment, advancing patient outcomes and embodying Pacific Wellness Group's values of Teamwork and Participation.
 
 
-6. **Adaptability in a Dynamic Environment:** Displays flexibility to navigate a fast-evolving legal landscape and the ability to manage concurrent priorities with efficacy.
+6. **Organizational Efficiency**: Utilizes strong organizational skills and an ability to multitask to enhance operational workflow, reflective of Pacific Wellness Group's commitment to Action.
 
 
-7. **Advocacy for Diversity and Inclusion:** Actively promotes and integrates inclusive practices within the legal framework, mirroring Maxwell Fairview’s dedication to respectful inclusion.
+7. **Health and Safety Compliance**: Adheres strictly to safety protocols and clinical policies, ensuring a safe environment when handling biohazards such as bloodborne pathogens.
 
 
-8. **Ethical Judgement and Professional Integrity:** Consistently exhibits ethical behavior and integrity in professional dealings, foundational to earning and preserving unshakeable trust with clients and peers.
+8. **Physical Fitness**: Capable of fulfilling the physical requirements of the role including standing, walking, bending, lifting, and operating clinical machinery.
 
 
-9. **Technological Proficiency:** Leverages advanced technology tools for legal research, case management, and client communication, staying ahead in a tech-driven legal sector.
-
-
-10. **Commitment to Continuing Legal Education:** Continually seeks knowledge growth and professional development to stay updated with legal trends and regulations, reflecting the firm’s commitment to rich experience and unparalleled service.
+9. **Continuous Learning**: Engages in continued education and professional development opportunities to keep skills up-to-date, aligned with Pacific Wellness Group's value of Mentorship.
 
 
 
 
 
-## Maxwell Fairview: Mission, Vision, and Values
 
-### Mission
-Maxwell Fairview's mission is centered around working collaboratively to address complex challenges across various legal domains, such as litigation, property law, corporate matters, and intellectual property, on an international stage. The firm is committed to delivering top-notch service and ensuring the success of its clients, consistently striving to surpass expectations.
+## About Pacific Wellness Group - Academic Healthcare Consortium
 
-### Vision
-The vision of Maxwell Fairview is to make a meaningful difference for its clients and the communities it serves. This is achieved through a combination of deep industry insight and experience, offering innovative solutions for intricate legal issues, cultivating and upholding trust, and nurturing a culture rooted in respect, integrity, and inclusivity.
+Based on the search results, here is a summary of the key information about the mission, vision, and values of Pacific Wellness Group - Academic Healthcare Consortium:
 
-### Values
-Maxwell Fairview's values are embodied in their dedication to:
-- **Unparalleled Service:** Emphasizing service excellence and client success, always aiming to exceed in every facet of their work.
-- **Rich Experience:** Harnessing the collective knowledge and expertise of their team to provide novel solutions to legal challenges.
-- **Unshakeable Trust:** Establishing and maintaining trust through consistent actions and behaviors, fostering robust, lasting relationships with clients and colleagues.
-- **Respectful Inclusion:** Promoting a culture where respect and integrity are paramount, valuing and harnessing the diversity of people, ideas, and experiences for effective thinking and action.
+### Mission:
+- To be the premier community network for the Pacific Wellness Group System, delivering the best patient experience with the most effective clinical outcomes (per Academic Medicine Partners website).
 
-Maxwell Fairview also prioritizes diversity, equity, and inclusion, sustainability, social impact, and the utilization of technology for innovation and enhanced client services.
+### Vision:
+- Healing humanity through science and compassion, one patient at a time.
 
-These principles signify Maxwell Fairview’s commitment to providing superior legal services while upholding strong ethical standards and positively influencing both society and the environment.
+### Values:
+- Innovation - embracing innovation, change and continuous improvement to raise quality of care and shape the future of medicine 
+- Connection - cultivating community, connection and care for each other to nurture trust, respect, belonging and shared purpose
+- Teamwork - collaborating across roles, ranks, units and departments to unlock possibilities for greater impact and fulfillment
+- Mentorship - nurturing and pursuing ongoing professional growth to enjoy impactful and fulfilling careers
+- Participation - freely sharing opinions and valuing diverse backgrounds and contributions to improve decision-making, outcomes and engagement
+- Action - uniting diverse perspectives and expertise for the greater good (per Academic School of Medicine principles)
 
-## Real Estate Litigation Attorney
+The mission focuses on being a premier community network delivering excellent patient experience and outcomes by partnering with Pacific Wellness Group. The vision is about compassionate, science-based care for humanity. The values emphasize innovation, connection, teamwork, mentorship, participation, and action to fulfill the mission and vision.
 
-**Position:** Real Estate Litigation Attorney  
-**Location:** San Francisco, CA  
-**Practice Area:** Construction & Real Estate  
-**Open Date:** Friday, December 15, 2023  
-**Job Function:** Legal  
+## Job Description
 
-### Job Description:
-At Maxwell Fairview, our priority is to attract, retain, and promote talented individuals from a wide range of racial, ethnic, social, economic, religious, and personal backgrounds, genders, and sexual orientations. Therefore, we encourage talented individuals with diverse backgrounds and experiences to apply.
+### Medical Assistant II
 
-More than a third of Maxwell Fairview’s lawyers are litigators. We have decades of experience representing clients at every level of the trial and appellate courts in multiple jurisdictions, in international forums, and mediations, arbitrations, and other methods of alternative dispute resolution. 
+#### Time Type
+- Full time
 
-A career at Maxwell Fairview is the opportunity to do work that matters. It’s a chance to use your knowledge to shape what’s ahead, to innovate, and to learn at a firm that taps into the power of collaboration and collective thinking. 
+#### Overview
+Join our legacy of hope and innovation at Pacific Wellness Group - Academic Healthcare Consortium. We are looking for a Medical Assistant II to be a part of our clinic patient care team, performing clinical tasks and procedures to support the delivery of care.
 
-In accordance with applicable Federal and State laws, the anticipated annual salary range for this position is as follows:
+#### Day
+- 08 Hour (United States of America)
 
-- San Francisco, CA: $160,000-$175,000
+#### Responsibilities
+- **C-I-CARE Execution:** Executes world-class service and patient care standards using C-I-CARE templates.
+- **Job Scope:** Includes managing patient portal messages, assisting with physician procedures, and other tasks of moderate scope.
+- **Knowledge:** Advanced understanding of job skills, policies, and procedures.
+- **Supervision Level:** Work reviewed for accuracy and complexity, with increased responsibility in the specialty area.
 
-In addition to a standard benefits package, this role may be eligible for additional contingent compensation based on an array of factors, including but not limited to: work performance, geographic location, work experience, education, and qualifications. Because such contingent compensation is not yet calculable or may be zero ($0) in some circumstances, the above-listed salary range is Maxwell Fairview’s good faith estimate of the annual salary it reasonably expects to pay for the position at the time of this posting.
+#### Education Qualifications
+- High School Diploma or GED required.
+- Medical Assistant Certificate/Diploma from an approved school/institution or equivalent training.
 
-### Job Requirements:
-Our Construction and Real Estate Litigation practice group is seeking to hire a department attorney to join our San Francisco, CA office. The successful candidate will work with our team on California landlord-tenant matters.  
+#### Experience Qualifications
+- One (1) to three (3) years of related experience.
 
-Qualified candidates will have at least three to six years of commercial and real estate litigation experience. Ability to work in a fast-paced client-centric environment with a varied caseload involving complex issues is essential. California Bar admission is required.
+#### Required Knowledge, Skills, and Abilities
+- Professional verbal and written communication skills.
+- Proficiency in computer skills, Microsoft Office, and electronic medical records.
+- Organizational and multi-tasking skills.
 
-Principals Only.
+#### Licenses and Certifications
+- BLS - Basic Life Support required.
 
-Maxwell Fairview LLP is an Equal Opportunity / Affirmative Action Employer.
-Disability / Female / Gender Identity / Minority / Sexual Orientation / Veteran. 
+#### Physical Demands and Work Conditions
+- Various physical activities such as sitting, walking, standing, bending, squatting, etc.
+- Lifting requirements vary from 0 to 40+ lbs.
 
-Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative, we will consider for employment qualified applicants with arrest and conviction records. 
+#### Working Environment
+- Frequent interaction with clinical equipment and machinery.
+- Work with biohazards like bloodborne pathogens.
+- 20% travel requirement.
 
-To comply with Federal law, Maxwell Fairview participates in E-Verify. All newly-hired employees are verified through this electronic system established by the Department of Homeland Security (DHS) and the Social Security Administration (SSA) to confirm their identity and employment eligibility. Please refer to the Notice of E-Verify Participation and the Right to Work posters on the Maxwell Fairview Careers page for more information.
+#### SHC Commitment
+- Providing an exceptional patient and family experience through C-I-CARE framework.
+
+#### Equal Opportunity Employer
+- Pacific Wellness Group is an equal opportunity employer and encourages applications from all individuals regardless of race, color, sex, sexual orientation, gender identity, religion, age, national origin, political beliefs, marital status, medical condition, genetic information, veteran status, or disability.
+
+#### Base Pay Scale
+- Generally starting at $27.47 - $35.02 per hour. Salary based on internal equity, experience, education, specialty, and training.
 
 
 
 
-## Competency 1. **In-depth Legal Expertise in Construction and Real Estate Litigation**
+## Competency 1. **Clinical Expertise**
 
-Demonstrates a robust understanding of commercial and real estate litigation, with the ability to handle a multifaceted caseload involving sophisticated legal issues.
+Demonstrates a refined level of skill in conducting clinical tasks, patient care, and procedures, ensuring high standards of health services are provided.
 
 ### Lead Question
 
-> **Describe a complex construction or real estate litigation case you have handled. What were the key legal issues, and how did you address them? How did you ensure a positive outcome for your client? Were there any unique challenges, and if so, how did you overcome them?** 
+> **Describe a complex clinical procedure you've performed and explain how you prepared for it, managed the tasks involved, and dealt with any complications that arose. What was the outcome?** 
 
-_Look for detailed understanding of legal concepts specific to real estate and construction law, strategic thinking, problem-solving abilities, and successful outcomes._
+_Assess their ability to articulate complex procedures, preparation steps, execution, problem-solving skills, and successful outcomes._
 
 
 ### Scenario
 
-> A client is facing a high-stakes dispute regarding a large construction project, with allegations of contract breach by the contractor. Multiple subcontractors are also involved. How would you navigate this litigation while maintaining the client's interests?
+> Imagine a patient's condition suddenly worsens requiring urgent intervention, but the attending physician is temporarily unavailable. How would you respond?
 
-_Assess strategy formulation, multi-party dynamics management, client focus, and risk assessment._
+_Judge their immediate response, patient care prioritization, emergency protocol knowledge, and communication skills._
 
 ### Diving Deeper
 
-* **Understanding of Construction Law**: "What are the most common types of disputes in construction law you've encountered, and how have you resolved them?"
-* **Real Estate Acumen**: "Can you explain the intricacies involved in a real estate transaction gone to litigation?"
-* **Litigation Strategies**: "How do you develop and adapt your litigation strategy to accommodate different judges, venues, or opposing counsel in real estate cases?"
-* **Client Management in Litigation**: "How do you align client expectations with the realities of litigation in the context of construction and real estate law?"
+* **Clinical Knowledge**: "How do you stay informed about the latest developments in clinical procedures and patient care?"
+* **Patient Management**: "Can you describe a time when you had to prioritize the care of multiple patients simultaneously and how you executed this?"
+* **Procedure Adherence**: "Talk about a specific procedure guideline you follow rigorously and explain its importance in patient outcomes."
+* **Technical Skill**: "Discuss a clinical skill or technique you’ve mastered recently, and tell us what steps you took to become proficient in it."
 
 ### Evaluation
 
 | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
 | -------- | -------- | -------- | -------- | -------- |
-|Minimal knowledge or ability, unclear or incorrect answers.|Basic understanding, lacks depth or strategic thinking.|Competent with room for improvement, shows potential.|Strong grasp of content, strategically and tactically adept.|Expert-level insight, demonstrates superior strategic acumen.|
+|Barely mentions procedure, no clarity on steps or outcomes.|Describes procedure but lacks detail on preparation or problem-solving.|Adequate detailing of procedure, some insight into handling complications.|Clearly explains procedure, preparation, and complication management with a positive outcome.|Expertly articulates procedure steps, preparation, problem-solving, and successful patient outcome.|
 
 
 ### Notes
 
 &nbsp;
 
-## Competency 2. **Analytical and Strategic Problem-Solving**
+## Competency 2. **Communication Mastery**
 
-Exhibits a meticulous approach to analyzing legal issues, devising strategic solutions, and translating complex laws into solid legal arguments.
+Exhibits exceptional verbal and written communication abilities, ensuring effective and empathetic interactions with patients, which is critical to maintaining Pacific Wellness Group's value of Connection.
 
 ### Lead Question
 
-> **Describe a time when you faced a complex legal issue. How did you analyze the situation, develop a strategy, and argue your case? Could you walk us through your thought process and the outcome?** 
+> **Can you recount a time when you had to use your communication skills to explain a complex medical procedure or information to a patient or their family member? How did you make sure they understood, and what was the outcome? Follow-up: Was there a time when the patient was particularly anxious or distressed, and how did you handle this? How do you gauge whether a patient has understood you correctly? Have you ever had to adjust your communication approach based on patient feedback?** 
 
-_Listen for a clear, logical approach, strategic thinking, and the ability to simplify complex concepts and craft persuasive legal arguments._
+_Look for examples illustrating clarity, empathy, and adaptability in communication. Note the ability to gauge understanding, tailor messages to audience needs, and manage patient emotional responses._
 
 
 ### Scenario
 
-> A client is facing a potential lawsuit over a disputed property line. As new constructions are in development, they could infringe on the disputed space. How would you approach the analysis and resolution of this case?
+> A patient is upset about waiting longer than expected for their appointment and expresses frustration when you call them in. Please explain how you would communicate with the patient to de-escalate the situation and maintain the quality of care.
 
-_Expect analytical breakdown of the issue, strategic resolution planning, incorporating client's interests, and clear communication skills._
+_Seek evidence of de-escalation techniques, validation of patient feelings, proactive problem-solving, and maintaining a calm and professional demeanor._
 
 ### Diving Deeper
 
-* **Critical Thinking**: "How do you differentiate between correlation and causation when analyzing case data?"
-* **Decision Making**: "Can you tell us about a difficult legal decision you had to make and how you approached it?"
-* **Legal Research and Interpretation**: "Explain how you stay current with changes in real estate law and apply them to your litigation strategies."
-* **Client-Centric Approach**: "How do you ensure that your legal strategies align with your client's objectives and risk tolerance?"
+* **Empathetic Communication**: "Describe a situation where you had to deliver bad news to a patient. How did you prepare for this, and what strategies did you use to ensure the message was conveyed with compassion?"
+* **Communication Clarity**: "Give an example of a time when you had to simplify complex medical jargon for a patient. How did you ensure they left with a clear understanding of their situation or treatment?"
+* **Responsive Communication**: "Tell me about a time when you received feedback from a patient or colleague that caused you to change your communication style. What modifications did you make, and why?"
+* **Written Communication Proficiency**: "How do you ensure clear, concise, and patient-friendly language is used in written communications such as patient portal messages or care instructions?"
 
 ### Evaluation
 
 | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
 | -------- | -------- | -------- | -------- | -------- |
-|Unstructured thought; misses critical elements.|Basic analysis; simplistic strategy; lacks depth.|Adequate analysis and strategy with minor oversight.|Strong analysis; clear, strategic, client-aligned thinking.|Exceptional insight; strategic mastery; client-focused.|
+|Lacks clarity/empathy; doesn't adapt.|Shows minimal clarity/empathy; struggles to adapt.|Communicates with some clarity and empathy; somewhat adaptable.|Good clarity and empathy; adapts well to situations.|Exceptional clarity, empathy, adaptability; demonstrates mastery.|
 
 
 ### Notes
 
 &nbsp;
 
-## Competency 3. **Exceptional Communication and Persuasion Skills**
+## Competency 3. **Technology Proficiency**
 
-Possesses top-tier communication abilities for effective dialogue with clients and peers, and the skill to persuade in both written and oral advocacy.
+Shows efficient use of medical and office software, including electronic health records and the patient portal system, demonstrating commitment to Pacific Wellness Group's value of Innovation.
 
 ### Lead Question
 
-> **Can you tell us about a time you successfully persuaded a client or colleague to take a particular course of action that they were initially resistant to, and how did you manage to change their perspective?** 
+> **Tell me about a time when you had to learn a new technology or software to improve patient care or office efficiency. How did you approach the learning process, and what was the outcome? Were there any challenges, and how did you overcome them?** 
 
-_Assess the candidate's ability to identify the audience's needs, articulate benefits, tailor the message, handle objections, and achieve the desired outcome._
+_Look for evidence of proactive learning, ability to adapt to new technologies, problem-solving skills, and tangible outcomes that improved care or efficiency._
 
 
 ### Scenario
 
-> Imagine a client is opposed to a settlement offer that you believe is in their best interest. How would you use your communication skills to persuade the client to consider the settlement?
+> Imagine that our clinic just implemented a new feature in our patient portal to allow virtual consultations. How would you go about familiarizing yourself with this new feature, and what steps would you take to encourage adoption among patients?
 
-_Evaluate how the candidate demonstrates understanding the client's position, builds rapport, communicates the offer's advantages, and ethically persuades._
+_Assess the candidate's ability to self-educate on new features, their communication strategy for patient adoption, and consideration of potential barriers._
 
 ### Diving Deeper
 
-* **Active Listening**: "Describe a situation where active listening helped you understand and resolve a client's concern."
-* **Clarity and Articulation**: "Provide an example of a complex legal concept you had to explain to a non-legal audience. How did you ensure they understood?"
-* **Emotional Intelligence**: "Recall a time your emotional intelligence helped navigate and resolve a difficult situation in the workplace. What was your approach?"
-* **Conflict Resolution**: "Tell me about a time you mediated a dispute between parties in a case. How did you persuade each party towards a resolution?"
+* **Electronic Health Records (EHR) Management**: "How do you ensure accuracy and completeness when entering patient data into EHR systems?"
+* **Patient Portal Administration**: "Describe how you have used patient portal systems to enhance patient engagement and communication."
+* **Software Troubleshooting**: "What steps do you take when you encounter an error or issue with a piece of medical software?"
+* **Continual Learning and Upgrading Skills**: "Can you give an example of a time when you had to update your technology skills to stay current with industry changes?"
 
 ### Evaluation
 
 | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
 | -------- | -------- | -------- | -------- | -------- |
-|Inadequate understanding or articulation; no evidence of persuasion.|Limited persuasion; basic communication but lacking depth or efficacy.|Competent communication; some evidence of persuasion and understanding.|Strong, clear communication; good persuasion with some resistance overcome.|Exceptional persuasion and communication; overcomes resistance with ease.|
+|Struggles with basic tech; no proactive learning or problem solving.|Limited tech use; some learning but needs significant help.|Average tech proficiency; basic troubleshooting and learning.|Good tech proficiency; adapts well, actively learns and improves processes.|Advanced tech proficiency; innovates, leads adoption, solves complex issues.|
 
 
 ### Notes
 
 &nbsp;
 
-## Competency 4. **Client-Centric Service Focus**
+## Competency 4. **Patient Service Commitment**
 
-Upholds a client-first approach, preemptively recognizing client requirements and aiming for excellence in legal representation, embodying Maxwell Fairview’s unparalleled service value.
+Consistently applies the C-I-CARE framework to provide top-tier patient service, crucial to achieving Pacific Wellness Group's mission of delivering the best patient experience.
 
 ### Lead Question
 
-> **Can you describe a time when you had to go above and beyond to ensure client satisfaction while maintaining professional integrity, especially in a complex legal scenario? What was the situation, what actions did you take, and what was the outcome?** 
+> **Can you describe a time when you went above and beyond the standard procedures to provide exceptional care to a patient? How did you apply empathy, and what was the outcome? Did you receive any feedback from the patient or your superiors?** 
 
-_Look for examples demonstrating understanding of client needs, taking initiative, providing exceptional service, and balancing professional integrity._
+_Assess application of C-I-CARE principles, empathy, initiative, positive outcomes, and recognition or feedback._
 
 
 ### Scenario
 
-> Imagine you're representing a client who is facing a time-sensitive and complex litigation matter. The client has a limited understanding of the legal processes but insists on a quick resolution. How would you manage their expectations while ensuring a thorough and strategic legal approach?
+> A patient arrives frustrated with a long wait time and is considering leaving your clinic. How would you handle this situation to ensure the patient feels valued and receives the necessary care?
 
-_Assess candidates' ability to manage client expectations, provide clear explanations, and maintain a strategic approach._
+_Effective use of C-I-CARE, de-escalation skills, reassurance tactics, problem-solving, and persuasion to retain patient trust._
 
 ### Diving Deeper
 
-* **Understanding Client Needs**: "How do you approach understanding and prioritizing your clients' goals and expectations in a legal dispute?"
-* **Responsiveness and Communication**: "Give an example of how you have effectively communicated complex legal information to a client to ensure their understanding."
-* **Problem-Solving and Innovation**: "Tell me about a time when you had to find an innovative solution to a client's legal problem. What was innovative about your approach?"
-* **Balancing Client Interests with Ethical Standards**: "How would you handle a situation where a client’s request could potentially conflict with ethical guidelines or legal standards?"
+* **Empathy and Compassion**: "Tell me about a moment when you had to handle a highly sensitive or emotional situation with a patient. How did you manage it?"
+* **Patient Advocacy**: "Give an example of a time when you had to advocate for a patient's needs. What steps did you take and what was the result?"
+* **Communication and Responsiveness**: "How do you ensure effective communication with patients, and what strategies do you use when misunderstandings occur?"
+* **Adaptability and Problem Solving**: "Describe a challenging situation with a patient and how you adapted your approach to meet their needs."
 
 ### Evaluation
 
 | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
 | -------- | -------- | -------- | -------- | -------- |
-|Does not understand clients' needs; ignores professional integrity.|Limited recognition of client needs; struggles to maintain integrity.|Addresses client needs adequately; maintains basic professional integrity.|Actively identifies and fulfills client needs; good professional integrity.|Exemplary understanding and proactive service; impeccable integrity.|
+|Limited empathy, lacks proactive care.|Some empathy, inconsistent care.|Adequate empathy, meets basic care.|Strong empathy, often exceeds care.|Exceptional empathy, consistently exceeds care.|
 
 
 ### Notes
 
 &nbsp;
 
-## Competency 5. **Effective Collaboration and Teamwork**
+## Competency 5. **Collaborative Teamwork**
 
-Thrives in a collaborative environment, contributing to and benefiting from the combined wisdom of the team, in line with Maxwell Fairview’s rich experience value.
+Actively engages with colleagues to foster a cooperative team environment, advancing patient outcomes and embodying Pacific Wellness Group's values of Teamwork and Participation.
 
 ### Lead Question
 
-> **Can you describe a time when you had to collaborate with a team to solve a complex litigation matter? What role did you play in fostering teamwork? How did you ensure all voices were heard? Were there any challenges, and how did you overcome them?** 
+> **Can you tell us about a time when you had to work closely with others to achieve a common goal in a healthcare setting? How did you contribute to the team's success, and what challenges did you face? How did you and the team overcome these challenges, and what was the result?** 
 
-_Look for specific examples of collaborative work, the candidate's ability to facilitate team dynamics, promote inclusivity, and resolve conflicts effectively._
+_Evaluate how the candidate demonstrates effective communication, contribution to team goals, problem-solving skills, and their role in achieving a positive outcome._
 
 
 ### Scenario
 
-> Imagine your team is divided on the best litigation approach to take in a high-profile real estate case. How would you facilitate the decision-making process to reach a unified strategy?
+> Imagine that during your shift, there is an unexpected influx of patients, and the team is overwhelmed. How would you prioritize your tasks, and what actions would you take to maintain collaborative teamwork under this pressure?
 
-_Evaluator should seek demonstration of conflict resolution, decision-making skills, ability to unite the team, and leadership qualities._
+_Assess how the candidate prioritizes tasks, demonstrates flexibility, communicates during high-stress conditions, and supports team under pressure._
 
 ### Diving Deeper
 
-* **Integrative Thinking**: "How do you merge diverse ideas from team members to arrive at a solution that addresses complex legal issues?"
-* **Communication and Influence**: "How have you persuaded your team to adopt a new idea or change direction on a project?"
-* **Conflict Resolution**: "Describe how you resolved a dispute within your team and what the outcome was."
-* **Leadership and Mentoring**: "Tell me about a time you had to lead a legal team. How did you ensure everyone's development and success?"
+* **Communication & Interpersonal Skills**: "Describe a situation where effective communication within a team was critical to patient care. How did you ensure your messages were understood?"
+* **Problem Solving & Adaptability**: "Share an example of when you had to adapt to a sudden change in a team-based care plan. What was your approach?"
+* **Contribution & Leadership**: "How have you balanced following instructions with taking initiative in a team setting in the past?"
+* **Conflict Resolution**: "Discuss a time when you helped resolve a conflict within your team. What steps did you take, and what was the outcome?"
 
 ### Evaluation
 
 | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
 | -------- | -------- | -------- | -------- | -------- |
-|Displays inability to collaborate or resolve conflicts; passive.|Shows minimal effort to engage in teamwork; occasional conflicts.|Generally works well in teams but may struggle with complex conflicts.|Consistently collaborates well and can often resolve conflicts.|Excels at collaboration, seamlessly integrates ideas, and resolves conflicts effectively.|
+|Lacks evidence of effective collaboration.|Shows minimal collaboration; few examples provided.|Adequate collaboration; some team support demonstrated.|Good collaboration; actively supports team and mission.|Excellent collaboration; pivotal in team success and problem resolution.|
 
 
 ### Notes
 
 &nbsp;
 
-## Competency 6. **Adaptability in a Dynamic Environment**
+## Competency 6. **Organizational Efficiency**
 
-Displays flexibility to navigate a fast-evolving legal landscape and the ability to manage concurrent priorities with efficacy.
+Utilizes strong organizational skills and an ability to multitask to enhance operational workflow, reflective of Pacific Wellness Group's commitment to Action.
 
 ### Lead Question
 
-> **Can you describe a situation where you had to adjust your legal strategy due to an unexpected change in legislation or the business environment? How did you approach this challenge, what was the outcome, and what did you learn from the experience?** 
+> **Describe a time when you had to juggle multiple clinical tasks simultaneously while ensuring the accuracy and timeliness of each task. How did you prioritize, and what was the outcome? Were there any tools or strategies you used to maintain efficiency?** 
 
-_Look for evidence of quick thinking, a proactive approach, problem-solving skills, and a positive attitude towards change. Also, evaluate how the outcome reflects flexibility, learning, and strategic adjustment._
+_Look for specific examples demonstrating effective prioritization, use of tools or strategies for efficiency, and successful outcomes. Assess the clarity, relevance, and depth of the response._
 
 
 ### Scenario
 
-> Imagine you are representing a client in a real estate dispute when a new housing regulation that affects your case comes into effect. How would you reassess your case strategy and advise your client?
+> You're responsible for supporting three physicians who are running behind schedule. You have patient messages to manage, an urgent lab result to communicate, and a procedure to set up for. How do you handle this situation?
 
-_Look for analytical skills, strategic thinking, the ability to communicate changes effectively to clients, and an understanding of the implications of new regulations._
+_Evaluate the candidate's approach to managing high-pressure situations, effectiveness in problem-solving, and their ability to integrate the company's values into their response._
 
 ### Diving Deeper
 
-* **Quick Thinking and Responsiveness**: "Tell me about a time when you had to make a quick decision in a complex case. How did you ensure that the decision was well-informed?"
-* **Prioritization and Time Management**: "When managing multiple cases with tight deadlines, how do you determine your priorities and delegate tasks?"
-* **Learning Agility**: "Give an example of how you have had to quickly learn a new area of law or regulation. What approach did you take, and how did it impact your work?"
-* **Embracing Change**: "Share an experience where you embraced a significant change within your practice area. How did you adapt and what was the result?"
+* **Prioritization**: "How do you determine the order in which you should perform tasks when all seem urgent?"
+* **Multitasking**: "Can you provide an example of how you manage several patients' needs at once without compromising care?"
+* **Workflow Optimization**: "Explain how you have previously optimized your workflow in a clinical environment."
+* **Use of Technology**: "What technology or systems have you used to improve your organizational efficiency in past roles?"
 
 ### Evaluation
 
 | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
 | -------- | -------- | -------- | -------- | -------- |
-|Shows resistance to change, inability to adapt quickly.|Struggles with change; adapts, but slowly or reactively.|Adapts to change adequately; shows some proactive strategy.|Adapts well, with proactive strategies and efficiency.|Excels in adaptability, turning changes into opportunities.|
+|Lacks practical examples; poor prioritization and efficiency.|Some example given; basic prioritization but limited efficiency.|Acceptable examples; shows decent prioritization and multitasking skills.|Good examples with clear prioritization; efficient multitasking shown.|Excellent examples; prioritization and multitasking with innovation and action orientation.|
 
 
 ### Notes
 
 &nbsp;
 
-## Competency 7. **Advocacy for Diversity and Inclusion**
+## Competency 7. **Health and Safety Compliance**
 
-Actively promotes and integrates inclusive practices within the legal framework, mirroring Maxwell Fairview’s dedication to respectful inclusion.
+Adheres strictly to safety protocols and clinical policies, ensuring a safe environment when handling biohazards such as bloodborne pathogens.
 
 ### Lead Question
 
-> **Can you describe a situation where you actively advocated for diversity and inclusion in the workplace? How did you recognize a need for it, what did you do, what was the outcome, and how did you gauge its effectiveness?** 
+> **Tell us about a time when you identified a potential health or safety issue while on the job. How did you handle it, and what was the outcome? Can you also describe any changes you suggested to prevent such an issue in the future, and were there any challenges enforcing compliance with these changes?** 
 
-_Seek demonstrations of understanding and commitment to D&I. Look for tangible actions taken, effective outcomes, and methods for assessing impact._
+_Look for specific examples of past experiences, awareness of health and safety issues, proactive and effective response to a situation, follow-through with suggestions and improvements, and ability to ensure compliance._
 
 
 ### Scenario
 
-> Imagine you've joined a team working on a major case, but you notice a lack of diverse perspectives that could potentially enhance the outcome. How would you approach this situation, and what steps might you take to advocate for the inclusion of more diverse viewpoints?
+> Imagine that during a procedure a vial containing a bloodborne pathogen is knocked over and breaks on the floor, how would you respond to this incident?
 
-_Expect strategies to enhance D&I within teams. Evaluate communication, inclusivity in problem-solving, and proactive approach._
+_Look for a structured approach to the emergency, adherence to protocol, prioritization of safety, and communication skills._
 
 ### Diving Deeper
 
-* **Understanding of D&I Importance**: "Why do you believe diversity and inclusion are important in the legal sector, especially within litigation?"
-* **Inclusive Leadership**: "How do you foster an inclusive environment for your team and address conflicts that arise from diversity?"
-* **D&I Policies Implementation**: "Describe how you have contributed to the development or implementation of Diversity and Inclusion policies in a previous role."
-* **Legal Advocacy for D&I**: "Can you give an example of how you have leveraged your legal expertise to advocate for social justice or influence diversity and inclusion positively?"
+* **Risk Identification**: "Describe a situation where you noticed a deviation from safety protocols. What actions did you take?"
+* **Protocol Adherence**: "How do you ensure daily compliance with clinical policies, especially those regarding biohazardous materials?"
+* **Emergency Response**: "If you were exposed to a bloodborne pathogen, what steps would you immediately take?"
+* **Continuous Improvement**: "Can you give an example of how you have contributed to improving health and safety at your workplace?"
 
 ### Evaluation
 
 | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
 | -------- | -------- | -------- | -------- | -------- |
-|Minimal acknowledgement or understanding; passive attitudes toward D&I.|Recognizes importance of D&I; lacking active engagement or examples.|Demonstrates understanding; some action taken, limited effectiveness.|Articulates and acts upon D&I principles; provides robust examples; measures impact.|Champions D&I; substantial impact; sets benchmarks; leads initiatives with measured success.|
+|Little or no evidence of health and safety competency.|Basic recognition but ineffective management of health and safety issues.|Adequate handling and awareness of safety protocols, but not proactive.|Proactive, effective action on health and safety issues with good examples.|Expert handling of safety issues, demonstrating leadership and protocol improvement.|
 
 
 ### Notes
 
 &nbsp;
 
-## Competency 8. **Ethical Judgement and Professional Integrity**
+## Competency 8. **Physical Fitness**
 
-Consistently exhibits ethical behavior and integrity in professional dealings, foundational to earning and preserving unshakeable trust with clients and peers.
+Capable of fulfilling the physical requirements of the role including standing, walking, bending, lifting, and operating clinical machinery.
 
 ### Lead Question
 
-> **Describe a time when you faced an ethical dilemma at work. How did you address it, and what were the outcomes? Did you consult anyone in the decision-making process, and how did you ensure your actions aligned with professional integrity?** 
+> **Describe a time when you had to maintain physical activity for a prolonged period or manage physical demands in a previous role. How did you handle it and what did you learn from that experience?** 
 
-_Evaluate the ethical complexity, recognition of dilemma, process for resolution, consultation with relevant parties, and alignment with integrity._
+_Look for specific past experiences showcasing physical endurance, proper handling of physical tasks, and ability to reflect and improve on physical fitness._
 
 
 ### Scenario
 
-> Imagine you have discovered evidence that could strongly benefit your client's case, but you have reason to believe this evidence was obtained unethically. How would you proceed?
+> Imagine a situation where you are tasked with reorganizing a storage room filled with heavy equipment and supplies. Describe the steps you would take to accomplish this task safely and efficiently.
 
-_Assess for ethical decision-making, consideration of legal standards, impact assessment, and professional integrity._
+_Look for a structured approach, awareness of safety measures, and ability to strategize work to handle physical demands efficiently._
 
 ### Diving Deeper
 
-* **Understanding Ethical Standards**: "Can you provide an example of how you stay informed about updates on ethical standards in the legal profession?"
-* **Balance Professional Duty and Personal Values**: "How do you handle situations where your personal values may conflict with professional responsibilities?"
-* **Maintaining Confidentiality**: "What methods do you use to ensure that sensitive client information remains confidential?"
-* **Accountability for Ethics Violations**: "Tell me about a time when you witnessed a colleague violating professional ethics. What actions did you take?"
+* **Endurance**: "How do you stay fit and what activities do you regularly engage in to ensure you can sustain prolonged physical activity?"
+* **Strength and Agility**: "Can you provide an example of a time when you had to lift a heavy object or perform a task requiring agility at work?"
+* **Health and Safety Awareness**: "How do you ensure your safety and health when performing physically demanding tasks?"
+* **Equipment Handling**: "Describe your experience with operating clinical machinery that requires physical dexterity."
 
 ### Evaluation
 
 | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
 | -------- | -------- | -------- | -------- | -------- |
-|Displays poor recognition; unethical choices made.|Shows basic recognition; minor ethical actions taken.|Adequate recognition; follows ethics but with hesitancy.|Strong recognition and action; consults peers or standards.|Exceptional action; ethical leader, transparent process.|
+|No evidence of physical fitness or relevant experience.|Minimal evidence of physical fitness; vague or limited examples.|Adequate physical fitness; some clear examples provided.|Good physical fitness; multiple clear examples and reflective insights.|Excellent physical fitness; comprehensive and reflective response.|
 
 
 ### Notes
 
 &nbsp;
 
-## Competency 9. **Technological Proficiency**
+## Competency 9. **Continuous Learning**
 
-Leverages advanced technology tools for legal research, case management, and client communication, staying ahead in a tech-driven legal sector.
+Engages in continued education and professional development opportunities to keep skills up-to-date, aligned with Pacific Wellness Group's value of Mentorship.
 
 ### Lead Question
 
-> **Can you describe a time where you utilized a specific technology to optimize a complex legal research task or case management process? How did it improve efficiency, accuracy, or client communication? Were there any challenges you faced, and how did you overcome them?** 
+> **Can you describe a time when you realized there was a gap in your knowledge or skills at work, and tell me how you addressed this? What did you learn from the experience, and how have you applied this new knowledge in a practical way?** 
 
-_Look for specific technology tools mentioned and how they were applied effectively to a legal context. Evaluate the candidate’s problem-solving skills in overcoming challenges with technology._
+_Evaluate for evidence of self-awareness, proactive learning, and practical application of new knowledge or skills._
 
 
 ### Scenario
 
-> Imagine you have been given a large set of legal documents to analyze for potential litigation. The documents are in various formats and contain complex data. Describe how you would leverage technology to efficiently manage, review, and extract relevant information from these documents.
+> Imagine you're assisting with a procedure that's recently been updated due to new research. You have only a foundational understanding of this new method. How would you proceed?
 
-_Look for a structured approach to data management, knowledge of relevant document review tools, attention to efficiency, accuracy, and ability to extract relevant information._
+_Assess for practical steps taken in acquiring new knowledge and collaborating with others while maintaining patient care standards._
 
 ### Diving Deeper
 
-* **Legal Research Technology**: "What legal research platforms are you proficient in, and how do you ensure you are using these tools effectively?"
-* **Case Management Software**: "Which case management software solutions are you familiar with, and what features do you find most beneficial for managing cases?"
-* **Client Communication Platforms**: "In what ways have you utilized technology to improve client communication, and can you provide an example of how you have maintained confidentiality and compliance?"
-* **Adaptability to New Technologies**: "Tell me about a time when you had to quickly adapt to a new technology or software in your legal practice. How did you approach learning it?"
+* **Proactive Skill Enhancement**: "How do you stay current with the latest medical procedures and technologies in your field?"
+* **Learning Agility**: "Tell me about a time when you had to learn something new within a short deadline. How did you manage it?"
+* **Reflective Practice**: "How do you reflect on your work experiences, and how has that helped you improve?"
+* **Application of Learning**: "Provide an example of how you've applied new knowledge or skills to a task or project at work."
 
 ### Evaluation
 
 | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
 | -------- | -------- | -------- | -------- | -------- |
-|Minimal or no relevant technology use mentioned.|Basic technology use mentioned, little to no impact described.|Competent use of technology with average impact and efficiency noted.|Advanced technology use with significant impact and challenges addressed.|Expert technology application with high impact, major efficiency gains, and innovative problem-solving.|
-
-
-### Notes
-
-&nbsp;
-
-## Competency 10. **Commitment to Continuing Legal Education**
-
-Continually seeks knowledge growth and professional development to stay updated with legal trends and regulations, reflecting the firm’s commitment to rich experience and unparalleled service.
-
-### Lead Question
-
-> **Tell me about a recent instance where you engaged in continuing legal education, including its relevance to your practice area. Follow-ups: How did you apply the knowledge gained? Was there a tangible improvement in your work? How do you ensure your ongoing education remains aligned with the firm's objectives and client needs?** 
-
-_Look for specific examples of recent continued education, evidence of application, and alignment with firm goals and client services._
-
-
-### Scenario
-
-> Imagine our firm has recently taken on a case that involves recent changes in real estate law. How would you go about updating your knowledge to effectively handle this case?
-
-_Look for a structured approach to learning, resource identification, timeline for education, and application to the case._
-
-### Diving Deeper
-
-* **Proactive Skill Enhancement**: "Describe a specific skill you’ve proactively enhanced through legal education and how it has contributed to your practice."
-* **Education Relevance and Application**: "How do you choose legal educational activities and what criterion do you use to ensure their relevance to your litigation work?"
-* **Knowledge Sharing**: "Can you provide an example of when you've shared legal insights or updates you've learned with colleagues to enhance team expertise?"
-* **Anticipation of Legal Trends**: "Discuss how you stay ahead of legal trends and regulatory changes within the real estate and litigation field, and its importance for our firm."
-
-### Evaluation
-
-| Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
-| -------- | -------- | -------- | -------- | -------- |
-|Generic response, no examples, or alignment.|Vague examples, minimal alignment with firm goals.|Adequate examples, some relevance and application.|Good examples, clear relevance, effective application.|Excellent examples, strong ties to practice, proactive alignment with firm vision.|
+|Unaware of skill gaps, avoids learning.|Acknowledges gaps, but takes no action.|Learns when necessary, limited application.|Proactively learns, applies knowledge well.|Continuously learns, becomes a knowledge resource.|
 
 
 ### Notes
@@ -474,20 +455,19 @@ _Look for a structured approach to learning, resource identification, timeline f
 
 
 
-## Interview Evaluation for Real Estate Litigation Attorney
+## Interview Evaluation for Medical Assistant II
 
 | Competency | N/A | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1. In-depth Legal Expertise in Construction and Real Estate Litigation | | | | | | |
-| 2. Analytical and Strategic Problem-Solving | | | | | | |
-| 3. Exceptional Communication and Persuasion Skills | | | | | | |
-| 4. Client-Centric Service Focus | | | | | | |
-| 5. Effective Collaboration and Teamwork | | | | | | |
-| 6. Adaptability in a Dynamic Environment | | | | | | |
-| 7. Advocacy for Diversity and Inclusion | | | | | | |
-| 8. Ethical Judgement and Professional Integrity | | | | | | |
-| 9. Technological Proficiency | | | | | | |
-| 10. Commitment to Continuing Legal Education | | | | | | |
+| 1. Clinical Expertise | | | | | | |
+| 2. Communication Mastery | | | | | | |
+| 3. Technology Proficiency | | | | | | |
+| 4. Patient Service Commitment | | | | | | |
+| 5. Collaborative Teamwork | | | | | | |
+| 6. Organizational Efficiency | | | | | | |
+| 7. Health and Safety Compliance | | | | | | |
+| 8. Physical Fitness | | | | | | |
+| 9. Continuous Learning | | | | | | |
 | &nbsp; | | | | | | |
 | &nbsp; | | | | | | |
 | &nbsp; | | | | | | |
