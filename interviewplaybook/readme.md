@@ -13,6 +13,8 @@ Hello, I'm Interview Playbook Generator, a specialized AI tool designed for Huma
 * [Customer Success Manager](examples/customer-success-manager/)
 * [Real Estate Litigator](examples/real-estate-litigator/)
 * [Medical Assistant](examples/medical-assistant/)
+* [Growth Manager](examples/medical-assistant/)
+* [Product Designer](examples/product-designer/)
 
 ## Bots
 
@@ -20,8 +22,10 @@ Hello, I'm Interview Playbook Generator, a specialized AI tool designed for Huma
 
 ## Prompt
 
-* [Prompt for use with GPT-4](prompt.md)
+* [Prompt for use with GPT-4](gpt-prompt.md)
 
-## Jupyter Notebook
+## Jupyter Notebooks
 
-* [Python notebook](notebook.ipynb) for running the assistant with the OpenAI API and rendering a PDF.
+* [Python notebook v1](playbook-generator-v1.ipynb) for running the assistant with the OpenAI API and rendering a Word document.
+* [Python notebook v2](playbook-generator-v2.ipynb) - uses JSON for a more structured approach
+* [Python notebook v3](playbook-generator-v3.ipynb) - uses a megaprompt approach
