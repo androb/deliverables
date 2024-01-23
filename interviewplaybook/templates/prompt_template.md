@@ -7,6 +7,8 @@ date: {{ today's date and time }}
 
 # Interview Guide for {{ role }}
 
+<!-- Your thinking about the guide -->
+
 ## About this Guide
 
 <!-- Your thinking about this section -->
@@ -15,7 +17,7 @@ date: {{ today's date and time }}
 
 ## Job Description
 
-{{ Job description provided by the user with the formatting cleaned up }}
+{{ Job description provided by the user with the formatting cleaned up. Use bold for headings. }}
 
 ## Interview Agenda
 
@@ -31,19 +33,18 @@ date: {{ today's date and time }}
 
 {% for competency in competencies %}
 {{ loop.index }}. **{{ competency[0] }}**: {{ competency[1] }}
+
 {% endfor %}
 
 {% for competency in competencies %}
 
 ## Competency {{ loop.index }}. **{{ competency.title }}**
 
-<!-- your_thinking -->
-
 {{ competency.description }}
 
 ### Lead Question
 
-**&ldquo;{{ competency.leadQuestionWithFollowUps }}&rdquo;**
+**&ldquo;{{ competency.leadQuestion }}&rdquo;** {{ competency.leadQuestionFollowup1 }} {{ competency.leadQuestionFollowup2 }}
 
 &nbsp;
 
@@ -78,13 +79,14 @@ _{{ competency.scenarioWhatToLookFor }}_
 {% for evaluation in competency.evaluation %}
 | {{ evaluation.Rating1 }} | {{ evaluation.Rating2 }} | {{ evaluation.Rating3 }} | {{ evaluation.Rating4 }} | {{ evaluation.Rating5 }} |
 {% endfor %}
+
 {% endfor %}
 
 ## Case Study / Role Play
 
 <!-- your_thinking -->
 
-{{ 3 paragraphs describing a case study for candidates to role play. }}
+{{ Three paragraphs describing a case study for candidates to role play and how to evaluate them. }}
 
 ## Candidate Q&A
 
@@ -94,6 +96,7 @@ _{{ competency.scenarioWhatToLookFor }}_
 
 {% for i in range(6) %}
 **Q. {{ candidateQuestions[i].question }}**
+
 A. {{ candidateQuestions[i].answer }}
 
 {% endfor %}
