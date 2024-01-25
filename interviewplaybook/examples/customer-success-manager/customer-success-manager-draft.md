@@ -1,15 +1,47 @@
---- 
+---
 title: Interview Guide for  Customer Success Manager
 subtitle:  Frontier Shield
 author: Created by [Deliverables AI](https://github.com/androb/deliverables)
-date: January 19, 2024 4:43 PM
+date: January 24, 2024 5:22 PM
 --- 
 
 # Interview Guide for Customer Success Manager
 
+
+
 ## About this Guide
 
-This guide is designed to assist the hiring team at Frontier Shield in identifying and evaluating the best candidates for the Customer Success Manager position. It provides a structured approach to the interview process, ensuring that each candidate is assessed fairly and thoroughly. The guide includes a detailed job description, an interview agenda, a competency framework aligned with Frontier Shield's values, and a case study for role play. Additionally, it offers a set of questions for candidate Q&A and a candidate evaluation scorecard. By following this guide, the hiring team will be able to make informed decisions and select a candidate who not only meets the job requirements but also embodies the values and mission of Frontier Shield.
+This guide is designed for the hiring team at Frontier Shield to evaluate candidates for the Customer Success Manager position. It outlines the process to assess a candidate's fit for the role and the company. The guide includes an interview agenda, a competency framework based on the job description, and a case study relevant to Frontier Shield's mission and values.
+
+The interview agenda provides a structured approach to the interview process, ensuring that all key areas are covered. The competency framework lists the essential skills and attributes required for the role, with questions and scenarios to probe each area. The case study presents a real-world problem for the candidate to solve, demonstrating their ability to apply their skills in a practical context.
+
+The competencies are derived from the job description and the company's values. They cover technical skills, such as knowledge of cybersecurity and CRM platforms, and soft skills, such as communication and customer advocacy. The guide also includes a section for candidate questions and a scorecard for the evaluation of the candidate's performance.
+
+### Interview Agenda
+
+The interview will consist of an introduction, a review of the candidate's experience, a competency assessment, a case study, and a Q&A session. The agenda is designed to flow logically, allowing the candidate to build on their responses and the interviewers to gain a comprehensive understanding of the candidate's abilities.
+
+### Competency Framework
+
+The competency framework for the Customer Success Manager role at Frontier Shield includes both technical and interpersonal skills. The competencies are:
+
+1. Customer Relationship Management
+2. Cybersecurity Knowledge
+3. CRM Platform Proficiency
+4. Communication and Presentation
+5. Analytical Skills
+6. Problem-Solving and Escalation Management
+7. Customer Advocacy and Feedback Integration
+
+Each competency is aligned with Frontier Shield's values, such as "Fearless" for Problem-Solving and Escalation Management, and "Innovative" for Cybersecurity Knowledge.
+
+1. **Customer Relationship Management**: Building and maintaining strong relationships with customers, ensuring their satisfaction and loyalty.
+2. **Cybersecurity Knowledge**: Understanding of cybersecurity solutions and the evolving threat landscape, as mentioned in the job description.
+3. **CRM Platform Proficiency**: Experience with CRM platforms and account management processes, as required by the role.
+4. **Communication and Presentation**: Excellent communication and presentation abilities, essential for training and supporting customers.
+5. **Analytical Skills**: Ability to interpret usage data and identify trends to help customers achieve their security goals.
+6. **Problem-Solving and Escalation Management**: Proven ability to resolve customer issues and manage escalated problems effectively.
+7. **Customer Advocacy and Feedback Integration**: Passion for customer advocacy and the ability to integrate customer feedback into product development.
 
 ## Job Description
 
@@ -20,6 +52,7 @@ Customer Success Manager
 Frontier Shield is seeking a passionate Customer Success Manager to ensure our customers get the maximum value from our cybersecurity solutions. You will be the key point of contact for assigned customers focused on driving adoption, retention, and satisfaction.
 
 **Responsibilities**
+
 - Onboard new customers, conduct training, and provide support to guarantee a smooth implementation.
 - Build close relationships with customers and serve as their trusted advisor for our products and services.
 - Proactively communicate with customers to ensure they are leveraging our solutions effectively and reaching their security goals.
@@ -30,6 +63,7 @@ Frontier Shield is seeking a passionate Customer Success Manager to ensure our c
 - Serve as the voice of the customer and advocate for their needs within our company.
 
 **Requirements**
+
 - 3+ years in a post-sales customer success or account management role, ideally in cybersecurity.
 - Excellent communication and presentation abilities.
 - Strong customer orientation with a passion for customer advocacy.
@@ -38,64 +72,46 @@ Frontier Shield is seeking a passionate Customer Success Manager to ensure our c
 - Knowledge of cybersecurity solutions and the evolving threat landscape.
 - Proven ability to resolve customer issues and de-escalate tensions.
 
-## Interview Agenda
+## About Frontier Shield
+Frontier Shield is a leading cybersecurity software firm based in Silicon Valley. Founded in 2005 by a team of seasoned engineers and entrepreneurs, Frontier Shield specializes in developing cutting-edge security solutions to protect businesses, governments, and individuals from evolving cyber threats.
 
-The interview for the Customer Success Manager position at Frontier Shield will be structured as follows:
+The company's flagship product is Fortify, an adaptive network security platform that uses advanced AI and machine learning to monitor systems, detect anomalies, and automatically respond to cyberattacks in real-time. Fortify's self-learning capabilities allow it to identify new attack patterns and strengthen protection over time. Frontier Shield has customers across finance, healthcare, retail, and other regulated industries managing sensitive data.
 
-1. Introduction (5 minutes)
-   - Welcome the candidate and provide an overview of Frontier Shield.
-2. Role Overview (10 minutes)
-   - Discuss the responsibilities and expectations of the Customer Success Manager role.
-3. Competency-Based Questions (30 minutes)
-   - Assess the candidate's skills and experience relevant to the role.
-4. Situational Scenarios (20 minutes)
-   - Evaluate the candidate's problem-solving and decision-making abilities in hypothetical scenarios.
-5. Case Study / Role Play (30 minutes)
-   - Observe the candidate's practical application of skills in a simulated customer interaction.
-6. Candidate Q&A (15 minutes)
-   - Allow the candidate to ask questions about the role, team, and Frontier Shield.
-7. Closing Remarks (5 minutes)
-   - Thank the candidate for their time and explain the next steps in the hiring process.
+In addition to Fortify, Frontier Shield offers a range of cybersecurity services including penetration testing, security audits, and incident response. The company prides itself on its world-class research team that is constantly analyzing the threat landscape to identify new risks and attack vectors.
 
-## Competency Framework
+Frontier Shield is recognized as an innovator in advanced persistent threat detection and response. With over 500 employees worldwide, the company continues to grow rapidly while attracting top talent in cybersecurity. Its focus remains on developing proactive security solutions to stay ahead of sophisticated threats through continuous innovation.
 
-The competency framework for the Customer Success Manager role at Frontier Shield is designed to assess a candidate's fit for the position based on the knowledge, skills, abilities, and other characteristics (KSAOs) required. The competencies are aligned with Frontier Shield's core values and mission to safeguard a connected world through innovative cybersecurity solutions. Each competency is critical to the role's success and will be evaluated during the interview process.
+## Competency 1. **Customer Relationship Management**
 
-1. **Customer Advocacy**: Demonstrating a strong customer orientation and passion for advocating on behalf of the customer.
-2. **Communication & Presentation**: Possessing excellent verbal and written communication skills, including the ability to present information clearly and persuasively.
-3. **Relationship Building**: The ability to establish and maintain strong relationships with customers, serving as a trusted advisor.
-4. **Analytical Thinking**: Using analytical skills to interpret data and identify trends that inform customer success strategies.
-5. **Cybersecurity Knowledge**: Understanding cybersecurity solutions and the evolving threat landscape to effectively support customers.
-6. **Problem-Solving**: Proven ability to resolve customer issues, troubleshoot problems, and de-escalate tensions.
-7. **CRM Proficiency**: Experience with CRM platforms and account management processes to manage customer interactions efficiently.
 
-1. **Customer Advocacy**: This competency assesses the candidate's dedication to customer success and their ability to act as a customer advocate within Frontier Shield. It is aligned with the company's value of being "Responsive" and "Relentless" in serving customers.
+
+Building and maintaining strong, trusting relationships with customers. Ensuring customer satisfaction and loyalty. Acting as a trusted advisor.
 
 ### Lead Question
 
-**&ldquo;Can you describe a time when you went above and beyond to ensure a customer's success with a product or service?&rdquo;**
+**&ldquo;Can you describe a time when you successfully managed a challenging customer relationship?&rdquo;** Probe for details on how they built trust. Ask about specific strategies they used. Inquire about the outcome.
 
 &nbsp;
 
 &nbsp;
 
-_The interviewer should look for examples of proactive behavior, a deep understanding of customer needs, and the ability to influence internal stakeholders to act in the customer's best interest._
+_Look for evidence of strong interpersonal skills, the ability to understand customer needs, and the capacity to maintain positive relationships._
 
 ### Situational Scenario
 
-**&ldquo;Imagine a customer is struggling to adopt our cybersecurity platform, Fortify, and is considering discontinuing their service. How would you handle this situation?&rdquo;**
+**&ldquo;Imagine a customer is frustrated with the implementation of our cybersecurity solution. How would you handle the situation?&rdquo;**
 
 &nbsp;
 
 &nbsp;
 
-_The interviewer should evaluate the candidate's approach to customer retention, their ability to empathize with the customer, and their strategies for driving product adoption._
+_Look for a structured approach to problem-solving, excellent communication skills, and the ability to de-escalate tensions._
 
 ### Diving Deeper
 
-- &ldquo;How do you measure customer success and satisfaction?&rdquo;
-- &ldquo;What strategies do you use to build trust with new customers?&rdquo;
-- &ldquo;How do you prioritize and manage your time when dealing with multiple customer accounts?&rdquo;
+- &ldquo;How do you tailor your communication style when dealing with different customers?&rdquo;
+- &ldquo;What methods do you use to measure customer satisfaction?&rdquo;
+- &ldquo;How do you ensure customer feedback is acted upon in the company?&rdquo;
 
 &nbsp;
 
@@ -105,35 +121,39 @@ _The interviewer should evaluate the candidate's approach to customer retention,
 
 | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
 | -------- | -------- | -------- | -------- | -------- |
-| Lacks understanding of customer advocacy principles | Shows basic understanding but lacks examples | Demonstrates good customer advocacy with some examples | Exhibits strong customer advocacy with clear examples | Exemplifies exceptional customer advocacy with impactful results |
+| Struggles to build rapport | Builds basic rapport but lacks depth | Maintains good relationships with guidance | Builds strong relationships independently | Excels in creating and nurturing exceptional customer relationships |
 
-2. **Communication & Presentation**: This competency evaluates the candidate's ability to communicate effectively, both in writing and verbally, and to present information in a way that is engaging and persuasive. It is aligned with Frontier Shield's value of being "Fearless" in communication.
+## Competency 2. **Cybersecurity Knowledge**
+
+
+
+Understanding of cybersecurity solutions and the evolving threat landscape. Ability to convey complex security concepts to customers.
 
 ### Lead Question
 
-**&ldquo;How do you tailor your communication style when explaining technical cybersecurity concepts to a non-technical audience?&rdquo;**
+**&ldquo;How do you stay informed about the latest cybersecurity threats and solutions?&rdquo;** Ask about specific resources they use. Inquire about how they translate this knowledge to customer benefits. Discuss how they keep their knowledge current.
 
 &nbsp;
 
 &nbsp;
 
-_The interviewer should look for the candidate's ability to simplify complex information, use of analogies or examples, and adaptability to different audience needs._
+_Look for a commitment to continuous learning and the ability to apply cybersecurity knowledge in a customer success context._
 
 ### Situational Scenario
 
-**&ldquo;You are tasked with presenting our cybersecurity platform, Fortify, to a potential client who is not familiar with AI and machine learning. How would you structure your presentation?&rdquo;**
+**&ldquo;A customer is concerned about a recent high-profile cyberattack. How would you reassure them about the effectiveness of our solutions?&rdquo;**
 
 &nbsp;
 
 &nbsp;
 
-_The interviewer should assess the candidate's presentation skills, their ability to engage the audience, and their effectiveness in conveying the value of the product._
+_Look for an understanding of Frontier Shield's products and the ability to communicate their benefits effectively._
 
 ### Diving Deeper
 
-- &ldquo;Can you provide an example of a difficult conversation you had with a customer and how you handled it?&rdquo;
-- &ldquo;How do you ensure clarity and understanding when communicating with customers via email or phone?&rdquo;
-- &ldquo;What techniques do you use to persuade customers to adopt new features or services?&rdquo;
+- &ldquo;Can you explain a complex cybersecurity concept in simple terms?&rdquo;
+- &ldquo;How would you approach a situation where a customer's security practices are outdated?&rdquo;
+- &ldquo;What is your process for educating customers about new security features?&rdquo;
 
 &nbsp;
 
@@ -143,35 +163,39 @@ _The interviewer should assess the candidate's presentation skills, their abilit
 
 | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
 | -------- | -------- | -------- | -------- | -------- |
-| Struggles to communicate clearly | Communicates adequately but lacks engagement | Communicates clearly with some engagement | Communicates and presents information effectively | Excels in communication and presentation, captivating the audience |
+| Lacks understanding of cybersecurity | Basic understanding but cannot apply knowledge | Solid understanding with some application | Strong understanding and good application | Expert knowledge with excellent application to customer scenarios |
 
-3. **Relationship Building**: This competency focuses on the candidate's ability to create and nurture strong, lasting relationships with customers. It is aligned with Frontier Shield's value of being "Tenacious" in maintaining customer connections.
+## Competency 3. **CRM Platform Proficiency**
+
+
+
+Experience with CRM platforms and account management processes. Ability to leverage these tools to enhance customer success.
 
 ### Lead Question
 
-**&ldquo;What strategies have you found most effective in building and maintaining long-term relationships with customers?&rdquo;**
+**&ldquo;What CRM platforms have you used, and how did you utilize them to manage customer accounts?&rdquo;** Explore their familiarity with different platforms. Discuss how they used the platforms to track customer interactions. Ask about any customizations or integrations they implemented.
 
 &nbsp;
 
 &nbsp;
 
-_The interviewer should look for the candidate's approach to relationship building, consistency in follow-up, and ability to provide ongoing value to customers._
+_Look for proficiency in using CRM tools and the ability to leverage them for effective account management._
 
 ### Situational Scenario
 
-**&ldquo;A long-standing customer has expressed dissatisfaction with recent changes to our services. How would you approach this conversation to reaffirm their trust in Frontier Shield?&rdquo;**
+**&ldquo;You notice a decrease in a customer's product usage through the CRM platform. What steps would you take?&rdquo;**
 
 &nbsp;
 
 &nbsp;
 
-_The interviewer should evaluate the candidate's conflict resolution skills, empathy, and ability to reinforce the customer's value to Frontier Shield._
+_Look for proactive problem-solving and the ability to use data to drive customer engagement._
 
 ### Diving Deeper
 
-- &ldquo;How do you personalize your interactions with different customers?&rdquo;
-- &ldquo;Can you share an experience where you turned a challenging customer relationship into a successful one?&rdquo;
-- &ldquo;What role does active listening play in your relationship-building efforts?&rdquo;
+- &ldquo;How do you ensure data accuracy within the CRM system?&rdquo;
+- &ldquo;Can you describe a time when you used CRM data to identify a customer issue?&rdquo;
+- &ldquo;What features do you find most valuable in a CRM platform for customer success?&rdquo;
 
 &nbsp;
 
@@ -181,35 +205,39 @@ _The interviewer should evaluate the candidate's conflict resolution skills, emp
 
 | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
 | -------- | -------- | -------- | -------- | -------- |
-| Has difficulty building rapport with customers | Builds basic rapport but lacks depth in relationships | Builds good relationships with some lasting connections | Strongly builds and maintains relationships | Exceptionally builds deep and enduring customer relationships |
+| Unfamiliar with CRM platforms | Basic use of CRM platforms | Competent with CRM platforms and their features | Skilled in using CRM platforms to enhance customer success | Expert in CRM platform utilization and optimization for customer success |
 
-4. **Analytical Thinking**: This competency assesses the candidate's ability to analyze customer data and identify trends that can inform strategies for customer success. It is aligned with Frontier Shield's value of being "Innovative" in using data to drive decisions.
+## Competency 4. **Communication and Presentation**
+
+
+
+Excellent communication and presentation abilities. Skill in training and supporting customers through clear and engaging communication.
 
 ### Lead Question
 
-**&ldquo;Can you walk me through a time when you used customer data to make a strategic decision that benefited the customer and the company?&rdquo;**
+**&ldquo;Can you give an example of a complex concept you had to explain to a customer? How did you ensure they understood?&rdquo;** Delve into the methods they used. Ask about the tools or aids they employed. Inquire about the customer's feedback.
 
 &nbsp;
 
 &nbsp;
 
-_The interviewer should look for the candidate's ability to interpret data, draw insights, and apply them to improve customer outcomes._
+_Look for clarity, simplicity in explanation, and the ability to engage the audience._
 
 ### Situational Scenario
 
-**&ldquo;You notice a decrease in usage metrics for a particular feature of Fortify among several customers. How would you investigate and address this trend?&rdquo;**
+**&ldquo;You are conducting a training session for a group of non-technical customers on our cybersecurity platform. How would you prepare and deliver this training?&rdquo;**
 
 &nbsp;
 
 &nbsp;
 
-_The interviewer should assess the candidate's analytical skills, their approach to problem-solving, and their ability to take proactive measures._
+_Look for preparation, adaptability to the audience's level of understanding, and effective communication strategies._
 
 ### Diving Deeper
 
-- &ldquo;How do you ensure the accuracy of the data you use in your analysis?&rdquo;
-- &ldquo;Describe a situation where your data analysis led to a change in strategy or process.&rdquo;
-- &ldquo;What tools or methods do you use to track and analyze customer health metrics?&rdquo;
+- &ldquo;How do you handle questions from customers that you don't immediately know the answer to?&rdquo;
+- &ldquo;What techniques do you use to make your presentations engaging?&rdquo;
+- &ldquo;How do you measure the effectiveness of your communication with customers?&rdquo;
 
 &nbsp;
 
@@ -219,35 +247,39 @@ _The interviewer should assess the candidate's analytical skills, their approach
 
 | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
 | -------- | -------- | -------- | -------- | -------- |
-| Lacks ability to analyze data effectively | Analyzes data but struggles to draw actionable insights | Analyzes data and identifies trends with some actionable insights | Effectively analyzes data and provides strategic recommendations | Expertly analyzes data, driving significant improvements in customer success |
+| Struggles to communicate clearly | Communicates adequately but lacks engagement | Communicates clearly with occasional engagement | Communicates and engages effectively most of the time | Exceptional communicator with consistent engagement and clarity |
 
-5. **Cybersecurity Knowledge**: This competency evaluates the candidate's understanding of cybersecurity solutions and the threat landscape, which is crucial for supporting customers. It is aligned with Frontier Shield's value of being "Evolving" in staying ahead of industry developments.
+## Competency 5. **Analytical Skills**
+
+
+
+Ability to interpret usage data and identify trends. Analytical skills to help customers achieve their security goals.
 
 ### Lead Question
 
-**&ldquo;How do you stay informed about the latest cybersecurity threats and solutions, and how does this knowledge benefit your customers?&rdquo;**
+**&ldquo;Describe a time when you used data to make a decision about a customer account. What was the outcome?&rdquo;** Probe for the type of data used. Ask about the analysis process. Inquire about the impact of the decision.
 
 &nbsp;
 
 &nbsp;
 
-_The interviewer should look for the candidate's commitment to continuous learning and their ability to apply industry knowledge to enhance customer support._
+_Look for the ability to use data to inform decisions and drive customer success._
 
 ### Situational Scenario
 
-**&ldquo;A customer has experienced a security breach and is concerned about the effectiveness of their current cybersecurity measures. How would you reassure and guide them through this crisis?&rdquo;**
+**&ldquo;A customer's usage data shows a pattern of declining engagement. What steps would you take to address this?&rdquo;**
 
 &nbsp;
 
 &nbsp;
 
-_The interviewer should assess the candidate's knowledge of cybersecurity practices, their ability to communicate this knowledge to customers, and their crisis management skills._
+_Look for a methodical approach to data analysis and the ability to create actionable insights._
 
 ### Diving Deeper
 
-- &ldquo;What are some common cybersecurity challenges you've helped customers overcome?&rdquo;
-- &ldquo;How do you explain the benefits of AI and machine learning in cybersecurity to customers?&rdquo;
-- &ldquo;Can you discuss a time when your cybersecurity knowledge directly impacted a customer's security posture?&rdquo;
+- &ldquo;How do you ensure the accuracy of the data you use for analysis?&rdquo;
+- &ldquo;Can you walk me through how you would set up a report to track customer health metrics?&rdquo;
+- &ldquo;What tools do you use for data analysis and why?&rdquo;
 
 &nbsp;
 
@@ -257,35 +289,39 @@ _The interviewer should assess the candidate's knowledge of cybersecurity practi
 
 | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
 | -------- | -------- | -------- | -------- | -------- |
-| Has limited knowledge of cybersecurity | Has basic cybersecurity knowledge but lacks depth | Has good cybersecurity knowledge with some practical application | Has strong cybersecurity knowledge with clear application | Has expert cybersecurity knowledge with significant impact on customer security |
+| Has difficulty interpreting data | Can interpret data with assistance | Competently analyzes data and identifies basic trends | Skilled in data analysis with insightful trend identification | Expert in data analysis with strategic application to customer success |
 
-6. **Problem-Solving**: This competency looks at the candidate's ability to resolve customer issues and troubleshoot problems effectively. It is aligned with Frontier Shield's value of being "Responsive" to customer needs.
+## Competency 6. **Problem-Solving and Escalation Management**
+
+
+
+Proven ability to resolve customer issues and manage escalated problems. Quick troubleshooting to maintain high customer satisfaction.
 
 ### Lead Question
 
-**&ldquo;Describe a complex customer issue you encountered and the steps you took to resolve it.&rdquo;**
+**&ldquo;Tell me about a time when you had to handle an escalated customer issue. What was the result?&rdquo;** Explore the steps they took to resolve the issue. Discuss how they communicated with the customer. Inquire about the lessons learned.
 
 &nbsp;
 
 &nbsp;
 
-_The interviewer should evaluate the candidate's problem-solving process, their resourcefulness, and their ability to maintain customer satisfaction._
+_Look for problem-solving skills, the ability to de-escalate situations, and a focus on customer satisfaction._
 
 ### Situational Scenario
 
-**&ldquo;A customer is facing frequent false positives from their security system, leading to frustration and trust issues. How would you approach this problem to restore their confidence in our solutions?&rdquo;**
+**&ldquo;A customer is experiencing a critical issue with our product during a major security incident. How would you prioritize and address their concerns?&rdquo;**
 
 &nbsp;
 
 &nbsp;
 
-_The interviewer should look for the candidate's technical troubleshooting skills, their communication with the customer during the resolution process, and their follow-up to ensure the issue is fully resolved._
+_Look for prioritization skills, effective communication, and the ability to work under pressure._
 
 ### Diving Deeper
 
-- &ldquo;How do you prioritize and manage multiple customer issues at once?&rdquo;
-- &ldquo;What resources do you rely on when faced with a problem you haven't encountered before?&rdquo;
-- &ldquo;Can you share an example of a time when you successfully de-escalated a tense situation with a customer?&rdquo;
+- &ldquo;How do you balance the need to resolve issues quickly with the need to provide thorough solutions?&rdquo;
+- &ldquo;What is your approach to troubleshooting technical problems for customers?&rdquo;
+- &ldquo;How do you maintain customer trust during and after an escalated issue?&rdquo;
 
 &nbsp;
 
@@ -295,35 +331,39 @@ _The interviewer should look for the candidate's technical troubleshooting skill
 
 | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
 | -------- | -------- | -------- | -------- | -------- |
-| Struggles with problem-solving and issue resolution | Resolves issues but requires significant guidance | Resolves issues effectively with some guidance | Resolves complex issues independently and efficiently | Excels in problem-solving, consistently delivering innovative solutions |
+| Struggles with problem-solving | Can solve basic issues with guidance | Resolves most issues effectively | Skilled in problem-solving and escalation management | Exceptional at resolving complex issues and maintaining customer trust |
 
-7. **CRM Proficiency**: This competency assesses the candidate's experience with CRM platforms and their ability to manage customer interactions and account management processes. It is aligned with Frontier Shield's value of being "Tenacious" in managing customer data.
+## Competency 7. **Customer Advocacy and Feedback Integration**
+
+
+
+Passion for customer advocacy and the ability to integrate customer feedback into product development. Serving as the voice of the customer.
 
 ### Lead Question
 
-**&ldquo;What CRM systems are you familiar with, and how have you used them to enhance customer relationships?&rdquo;**
+**&ldquo;How do you advocate for customers within the company? Can you provide an example?&rdquo;** Ask about specific instances where they influenced product changes. Discuss how they gather and present feedback. Inquire about the impact of their advocacy.
 
 &nbsp;
 
 &nbsp;
 
-_The interviewer should look for the candidate's proficiency with CRM tools, their ability to leverage these systems for customer success, and their experience in streamlining account management processes._
+_Look for a strong customer orientation and the ability to influence internal stakeholders._
 
 ### Situational Scenario
 
-**&ldquo;You are tasked with improving the account management process using our CRM system. What changes would you implement to increase efficiency and customer satisfaction?&rdquo;**
+**&ldquo;You receive consistent feedback from multiple customers about a desired feature. How do you bring this to the attention of the product team?&rdquo;**
 
 &nbsp;
 
 &nbsp;
 
-_The interviewer should assess the candidate's understanding of CRM capabilities, their approach to process improvement, and their focus on customer-centric outcomes._
+_Look for strategic thinking and the ability to effectively communicate customer needs._
 
 ### Diving Deeper
 
-- &ldquo;How do you ensure data integrity within the CRM system?&rdquo;
-- &ldquo;Describe a time when you used CRM data to identify an opportunity for customer account expansion.&rdquo;
-- &ldquo;What features do you find most valuable in a CRM system for managing customer success?&rdquo;
+- &ldquo;How do you prioritize customer feedback when presenting to the product team?&rdquo;
+- &ldquo;Can you describe a time when customer feedback led to a significant product improvement?&rdquo;
+- &ldquo;What methods do you use to collect and analyze customer feedback?&rdquo;
 
 &nbsp;
 
@@ -333,49 +373,64 @@ _The interviewer should assess the candidate's understanding of CRM capabilities
 
 | Rating 1 | Rating 2 | Rating 3 | Rating 4 | Rating 5 |
 | -------- | -------- | -------- | -------- | -------- |
-| Lacks familiarity with CRM systems | Has basic CRM proficiency but limited application | Has good CRM proficiency with some strategic use | Has strong CRM proficiency with effective application | Has expert CRM proficiency, driving significant improvements in account management |
+| Lacks focus on customer advocacy | Occasionally advocates for customers | Regularly advocates for customers with some success | Strong advocate for customers with notable impact | Champion for customer needs with significant influence on product development |
 
-## Case Study / Role Play
+## Case Study
 
-During the interview, candidates will be presented with a case study that simulates a real-world scenario they might encounter as a Customer Success Manager at Frontier Shield. The case study will involve a customer experiencing challenges with the adoption of Fortify, our cybersecurity platform. Candidates will be asked to role play their response to the situation, demonstrating their problem-solving skills, customer advocacy, and knowledge of cybersecurity solutions.
 
-The hiring team will evaluate candidates based on their ability to empathize with the customer, communicate effectively, and provide a strategic solution that aligns with Frontier Shield's values and mission. The role play will also assess the candidate's proficiency with CRM systems and their analytical thinking in interpreting customer data to inform their approach.
+
+Frontier Shield is facing a challenge with a new client in the healthcare industry who is not fully utilizing the Fortify platform. The client's user adoption rate is low, and they have not integrated the platform into their daily operations, leading to potential security risks.
+
+The candidate is provided with user adoption metrics, support request logs, and feedback from the client's staff. They must analyze the data to identify the root cause of the low adoption rate, propose a strategy to increase engagement, outline potential risks, and suggest metrics for success.
+
+A successful solution will demonstrate the candidate's ability to understand the client's needs, communicate effectively, and drive adoption of the Fortify platform. The solution should consider budget constraints, the sensitive nature of healthcare data, and regulatory compliance.
+
+The candidate's solution will be evaluated based on its feasibility, the clarity of the proposed strategy, the identification of potential risks, and the alignment with Frontier Shield's mission and values.
 
 ## Candidate Q&A
 
-At the end of the interview, candidates will have the opportunity to ask questions about the role, Frontier Shield, and any other topics they are interested in. This session is crucial for assessing the candidate's level of interest in the position and their understanding of the company's mission and values. It also provides insight into the candidate's priorities and how they envision their future with Frontier Shield.
 
-**Q. What does a typical day look like for a Customer Success Manager at Frontier Shield?**
-A. A typical day involves monitoring customer health metrics, engaging with customers to drive product adoption, identifying growth opportunities, and collaborating with cross-functional teams to advocate for customer needs.
 
-**Q. How does Frontier Shield measure the success of a Customer Success Manager?**
-A. Success is measured by customer satisfaction scores, retention rates, account growth, and the ability to influence product improvements based on customer feedback.
+The Q&A session is an opportunity for candidates to inquire about the Customer Success Manager role, Frontier Shield's products and services, and the company culture. It's a chance for the interviewers to gauge the candidate's interest and fit for the role.
 
-**Q. What are the biggest challenges a Customer Success Manager at Frontier Shield might face?**
-A. Challenges include staying ahead of the evolving threat landscape, managing complex customer issues, and ensuring customers fully leverage our cybersecurity solutions.
+**Q. What are the main challenges a Customer Success Manager at Frontier Shield faces?**
+
+A. Discuss the evolving cybersecurity landscape and the need to keep customers engaged and informed.
+
+**Q. How does Frontier Shield ensure continuous innovation in its cybersecurity solutions?**
+
+A. Highlight Frontier Shield's commitment to research and development and its focus on AI and machine learning.
 
 **Q. Can you describe the team I would be working with?**
-A. You would be part of a dynamic team of customer success professionals who are passionate about cybersecurity and dedicated to providing exceptional customer service.
+
+A. Provide details about the customer success team's structure, roles, and collaboration with other departments.
+
+**Q. What does a typical customer onboarding process look like at Frontier Shield?**
+
+A. Outline the steps from initial contact to full implementation and ongoing support.
+
+**Q. How does Frontier Shield measure the success of a Customer Success Manager?**
+
+A. Explain the key performance indicators, such as customer satisfaction scores, retention rates, and expansion opportunities.
 
 **Q. What opportunities for professional development does Frontier Shield offer?**
-A. Frontier Shield offers ongoing training, access to industry events, and opportunities for career advancement within the customer success and broader cybersecurity teams.
 
-**Q. How does Frontier Shield stay ahead in the competitive cybersecurity market?**
-A. We prioritize continuous innovation, advanced research, and a commitment to developing proactive security solutions that address emerging threats.
+A. Describe the training programs, mentorship opportunities, and career progression paths available to employees.
 
 ## Candidate Evaluation
 
-Complete the following scorecard for the Customer Success Manager role at Frontier Shield. Refer to the evaluation guides for each competency to determine the candidate's score.
+Complete the following scorecard for the Customer Success Manager role at Frontier Shield. Refer to the evaluation guides for 
+each competency to determine the candidate's score.
 
 | Competency | Rating (1-5) | Interviewer Comments |
 | --- | --- | --- |
-| Customer Advocacy |   |   |
-| Communication & Presentation |   |   |
-| Relationship Building |   |   |
-| Analytical Thinking |   |   |
+| Customer Relationship Management |   |   |
 | Cybersecurity Knowledge |   |   |
-| Problem-Solving |   |   |
-| CRM Proficiency |   |   |
+| CRM Platform Proficiency |   |   |
+| Communication and Presentation |   |   |
+| Analytical Skills |   |   |
+| Problem-Solving and Escalation Management |   |   |
+| Customer Advocacy and Feedback Integration |   |   |
 | &nbsp; | | |
 | **Total** |   |   |
 
